@@ -1,4 +1,4 @@
-path: D:/School/Projects/Isurance/ml/artifacts/yolo_plate_dataset
+path: C:/Users/bristimaharjan/Downloads/License/Isurance/ml/artifacts/yolo_plate_dataset
 train: images/train
 val: images/val
 test: images/test

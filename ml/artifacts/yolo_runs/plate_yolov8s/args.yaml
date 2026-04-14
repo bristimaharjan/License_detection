@@ -1,7 +1,7 @@
 task: detect
 mode: train
 model: yolov8s.pt
-data: D:\School\Projects\Isurance\ml\artifacts\yolo_plate_dataset\dataset.yaml
+data: C:\Users\bristimaharjan\Downloads\License\Isurance\ml\artifacts\yolo_plate_dataset\dataset.yaml
 epochs: 80
 time: null
 patience: 100
@@ -12,7 +12,7 @@ save_period: -1
 cache: false
 device: '0'
 workers: 0
-project: D:\School\Projects\Isurance\ml\artifacts\yolo_runs
+project: C:\Users\bristimaharjan\Downloads\License\Isurance\ml\artifacts\yolo_runs
 name: plate_yolov8s
 exist_ok: true
 pretrained: true
@@ -107,4 +107,4 @@ auto_augment: randaugment
 erasing: 0.4
 cfg: null
 tracker: botsort.yaml
-save_dir: D:\School\Projects\Isurance\ml\artifacts\yolo_runs\plate_yolov8s
+save_dir: C:\Users\bristimaharjan\Downloads\License\Isurance\ml\artifacts\yolo_runs\plate_yolov8s

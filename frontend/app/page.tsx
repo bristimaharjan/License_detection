@@ -270,19 +270,9 @@ export default function HomePage() {
             <strong>Overall Accuracy:</strong>{" "}
             {formatMetric(metrics?.yolo_summary?.metrics?.overall_accuracy ?? null)}
           </p>
-          <p className="metricSub" style={{ marginTop: "0.35rem" }}>
-            Detection accuracy is reported as mAP@0.50 for this single-class model.
-          </p>
+        
         </div>
 
-        <div className="metricsGrid">
-          {yoloMetricsEntries.map(([label, value]) => (
-            <div key={label} className="metricCard">
-              <p className="metricLabel">{label}</p>
-              <p className="metricValue">{formatMetric(value)}</p>
-            </div>
-          ))}
-        </div>
 
         {splitEntries.length > 0 ? (
           <div style={{ marginTop: "1rem" }}>
@@ -300,12 +290,7 @@ export default function HomePage() {
           </div>
         ) : null}
 
-        <div style={{ marginTop: "1rem" }}>
-          <p className="metricSub">Model: {metrics?.yolo_summary?.model_name ?? "-"}</p>
-          <p className="metricSub">Run: {metrics?.yolo_summary?.run_name ?? "-"}</p>
-          <p className="metricSub">Image Size: {metrics?.yolo_summary?.img_size ?? "-"}</p>
-          <p className="metricSub">Epochs: {metrics?.yolo_summary?.epochs ?? "-"}</p>
-        </div>
+    
       </section>
     </main>
   );
