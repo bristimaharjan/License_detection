@@ -266,11 +266,18 @@ export default function HomePage() {
         {metricsError ? <p className="subtitle">{metricsError}</p> : null}
 
         <div className="result" style={{ marginBottom: "1rem" }}>
-          <p style={{ margin: 0 }}>
+          <p style={{ margin: "0 0 0.5rem 0" }}>
             <strong>Overall Accuracy:</strong>{" "}
             {formatMetric(metrics?.yolo_summary?.metrics?.overall_accuracy ?? null)}
           </p>
-        
+          <p style={{ margin: "0 0 0.5rem 0" }}>
+            <strong>Precision:</strong>{" "}
+            {formatMetric(metrics?.yolo_summary?.metrics?.test_precision ?? null)}
+          </p>
+          <p style={{ margin: 0 }}>
+            <strong>Recall:</strong>{" "}
+            {formatMetric(metrics?.yolo_summary?.metrics?.test_recall ?? null)}
+          </p>
         </div>
 
 
