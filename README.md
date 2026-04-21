@@ -1,10 +1,10 @@
-# License Plate ML System (KNN + API + Next.js)
+# License Plate ML System YOLO + API + Next.js
 
 For CUDA-enabled PyTorch notebook setup, see `ml/CUDA_SETUP.md`.
 
 This repository extends the original OpenCV plate project into a full, production-oriented system with:
 
-- ML pipeline (`ml/`) for training and evaluation (KNN)
+- ML pipeline (`ml/`) for training and evaluation (YOLO)
 - Backend API (`backend/`) using Node.js + Express + TypeScript
 - Frontend app (`frontend/`) using Next.js + TypeScript
 - Data workflow (`data/`) with Kaggle integration instructions
