@@ -40,6 +40,7 @@ conda activate lpr-knn
 ## 2. Dataset Setup (Kaggle)
 
 Create Kaggle API credentials at `~/.kaggle/kaggle.json`, then:
+https://www.kaggle.com/datasets/andrewmvd/car-plate-detection
 
 ```bash
 python ml/scripts/download_kaggle_dataset.py --dataset <owner/dataset-name> --output-dir data/raw
