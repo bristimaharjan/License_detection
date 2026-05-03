@@ -1,4 +1,11 @@
+/* ============================================================
+   global.css — PlateVision Design System
+   Place this file at: app/globals.css
+   ============================================================ */
+
+/* ── 1. CSS Variables ──────────────────────────────────────── */
 :root {
+  /* Brand palette */
   --bg: #f6efe5;
   --ink: #1f1d1a;
   --card: #fffaf2;
@@ -6,35 +13,56 @@
   --accent-2: #2f7e84;
   --muted: #6d665f;
   --ring: rgba(202, 85, 41, 0.25);
+
+  /* Typography — injected by Next.js font variables in layout.tsx */
+  --font-sans: var(--font-sans);       /* DM Sans */
+  --font-display: var(--font-display); /* DM Serif Display */
 }
 
-* {
+/* ── 2. Reset ──────────────────────────────────────────────── */
+*,
+*::before,
+*::after {
   box-sizing: border-box;
-}
-
-html,
-body {
   margin: 0;
   padding: 0;
-  font-family: "Trebuchet MS", "Segoe UI", sans-serif;
+}
+
+/* ── 3. Base ───────────────────────────────────────────────── */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-sans), "Trebuchet MS", "Segoe UI", sans-serif;
   color: var(--ink);
   background:
-    radial-gradient(circle at 10% 10%, rgba(202, 85, 41, 0.16), transparent 45%),
-    radial-gradient(circle at 92% 80%, rgba(47, 126, 132, 0.2), transparent 38%),
+    radial-gradient(circle at 8% 12%, rgba(202, 85, 41, 0.18), transparent 42%),
+    radial-gradient(circle at 90% 78%, rgba(47, 126, 132, 0.22), transparent 38%),
+    radial-gradient(circle at 55% 50%, rgba(47, 126, 132, 0.06), transparent 60%),
     var(--bg);
-  min-height: 100%;
+  min-height: 100vh;
+  overflow-x: hidden;
+  line-height: 1.6;
 }
 
 a {
   color: inherit;
 }
 
-main {
-  max-width: 1100px;
-  margin: 0 auto;
-  padding: 2rem 1rem 4rem;
+img,
+video {
+  max-width: 100%;
+  display: block;
 }
 
+/* ── 4. Shared layout ──────────────────────────────────────── */
+main {
+  /* Each section manages its own max-width and padding */
+  width: 100%;
+}
+
+/* ── 5. Panel / card base ──────────────────────────────────── */
 .panel {
   background: var(--card);
   border: 1px solid rgba(31, 29, 26, 0.12);
@@ -43,17 +71,7 @@ main {
   box-shadow: 0 16px 38px rgba(31, 29, 26, 0.09);
 }
 
-.title {
-  font-size: clamp(1.75rem, 2.6vw, 2.8rem);
-  letter-spacing: 0.04em;
-  margin-bottom: 0.5rem;
-}
-
-.subtitle {
-  color: var(--muted);
-  margin-top: 0;
-}
-
+/* ── 6. Dropzone ───────────────────────────────────────────── */
 .dropzone {
   border: 2px dashed rgba(31, 29, 26, 0.25);
   border-radius: 16px;
@@ -69,6 +87,7 @@ main {
   transform: translateY(-2px);
 }
 
+/* ── 7. Buttons ────────────────────────────────────────────── */
 .button {
   display: inline-flex;
   align-items: center;
@@ -80,6 +99,13 @@ main {
   font-weight: 600;
   padding: 0.75rem 1.1rem;
   cursor: pointer;
+  font-family: inherit;
+  transition: opacity 180ms, transform 180ms;
+}
+
+.button:hover {
+  opacity: 0.9;
+  transform: translateY(-1px);
 }
 
 .button[disabled] {
@@ -87,6 +113,7 @@ main {
   cursor: not-allowed;
 }
 
+/* ── 8. Image preview + detection overlay ──────────────────── */
 .preview {
   width: 100%;
   max-height: 430px;
@@ -122,6 +149,7 @@ main {
   white-space: nowrap;
 }
 
+/* ── 9. Detection list ─────────────────────────────────────── */
 .detectionList p {
   padding: 0.35rem 0.45rem;
   margin: 0.35rem 0;
@@ -130,6 +158,7 @@ main {
   border: 1px solid rgba(47, 126, 132, 0.2);
 }
 
+/* ── 10. Result / Error boxes ──────────────────────────────── */
 .result {
   border-radius: 14px;
   border: 1px solid rgba(47, 126, 132, 0.35);
@@ -144,11 +173,20 @@ main {
   padding: 0.95rem;
 }
 
+/* ── 11. Grid ──────────────────────────────────────────────── */
 .grid {
   display: grid;
   gap: 1rem;
 }
 
+@media (min-width: 860px) {
+  .grid {
+    grid-template-columns: 1fr 1.25fr;
+    align-items: start;
+  }
+}
+
+/* ── 12. Sample chips ──────────────────────────────────────── */
 .sampleList {
   display: flex;
   flex-wrap: wrap;
@@ -162,6 +200,7 @@ main {
   color: var(--ink);
   padding: 0.4rem 0.75rem;
   cursor: pointer;
+  font-family: inherit;
   transition: transform 140ms ease, box-shadow 140ms ease;
 }
 
@@ -175,6 +214,7 @@ main {
   cursor: not-allowed;
 }
 
+/* ── 13. Metrics grid ──────────────────────────────────────── */
 .metricsGrid {
   display: grid;
   gap: 0.7rem;
@@ -207,6 +247,7 @@ main {
   font-size: 0.9rem;
 }
 
+/* ── 14. Tables ────────────────────────────────────────────── */
 .tableWrap {
   overflow-x: auto;
 }
@@ -229,9 +270,11 @@ th {
   font-weight: 600;
 }
 
-@media (min-width: 860px) {
-  .grid {
-    grid-template-columns: 1fr 1.25fr;
-    align-items: start;
-  }
+/* ── 15. Footer ────────────────────────────────────────────── */
+footer {
+  text-align: center;
+  padding: 2rem;
+  color: var(--muted);
+  font-size: 0.82rem;
+  border-top: 1px solid rgba(31, 29, 26, 0.1);
 }
