@@ -56,7 +56,7 @@ A conversion script is included to build a demo character dataset from the legac
 python ml/scripts/build_demo_dataset_from_legacy.py
 ```
 
-## 3. Train the KNN Model
+## 3. Train the YOLO Model
 
 ```bash
 python -m ml.src.train --dataset-dir data/raw/character_dataset --artifacts-dir ml/artifacts
@@ -64,7 +64,7 @@ python -m ml.src.train --dataset-dir data/raw/character_dataset --artifacts-dir 
 
 Outputs:
 
-- `ml/artifacts/knn_model.joblib`
+- `ml/artifacts/yolo_model.joblib`
 - `ml/artifacts/metrics.json`
 - `ml/artifacts/classification_report.json`
 - `ml/artifacts/seed_evaluation.json`
