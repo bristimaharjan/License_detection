@@ -56,7 +56,7 @@ A conversion script is included to build a demo character dataset from the legac
 python ml/scripts/build_demo_dataset_from_legacy.py
 ```
 
-## 3. Train the KNN Model
+## 3. Train the YOLO Model
 
 ```bash
 python -m ml.src.train --dataset-dir data/raw/character_dataset --artifacts-dir ml/artifacts
@@ -136,7 +136,7 @@ Latest generated metrics (demo dataset):
 - Precision (weighted): `0.8565`
 - Recall (weighted): `0.8889`
 - F1 (weighted): `0.8657`
-- Best KNN params: `n_neighbors=1, weights=uniform, metric=minkowski`
+
 
 ## 9. Notes for Production
 
