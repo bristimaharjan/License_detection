@@ -1,31 +1,14 @@
-import type { Metadata } from "next";
-import Navbar from "@/components/home/Navbar";
-import HeroSection from "@/components/home/HeroSection";
-import StatsStrip from "@/components/home/StatsStrip";
-import FeaturesSection from "@/components/home/FeaturesSection";
-import HowItWorks from "@/components/home/HowItWorks";
-import CtaBanner from "@/components/home/CtaBanner";
+import Link from "next/link";
 
-export const metadata: Metadata = {
-  title: "PlateVision — YOLO License Plate Detection",
-  description:
-    "Upload any vehicle image and run backend YOLOv8 inference. Instantly detect license plates with confidence scores and model metrics.",
-};
-
-export default function HomePage() {
+export default function Home() {
   return (
-    <>
-      <Navbar />
-      <main>
-        <HeroSection />
-        <StatsStrip />
-        <FeaturesSection />
-        <HowItWorks />
-        <CtaBanner />
-      </main>
-      <footer>
-        Built with YOLOv8 · PlateVision Detection System · 2025
-      </footer>
-    </>
+    <div className="h-screen flex items-center justify-center">
+      <Link
+        href="/dashboard"
+        className="px-6 py-3 bg-blue-600 text-white rounded-lg"
+      >
+        Go to Dashboard
+      </Link>
+    </div>
   );
 }
