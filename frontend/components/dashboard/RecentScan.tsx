@@ -179,7 +179,7 @@ export default function RecentScans({ scans }: { scans: ScanHistoryEntry[] }) {
               </svg>
             </div>
             <div>
-              <p className="text-base font-semibold text-gray-900">Recent Scans</p>
+              <p className="text-base font-semibold text-blue-600">Recent Scans</p>
               <p className="text-xs text-gray-400">
                 {counts.All} {counts.All === 1 ? "scan" : "scans"} this session
               </p>

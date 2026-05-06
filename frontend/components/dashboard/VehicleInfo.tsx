@@ -71,7 +71,7 @@ export default function VehicleInfo({ result, loading }: VehicleInfoProps) {
       <div className="bg-white rounded-2xl border border-gray-200 shadow-sm p-6">
         <div className="flex items-center justify-between pb-4 border-b border-gray-100">
           <div>
-            <h3 className="text-base font-semibold text-gray-900">
+            <h3 className="text-base font-semibold text-blue-600">
               Vehicle Information
             </h3>
             <p className="text-sm text-gray-500">
@@ -106,7 +106,7 @@ export default function VehicleInfo({ result, loading }: VehicleInfoProps) {
       {/* Header */}
       <div className="flex items-center justify-between pb-4 border-b border-gray-100">
         <div>
-          <h3 className="text-base font-semibold text-gray-900">
+          <h3 className="text-base font-semibold text-blue-600">
             Vehicle Information
           </h3>
           <p className="text-sm text-gray-500">

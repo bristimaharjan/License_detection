@@ -30,7 +30,17 @@ const FLAG_REASONS = [
 function Backdrop({ onClose, children }: { onClose: () => void; children: React.ReactNode }) {
   return (
     <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/40 backdrop-blur-sm" onClick={onClose}>
-      <div className="bg-white rounded-2xl shadow-2xl w-full max-w-lg mx-4 overflow-hidden animate-in" onClick={(e) => e.stopPropagation()}>
+      <div className="relative bg-white rounded-2xl shadow-2xl w-full max-w-lg mx-4 overflow-hidden animate-in" onClick={(e) => e.stopPropagation()}>
+        <button
+          onClick={onClose}
+          className="absolute top-4 right-4 z-10 w-8 h-8 flex items-center justify-center rounded-full bg-gray-100 hover:bg-gray-200 text-gray-500 hover:text-gray-700 transition-colors"
+          aria-label="Close"
+        >
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
+            <line x1="18" y1="6" x2="6" y2="18" />
+            <line x1="6" y1="6" x2="18" y2="18" />
+          </svg>
+        </button>
         {children}
       </div>
     </div>
@@ -67,14 +77,36 @@ function IssueFineModal({ vehicle, onClose }: { vehicle: VehicleRecord; onClose:
   const [notes, setNotes] = useState("");
   const [submitting, setSubmitting] = useState(false);
   const [done, setDone] = useState(false);
+  const [submitError, setSubmitError] = useState<string | null>(null);
 
   const handleSubmit = async () => {
     if (!reason) return;
     setSubmitting(true);
-    // Simulate API call
-    await new Promise((r) => setTimeout(r, 1200));
-    setSubmitting(false);
-    setDone(true);
+    setSubmitError(null);
+    try {
+      const apiUrl = process.env.NEXT_PUBLIC_API_URL || "http://localhost:4000";
+      const res = await fetch(`${apiUrl}/api/issue-fine`, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          plate_number: vehicle.plate_number,
+          owner_name: vehicle.owner_name,
+          vehicle_year: vehicle.vehicle_year,
+          vehicle_make: vehicle.vehicle_make,
+          vehicle_model: vehicle.vehicle_model,
+          reason, amount, notes,
+        }),
+      });
+      if (!res.ok) {
+        const body = await res.json().catch(() => ({}));
+        throw new Error(body.error || "Failed to issue fine");
+      }
+      setDone(true);
+    } catch (err) {
+      setSubmitError(err instanceof Error ? err.message : "Something went wrong");
+    } finally {
+      setSubmitting(false);
+    }
   };
 
   if (done) {
@@ -126,6 +158,9 @@ function IssueFineModal({ vehicle, onClose }: { vehicle: VehicleRecord; onClose:
             <label className="block text-sm font-medium text-gray-700 mb-1.5">Additional Notes</label>
             <textarea value={notes} onChange={(e) => setNotes(e.target.value)} rows={2} placeholder="Optional details about the violation..." className="w-full border border-gray-200 rounded-lg px-3 py-2.5 text-sm outline-none focus:ring-2 focus:ring-blue-100 focus:border-blue-300 resize-none" />
           </div>
+          {submitError && (
+            <p className="text-sm text-red-600 bg-red-50 p-2 rounded-lg">⚠ {submitError}</p>
+          )}
         </div>
 
         <div className="flex gap-3 mt-6">
@@ -145,13 +180,36 @@ function FlagVehicleModal({ vehicle, onClose }: { vehicle: VehicleRecord; onClos
   const [notes, setNotes] = useState("");
   const [submitting, setSubmitting] = useState(false);
   const [done, setDone] = useState(false);
+  const [submitError, setSubmitError] = useState<string | null>(null);
 
   const handleSubmit = async () => {
     if (!reason) return;
     setSubmitting(true);
-    await new Promise((r) => setTimeout(r, 1200));
-    setSubmitting(false);
-    setDone(true);
+    setSubmitError(null);
+    try {
+      const apiUrl = process.env.NEXT_PUBLIC_API_URL || "http://localhost:4000";
+      const res = await fetch(`${apiUrl}/api/flag-vehicle`, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          plate_number: vehicle.plate_number,
+          owner_name: vehicle.owner_name,
+          vehicle_year: vehicle.vehicle_year,
+          vehicle_make: vehicle.vehicle_make,
+          vehicle_model: vehicle.vehicle_model,
+          reason, notes,
+        }),
+      });
+      if (!res.ok) {
+        const body = await res.json().catch(() => ({}));
+        throw new Error(body.error || "Failed to flag vehicle");
+      }
+      setDone(true);
+    } catch (err) {
+      setSubmitError(err instanceof Error ? err.message : "Something went wrong");
+    } finally {
+      setSubmitting(false);
+    }
   };
 
   if (done) {
@@ -205,6 +263,9 @@ function FlagVehicleModal({ vehicle, onClose }: { vehicle: VehicleRecord; onClos
             <label className="block text-sm font-medium text-gray-700 mb-1.5">Details / Notes *</label>
             <textarea value={notes} onChange={(e) => setNotes(e.target.value)} rows={3} placeholder="Provide details about the incident or reason for flagging..." className="w-full border border-gray-200 rounded-lg px-3 py-2.5 text-sm outline-none focus:ring-2 focus:ring-red-100 focus:border-red-300 resize-none" />
           </div>
+          {submitError && (
+            <p className="text-sm text-red-600 bg-red-50 p-2 rounded-lg">⚠ {submitError}</p>
+          )}
         </div>
 
         <div className="flex gap-3 mt-6">

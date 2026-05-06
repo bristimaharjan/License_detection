@@ -2,6 +2,7 @@ import cors from "cors";
 import express from "express";
 
 import { inferenceRoutes } from "./routes/inferenceRoutes.js";
+import { actionRoutes } from "./routes/actionRoutes.js";
 import { getSampleImagesDir } from "./services/artifactsService.js";
 
 export const app = express();
@@ -15,3 +16,4 @@ app.get("/health", (_req, res) => {
 
 app.use("/images", express.static(getSampleImagesDir()));
 app.use("/api", inferenceRoutes);
+app.use("/api", actionRoutes);

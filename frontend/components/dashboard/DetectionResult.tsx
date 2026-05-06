@@ -87,7 +87,7 @@ export default function DetectionResult({ result, loading }: DetectionResultProp
             </svg>
           </div>
           <div>
-            <p className="text-base font-semibold text-gray-900">
+            <p className="text-base font-semibold text-blue-600">
               Detection Result
             </p>
             <p className="text-xs text-gray-400">

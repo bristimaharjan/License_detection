@@ -1,12 +1,15 @@
 "use client";
 
 import { Dispatch, SetStateAction } from "react";
+import { useRouter } from "next/navigation";
 import {
   HomeIcon,
   BellIcon,
   ArrowLeftOnRectangleIcon,
   Bars3Icon,
 } from "@heroicons/react/24/outline";
+import { logout } from "@/lib/auth";
+import { useSession } from "@/components/auth/ProtectedRoute";
 
 export default function Sidebar({
   collapsed,
@@ -15,6 +18,13 @@ export default function Sidebar({
   collapsed: boolean;
   setCollapsed: Dispatch<SetStateAction<boolean>>;
 }) {
+  const router = useRouter();
+  const session = useSession();
+
+  const handleLogout = () => {
+    logout();
+    router.push("/login");
+  };
 
   return (
     <aside
@@ -50,13 +60,23 @@ export default function Sidebar({
         />
       </nav>
 
-      {/* Logout */}
-      <div className="p-3 mt-auto">
-        <SidebarItem
-          icon={<ArrowLeftOnRectangleIcon className="w-5" />}
-          label="Logout"
-          collapsed={collapsed}
-        />
+      {/* User info + Logout */}
+      <div className="p-3 mt-auto space-y-2">
+        {/* User badge */}
+        {session && !collapsed && (
+          <div className="px-3 py-2.5 rounded-lg bg-blue-50 mb-2">
+            <p className="text-xs font-semibold text-blue-800 truncate">{session.name}</p>
+            <p className="text-[10px] text-blue-500 truncate">{session.badge} · {session.role === "admin" ? "Admin" : "Officer"}</p>
+          </div>
+        )}
+
+        <button onClick={handleLogout} className="w-full">
+          <SidebarItem
+            icon={<ArrowLeftOnRectangleIcon className="w-5" />}
+            label="Logout"
+            collapsed={collapsed}
+          />
+        </button>
       </div>
     </aside>
   );
