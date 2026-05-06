@@ -3,10 +3,65 @@
 import { Card, CardBody } from "@heroui/card";
 import { Chip } from "@heroui/chip";
 import { Progress } from "@heroui/progress";
+import type { PredictionResult } from "@/app/dashboard/page";
 
-export default function DetectionResult() {
-  const confidence = 94.7;
-  const accuracy = 95;
+interface DetectionResultProps {
+  result: PredictionResult | null;
+  loading: boolean;
+}
+
+function Skeleton({ className = "" }: { className?: string }) {
+  return (
+    <div className={`animate-pulse bg-gray-200 rounded ${className}`} />
+  );
+}
+
+export default function DetectionResult({ result, loading }: DetectionResultProps) {
+  // Loading skeleton
+  if (loading) {
+    return (
+      <Card shadow="sm" className="w-full max-w-2xl bg-white rounded-2xl overflow-hidden">
+        <CardBody className="p-6 gap-6 flex flex-col">
+          <div className="flex items-center gap-3">
+            <Skeleton className="w-10 h-10 rounded-full" />
+            <div>
+              <Skeleton className="h-5 w-36 mb-2" />
+              <Skeleton className="h-3 w-48" />
+            </div>
+          </div>
+          <Skeleton className="h-32 w-full rounded-xl" />
+          <div className="grid grid-cols-2 gap-4">
+            <Skeleton className="h-20 rounded-xl" />
+            <Skeleton className="h-20 rounded-xl" />
+          </div>
+          <Skeleton className="h-8 w-full rounded" />
+          <div className="flex justify-center">
+            <Skeleton className="w-28 h-28 rounded-full" />
+          </div>
+        </CardBody>
+      </Card>
+    );
+  }
+
+  if (!result) return null;
+
+  const topDetection = result.detections[0];
+  const confidence = topDetection ? Math.round(topDetection.confidence * 100 * 10) / 10 : 0;
+  const plateText = result.plate_text || "—";
+  const vehicle = result.vehicle;
+
+  // Determine confidence label
+  const confLabel = confidence >= 80 ? "High" : confidence >= 50 ? "Medium" : "Low";
+  const confColor =
+    confidence >= 80
+      ? "bg-emerald-50 text-emerald-600"
+      : confidence >= 50
+      ? "bg-amber-50 text-amber-600"
+      : "bg-red-50 text-red-600";
+  const barColor =
+    confidence >= 80 ? "bg-emerald-500" : confidence >= 50 ? "bg-amber-500" : "bg-red-500";
+  const textColor =
+    confidence >= 80 ? "text-emerald-500" : confidence >= 50 ? "text-amber-500" : "text-red-500";
 
   return (
     <Card
@@ -45,14 +100,13 @@ export default function DetectionResult() {
         <div className="bg-[#0d1b2a] rounded-xl flex flex-col items-center justify-center py-7 gap-2">
           {/* License Plate */}
           <div className="bg-[#f5c518] rounded-xl px-8 py-3 flex items-center gap-3 shadow-lg">
-            {/* CA badge */}
             <div className="w-8 h-8 rounded-full bg-[#1a3a6b] flex items-center justify-center">
               <span className="text-white text-[9px] font-bold tracking-tight leading-none text-center">
-                CA
+                NP
               </span>
             </div>
             <span className="text-[#0d1b2a] text-3xl font-bold tracking-[0.2em] font-mono">
-              CXK-4821
+              {plateText || "—"}
             </span>
           </div>
 
@@ -72,32 +126,49 @@ export default function DetectionResult() {
               <circle cx="12" cy="10" r="3" />
             </svg>
             <span className="text-gray-400 text-xs">
-              California · Detected plate
+              Detected plate
             </span>
           </div>
         </div>
 
         {/* Vehicle & Color Info */}
-        <div className="grid grid-cols-2 gap-4">
-          <div className="bg-gray-50 rounded-xl p-4">
-            <p className="text-xs text-gray-400 uppercase tracking-widest mb-1">
-              Vehicle
-            </p>
-            <p className="text-base font-semibold text-gray-900 leading-tight">
-              2019 Toyota
-            </p>
-            <p className="text-sm text-gray-500">Camry</p>
+        {vehicle ? (
+          <div className="grid grid-cols-2 gap-4">
+            <div className="bg-gray-50 rounded-xl p-4">
+              <p className="text-xs text-gray-400 uppercase tracking-widest mb-1">
+                Vehicle
+              </p>
+              <p className="text-base font-semibold text-gray-900 leading-tight">
+                {vehicle.vehicle_year} {vehicle.vehicle_make}
+              </p>
+              <p className="text-sm text-gray-500">{vehicle.vehicle_model}</p>
+            </div>
+            <div className="bg-gray-50 rounded-xl p-4">
+              <p className="text-xs text-gray-400 uppercase tracking-widest mb-1">
+                Color
+              </p>
+              <p className="text-base font-semibold text-gray-900 leading-tight">
+                {vehicle.vehicle_color}
+              </p>
+              <p className="text-sm text-gray-500">Body color</p>
+            </div>
           </div>
-          <div className="bg-gray-50 rounded-xl p-4">
-            <p className="text-xs text-gray-400 uppercase tracking-widest mb-1">
-              Color
-            </p>
-            <p className="text-base font-semibold text-gray-900 leading-tight">
-              Silver
-            </p>
-            <p className="text-sm text-gray-500">Body color</p>
+        ) : (
+          <div className="grid grid-cols-2 gap-4">
+            <div className="bg-gray-50 rounded-xl p-4">
+              <p className="text-xs text-gray-400 uppercase tracking-widest mb-1">
+                Vehicle
+              </p>
+              <p className="text-sm text-gray-500 italic">Not in database</p>
+            </div>
+            <div className="bg-gray-50 rounded-xl p-4">
+              <p className="text-xs text-gray-400 uppercase tracking-widest mb-1">
+                Color
+              </p>
+              <p className="text-sm text-gray-500 italic">Unknown</p>
+            </div>
           </div>
-        </div>
+        )}
 
         {/* Detection Confidence Bar */}
         <div className="flex flex-col gap-2">
@@ -120,14 +191,14 @@ export default function DetectionResult() {
               </span>
             </div>
             <div className="flex items-center gap-2">
-              <span className="text-sm font-bold text-emerald-500">
+              <span className={`text-sm font-bold ${textColor}`}>
                 {confidence}%
               </span>
               <Chip
                 size="sm"
-                className="bg-emerald-50 text-emerald-600 border-0 text-xs font-semibold"
+                className={`${confColor} border-0 text-xs font-semibold`}
               >
-                High
+                {confLabel}
               </Chip>
             </div>
           </div>
@@ -137,7 +208,7 @@ export default function DetectionResult() {
             classNames={{
               base: "w-full",
               track: "bg-gray-100 h-3 rounded-full",
-              indicator: "bg-emerald-500 rounded-full",
+              indicator: `${barColor} rounded-full`,
             }}
             aria-label="Detection confidence"
           />
@@ -173,17 +244,17 @@ export default function DetectionResult() {
                 cy="50"
                 r="42"
                 fill="none"
-                stroke="#10b981"
+                stroke={confidence >= 80 ? "#10b981" : confidence >= 50 ? "#f59e0b" : "#ef4444"}
                 strokeWidth="8"
                 strokeLinecap="round"
                 strokeDasharray={`${2 * Math.PI * 42}`}
-                strokeDashoffset={`${2 * Math.PI * 42 * (1 - accuracy / 100)}`}
+                strokeDashoffset={`${2 * Math.PI * 42 * (1 - confidence / 100)}`}
                 className="transition-all duration-700"
               />
             </svg>
             <div className="absolute inset-0 flex flex-col items-center justify-center">
-              <span className="text-2xl font-bold text-emerald-500">
-                {accuracy}%
+              <span className={`text-2xl font-bold ${textColor}`}>
+                {Math.round(confidence)}%
               </span>
               <span className="text-xs text-gray-400">accuracy</span>
             </div>

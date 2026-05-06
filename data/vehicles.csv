@@ -1,0 +1,801 @@
+plate_number,owner_name,address,vehicle_year,vehicle_make,vehicle_model,vehicle_color,reg_expiry,insurance,insurance_provider,policy_number,fines,fine_amount,is_flagged
+KL01CA2555,Rajesh Kumar,"14 MG Road, Ernakulam, Kerala 682011",2017,Suzuki,Ciaz,Silver,2025-03-15,Yes,Nepal Insurance Co.,POL-55012301,2,350,False
+PG MN 112,Hans Mueller,"Podgorica Main St 44, Montenegro",2014,Mercedes-Benz,E220 CDI,Black,2024-08-20,Yes,Himalayan General Insurance,POL-70291817,3,890,True
+PRENUP,Jessica Taylor,"221 Oak Avenue, Hartford, CT 06103",2012,Chevrolet,Camaro SS,Black,2026-11-30,No,,,1,275,False
+DZ17YXR,Oliver James,"15 Parkside Crescent, Birmingham, UK B15 2TT",2017,Subaru,Levorg,Blue,2028-06-01,Yes,Sagarmatha Insurance,POL-61019678,0,0,False
+PU18BES,Emily Watson,"8 High Street, Bristol, UK BS1 4AQ",2018,Peugeot,208,Blue,2024-12-31,Yes,Siddhartha Insurance,POL-95225343,0,0,False
+80211N,Michael Chen,"1204 Cardinal Lane, Virginia Beach, VA 23451",2007,Hyundai,Sonata,Gray,2024-05-01,No,,,4,1200,True
+YSX213,Sarah Williams,"42 River Road, Melbourne, VIC 3000",2018,Toyota,Fortuner,Gray,2027-09-15,Yes,Shikhar Insurance,POL-28740864,0,0,False
+G526JHD,James Harrison,"99 King Street, London, UK SW1A 1AA",2010,Audi,R8,Silver,2025-01-20,Yes,Everest Insurance,POL-16323852,5,2500,True
+MH01AV8866,Priya Sharma,"305 Linking Road, Bandra West, Mumbai 400050",2016,Volkswagen,Polo TDI,Red,2024-09-10,Yes,Lumbini General Insurance,POL-11540956,1,150,False
+TN37CS2765,Arun Krishnan,"78 Anna Salai, Coimbatore, Tamil Nadu 641001",2019,Toyota,Innova,White,2028-02-28,Yes,Nepal Insurance Co.,POL-42580349,0,0,False
+SE·GA4471,Crystal Whitehead,"347 Amber Stream, Sanchezfort, AS 53855",2018,Tata,Nexon,Red,2026-04-29,Yes,Shikhar Insurance,POL-77187530,3,537,False
+SA·JA8417,Brent Jordan,"010 Chandler Union Apt. 333, Taylorburgh, KY 61138",2016,Mahindra,XUV700,Black,2029-05-15,Yes,Lumbini General Insurance,POL-10076758,2,350,True
+KO·GA5138,Thomas Ramos,"80132 Tucker Forest, Barreraburgh, MS 00783",2023,Suzuki,Swift,Gray,2026-10-29,Yes,Sagarmatha Insurance,POL-81498611,3,246,False
+SE·CHA4442,Mrs. Rachel Gibson,"34309 Julie Centers Apt. 978, North Susan, CO 24857",2011,Chevrolet,Spark,Green,2030-03-19,Yes,Shikhar Insurance,POL-63551839,5,1080,False
+SE·HA2082,Barry Hensley,"909 Robert Prairie, Sarahborough, TN 94373",2015,Suzuki,Dzire,Silver,2025-01-19,Yes,Nepal Insurance Co.,POL-19528530,3,195,False
+BA·GA5513,Derek Anderson,"1079 Charles Forest Suite 251, West Justin, NV 71701",2013,Honda,Jazz,Gray,2027-07-19,Yes,Siddhartha Insurance,POL-87337818,1,250,False
+PG·CHA1645,Lisa Archer,"841 Joseph Coves, West Juan, IL 94559",2016,Honda,HR-V,Green,2028-12-18,Yes,Nepal Insurance Co.,POL-97705310,5,375,True
+BH·JA1890,Michael Farrell,"16400 Wise Route Suite 278, Hoffmanville, CA 91074",2022,Suzuki,Dzire,Gray,2028-09-17,No,,,1,273,False
+ME·GA9116,Kimberly Davenport,"2045 Rachel Fords, Lake Curtis, WI 73886",2022,Honda,Civic,Maroon,2026-11-14,Yes,Himalayan General Insurance,POL-32321899,0,0,False
+PG·PA2797,Jennifer Oliver,"26025 Pham Way, West Erik, UT 14669",2013,Nissan,Altima,Green,2028-11-23,Yes,Lumbini General Insurance,POL-98834863,3,267,False
+LU·PA9589,Andrew Ruiz,"4330 Raymond Harbors Apt. 458, Frazierside, MA 04118",2006,Chevrolet,Malibu,Blue,2023-09-02,Yes,Lumbini General Insurance,POL-31130263,0,0,False
+NA·PA9849,Wesley White,"USNV Johnson, FPO AP 57460",2017,Honda,HR-V,Gray,2024-12-17,Yes,Nepal Insurance Co.,POL-93131979,0,0,False
+DH·MN5283,Richard Graham,"Unit 1693 Box 4060, DPO AP 71076",2015,Kia,Sportage,Maroon,2024-02-15,No,,,2,334,False
+RA·PA252,Teresa Mclaughlin,"59514 Estrada Islands Suite 482, South Elizabeth, MS 89278",2008,Ford,F-150,Gold,2025-02-23,Yes,Everest Insurance,POL-56843172,4,1100,False
+GA·CHA7279,Carrie Carroll,"4369 Marshall Mills, New Thomas, MH 96964",2025,Chevrolet,Trax,Gold,2030-02-02,Yes,Shikhar Insurance,POL-99038526,0,0,False
+GA·PA1853,Bradley Robertson,"34332 Brandon Mountains Apt. 769, Lake Heather, NM 52884",2014,Chevrolet,Cruze,Red,2028-04-08,Yes,Shikhar Insurance,POL-77834855,1,281,False
+BA·PA7039,Matthew Smith,"3287 Angela Vista, South Dennismouth, TN 70117",2015,Kia,Seltos,White,2029-12-01,Yes,Everest Insurance,POL-69302158,1,159,False
+JA·PA2542,Linda Dodson DVM,"727 Green Gateway Suite 873, Scottport, IA 36115",2023,Chevrolet,Malibu,Blue,2028-10-03,No,,,0,0,False
+RA·GA753,Steven Miller,"231 Russell Plains Suite 603, Priceshire, UT 03061",2012,Tata,Harrier,Maroon,2028-04-30,Yes,Prime Life Insurance,POL-93303777,3,858,False
+NA·GA3000,Pamela James,"6688 Tracy Groves Suite 706, Elizabethfurt, VA 22133",2015,Nissan,Altima,Black,2028-08-27,Yes,Himalayan General Insurance,POL-45810056,0,0,False
+PG·GA734,Tamara Hooper,"901 Taylor Mountain Apt. 046, Jasonmouth, MA 50193",2019,Ford,Ranger,Gray,2027-08-16,Yes,Himalayan General Insurance,POL-63481198,0,0,False
+RA·JA5853,Trevor Fisher,"80531 Karen Gateway Apt. 092, East Thomas, DE 74421",2022,Chevrolet,Equinox,Maroon,2026-07-02,No,,,5,475,False
+GA·PA1876,Julie Scott,"41904 Sanders Stravenue, North Brittany, MP 82714",2015,Mahindra,Thar,Blue,2029-03-19,No,,,5,490,False
+BH·HA127,Michael Turner,"058 Stanley Cliff, Alexanderchester, GU 64752",2011,Chevrolet,Spark,Maroon,2026-09-27,Yes,Prabhu Insurance,POL-93638503,0,0,False
+BH·JA8408,Tyler Reid,"2849 Marshall Views, Marcusbury, MP 11860",2017,Kia,Sonet,Blue,2029-06-15,No,,,0,0,False
+SA·KA2951,Jerry Christensen,"0752 Lewis Union Suite 549, Angelahaven, ID 11722",2017,Mahindra,XUV300,Red,2026-05-07,Yes,Himalayan General Insurance,POL-67698610,4,820,False
+ME·HA7344,Jason Peters,"770 Kelly Lodge Apt. 495, Transtad, NE 98272",2010,Suzuki,Alto,Beige,2027-12-09,Yes,Siddhartha Insurance,POL-54988206,0,0,False
+LU·KA5185,Heather Chavez,"35182 Javier Orchard, Jennyhaven, PA 37594",2005,Suzuki,Dzire,Black,2023-09-05,Yes,Sagarmatha Insurance,POL-71124923,0,0,False
+LU·KA6391,Dr. Elizabeth Ward,"0084 Dana Terrace, Garciatown, OK 37769",2009,Ford,Figo,Gray,2026-05-18,Yes,Sagarmatha Insurance,POL-67062156,0,0,False
+BH·MN7711,Jeremiah Lopez,"16719 Edward Valleys Suite 131, Obrienbury, WI 68995",2019,Toyota,Hilux,Silver,2023-09-27,Yes,Lumbini General Insurance,POL-89920257,0,0,False
+ME·MN8370,Terry Evans,"9909 Stacey Fords Apt. 412, East Andrea, GA 00851",2010,Nissan,Navara,Beige,2029-01-03,Yes,Himalayan General Insurance,POL-95585469,0,0,False
+ME·KA4019,Michael Harrison,"471 Sandra Turnpike Apt. 618, Lake Edward, KY 19144",2014,Kia,Sonet,Silver,2024-06-17,Yes,Lumbini General Insurance,POL-20814950,0,0,False
+BH·CHA3605,Christopher Parker,"1746 Mason Park Suite 190, Navarroview, AK 12471",2015,Honda,City,Green,2028-09-04,No,,,4,596,False
+DH·KA420,Michael Valencia,"490 Thomas Run, Moonburgh, OR 57633",2005,Mahindra,Thar,Beige,2028-01-08,Yes,Prime Life Insurance,POL-82238741,3,567,False
+LU·HA3695,Katherine Davis,"1256 Roberts Locks Apt. 715, Marcusfurt, VI 67950",2005,Kia,Sonet,Beige,2030-02-04,Yes,Prime Life Insurance,POL-32151928,4,1140,False
+DH·MN541,April Booth,"85977 James Plaza, West Samuel, UT 64033",2005,Nissan,Navara,Gold,2023-12-10,No,,,1,62,False
+KO·CHA7549,William Lynch,"8086 Jeffrey Ville, South Staceyberg, NM 94427",2013,Tata,Punch,Green,2028-09-16,Yes,Sagarmatha Insurance,POL-73123515,0,0,False
+KO·CHA1224,Michael Perry,"78263 Michelle Harbor Suite 584, West Jessicashire, OR 87000",2011,Toyota,Camry,Gray,2029-10-30,No,,,0,0,False
+DH·CHA7719,Charles Ryan MD,"5339 Hall Trail Suite 057, Hughesberg, NM 05353",2024,Kia,Carnival,Black,2026-12-27,Yes,Everest Insurance,POL-51746937,0,0,True
+GA·MN6249,Vincent Rivera,"87026 Charles Tunnel Suite 596, Port Markside, MS 42006",2023,Nissan,Sentra,Silver,2029-11-11,Yes,Shikhar Insurance,POL-90585882,4,1012,False
+RA·PA5788,Stacy Freeman,"43161 Scott Square, Rebeccaton, MD 07856",2016,Chevrolet,Equinox,Maroon,2024-06-06,No,,,0,0,False
+PG·JA7632,James Thomas,"21969 Tyler Prairie, East Steven, KS 60737",2021,Hyundai,Elantra,Black,2027-11-11,Yes,Lumbini General Insurance,POL-74893936,1,261,False
+GA·JA4122,Adam Ballard,"PSC 8217, Box 5946, APO AP 33281",2012,Honda,CR-V,Beige,2029-07-17,Yes,Prime Life Insurance,POL-55150390,0,0,False
+NA·HA3575,Eric Kidd,"69594 Johnson Village, Hillshire, VI 90390",2013,Tata,Punch,Blue,2030-04-12,Yes,Lumbini General Insurance,POL-11362459,1,98,False
+BH·HA8104,Valerie Lozano,"95339 Byrd Stravenue Apt. 104, Johnsonstad, VA 17725",2025,Chevrolet,Cruze,Beige,2028-11-09,Yes,Sagarmatha Insurance,POL-49491631,0,0,False
+GA·KA9628,Edward Burgess,"588 Rivas Glens, Coffeyport, WA 44897",2021,Tata,Safari,Brown,2029-06-07,Yes,United Insurance,POL-46361787,0,0,False
+BH·CHA5269,Julie Jones,"685 Krystal Bridge, Amandamouth, MN 88689",2010,Honda,HR-V,Brown,2023-08-18,Yes,Siddhartha Insurance,POL-80415568,2,150,False
+GA·CHA6012,Deborah James,"37098 Herman Forges Apt. 746, East Brandonton, ME 65070",2022,Hyundai,i20,White,2026-02-01,Yes,Lumbini General Insurance,POL-49209916,3,246,False
+RA·HA1780,David Medina,"869 Nicole Shoal Apt. 796, Antoniostad, IL 58616",2020,Toyota,Yaris,Beige,2027-05-19,Yes,Shikhar Insurance,POL-74119726,0,0,True
+ME·PA9553,David Cox,"Unit 5850 Box 6431, DPO AA 12516",2023,Toyota,RAV4,Black,2026-10-28,Yes,Sagarmatha Insurance,POL-84903294,3,615,False
+DH·CHA8661,Maria Harper,"29318 Brenda Via Apt. 529, West Micheleberg, DC 71308",2014,Nissan,Patrol,Beige,2028-10-01,Yes,Siddhartha Insurance,POL-18083974,2,478,False
+RA·CHA3557,Christopher Guerrero,"3950 Joseph Crossroad, Foxland, NJ 59257",2012,Kia,Seltos,Black,2025-12-03,No,,,0,0,False
+ME·JA634,Kayla Rodriguez,"847 Bruce Neck, Simmonsville, NM 93876",2019,Suzuki,Baleno,Red,2025-01-12,Yes,Siddhartha Insurance,POL-98742485,4,400,False
+SE·CHA2541,Angel Miller,"49985 Vang Pines, Shawnchester, CT 92484",2006,Kia,Sportage,Silver,2024-08-14,Yes,Siddhartha Insurance,POL-48736657,0,0,False
+GA·KA6694,Matthew Rich,"7365 Ross Stream, West Ronaldview, MN 20507",2020,Kia,Rio,Brown,2029-09-12,No,,,0,0,False
+GA·PA1596,Kara Davis,"52809 Santiago Loop Suite 604, Michaelshire, NY 28385",2023,Suzuki,Ertiga,Gold,2030-02-11,Yes,Siddhartha Insurance,POL-15399803,3,282,False
+SA·HA4657,John Boone,"49368 Chelsea Shoals Suite 024, Sandrastad, AL 24278",2025,Hyundai,Santa Fe,Green,2026-11-09,Yes,Prime Life Insurance,POL-54735895,0,0,False
+NA·JA6844,Kylie Morales,"83667 Moore Inlet, Kimberlyshire, PA 11636",2017,Ford,Endeavour,Maroon,2029-06-06,No,,,0,0,False
+JA·GA6722,Brittney Webster,"7679 Perry Forge, West Russellport, TX 89431",2022,Chevrolet,Malibu,Maroon,2026-08-26,No,,,0,0,False
+SA·HA945,Kelsey Parker,"34324 Murphy Avenue, Burgessburgh, DC 50335",2009,Suzuki,Baleno,Brown,2028-10-20,Yes,United Insurance,POL-26297533,0,0,False
+RA·CHA2694,Crystal Hansen,"60607 Michelle Ports Suite 966, Dariustown, MD 23028",2022,Kia,Rio,White,2027-08-10,Yes,Sagarmatha Insurance,POL-71934487,5,1075,False
+ME·KA4881,Lisa Collier,"PSC 1613, Box 6968, APO AE 52374",2020,Chevrolet,Trax,Green,2027-09-18,Yes,Everest Insurance,POL-61484043,0,0,False
+BH·CHA1243,Nichole Walker,"188 Rebecca Keys, Jessicaberg, IA 13975",2021,Kia,Sonet,Blue,2026-05-12,Yes,Shikhar Insurance,POL-88777447,2,436,False
+NA·HA8924,Craig Morrison,"77997 Lin Road, Edwardland, NJ 58462",2022,Ford,Endeavour,Blue,2028-06-17,Yes,Prabhu Insurance,POL-35320492,5,555,False
+LU·GA6830,Rebecca Vargas,"7700 Decker Club, New Brookefurt, NH 76565",2017,Toyota,Land Cruiser,Beige,2030-01-25,Yes,Everest Insurance,POL-76481885,5,410,False
+DH·JA1744,Rebecca Huang,"9782 Shannon Valleys, Toniland, NY 85190",2019,Ford,Ecosport,Brown,2025-07-14,Yes,Everest Insurance,POL-20043277,1,298,False
+DH·KA6612,David Kim,"5466 Shelton Center, Cameronville, OH 89417",2022,Honda,CR-V,Maroon,2028-02-14,Yes,United Insurance,POL-82613940,0,0,True
+SA·KA4808,David York,"Unit 9251 Box 9254, DPO AP 92052",2018,Suzuki,Ertiga,Silver,2029-11-24,Yes,Sagarmatha Insurance,POL-69549527,0,0,False
+BA·PA5414,Betty Fletcher,"528 Debbie Manors Suite 054, East Matthew, WI 64237",2016,Toyota,Yaris,Blue,2027-09-19,Yes,Siddhartha Insurance,POL-34166826,0,0,True
+PG·MN4045,Zachary Moore,"880 Walter River, New Nicholas, GA 24204",2012,Ford,F-150,Black,2027-10-09,Yes,Nepal Insurance Co.,POL-72445234,5,1115,False
+JA·HA5761,Patricia Lamb,"65379 Goodwin Tunnel Suite 383, Tammyfort, MH 25931",2018,Mahindra,Bolero,Maroon,2028-11-27,Yes,Himalayan General Insurance,POL-61632653,4,308,False
+DH·JA9517,Travis Joyce,"8862 Laurie Dam Suite 075, Lake Meghanville, LA 11494",2017,Kia,Carnival,White,2029-07-09,Yes,Nepal Insurance Co.,POL-91390501,3,789,False
+GA·GA3870,Denise Whitehead,"37506 Randy Landing Apt. 615, North Lucas, CT 94178",2025,Mahindra,Bolero,Gray,2024-12-08,Yes,Everest Insurance,POL-94322033,0,0,False
+BA·JA7322,Raven Taylor,"277 Rebecca Brook Suite 328, Rodriguezport, IA 39973",2007,Toyota,Land Cruiser,Black,2028-03-06,Yes,Everest Insurance,POL-36950221,0,0,False
+KO·MN8321,David Fowler,"79808 Jennifer Highway, Smithstad, IA 75299",2020,Kia,Sportage,Red,2028-01-01,Yes,Prabhu Insurance,POL-25457816,1,69,False
+LU·GA6611,Matthew Miller,"Unit 1888 Box 8806, DPO AA 06207",2017,Chevrolet,Trax,Silver,2025-08-25,Yes,Shikhar Insurance,POL-88458327,0,0,False
+KO·PA3930,Veronica King,"3195 Bradley Plains, Lisaburgh, MP 90243",2022,Ford,Ecosport,Gold,2029-10-07,Yes,Sagarmatha Insurance,POL-95282470,4,1128,False
+SA·HA2011,Michael Welch,"704 Bradley Flats, West Sarahhaven, MO 71677",2014,Hyundai,Tucson,White,2026-12-30,No,,,4,336,False
+KO·KA8950,Andrew Lucas,"541 Kim Locks, Klinefurt, MA 24987",2018,Nissan,Navara,Black,2029-02-02,Yes,Shikhar Insurance,POL-14391105,3,315,False
+LU·GA6042,Jonathan Glass MD,"69284 Garcia Islands Suite 479, Jacksonmouth, MI 59107",2022,Honda,HR-V,Blue,2029-12-17,Yes,Prime Life Insurance,POL-47028180,0,0,False
+ME·PA3575,Sergio Gomez,"Unit 4016 Box 5820, DPO AE 80136",2015,Mahindra,Scorpio,White,2025-08-21,Yes,Himalayan General Insurance,POL-19208698,4,764,False
+LU·GA3917,Jessica Martinez,"6909 Erika Land Suite 719, New Michael, MD 85640",2005,Tata,Harrier,Gold,2027-02-27,Yes,Lumbini General Insurance,POL-43642236,4,312,False
+BA·CHA343,Tyler Johnson,"144 Lewis Ridge Suite 731, Port Charles, HI 94003",2015,Tata,Harrier,Gold,2024-11-08,No,,,3,552,False
+JA·HA7444,Brandon Fleming,"518 Vance Vista Apt. 258, North Tracie, WY 18703",2008,Tata,Altroz,Gold,2027-08-03,Yes,Nepal Insurance Co.,POL-98436473,1,167,False
+BA·PA7947,Johnny Ward,"291 Kyle Stravenue Suite 866, East Teresaland, NV 61558",2008,Nissan,Patrol,Maroon,2028-10-31,No,,,0,0,False
+JA·CHA4605,Haley Humphrey,"68018 Kevin Estates, Sarahbury, MI 68513",2015,Mahindra,XUV300,Brown,2029-09-11,Yes,United Insurance,POL-77853916,2,150,False
+JA·GA9133,Sarah King,"49818 Brittany Prairie Apt. 299, Meganshire, AZ 04219",2012,Suzuki,Vitara,Beige,2028-11-20,Yes,Sagarmatha Insurance,POL-51949529,0,0,False
+KO·CHA7870,Travis Wise,"690 Small Plains, Dawnport, NJ 32597",2007,Honda,Civic,Silver,2028-06-08,Yes,Lumbini General Insurance,POL-18050510,2,386,False
+SA·PA6830,Melinda Evans,"76773 Lawson Island, Jessicastad, MO 17640",2014,Tata,Safari,White,2028-04-26,No,,,1,89,False
+LU·GA1873,Kayla Rodriguez,"7321 Kelly Lights, Wrightburgh, GU 43418",2008,Tata,Altroz,Blue,2029-07-25,Yes,Prime Life Insurance,POL-85291541,5,1295,False
+SA·KA9221,Michelle Lee,"4701 Wagner Garden Apt. 950, West Troyfort, LA 70846",2010,Toyota,Yaris,White,2028-01-29,Yes,Prabhu Insurance,POL-10819505,0,0,False
+SA·HA1240,Brian Anderson,"5060 Michael Heights Apt. 687, Marciaville, DC 13173",2005,Hyundai,Venue,Maroon,2023-05-15,Yes,Prime Life Insurance,POL-70887307,0,0,False
+BH·JA9399,Robert Morgan,"USNS Gonzalez, FPO AP 53111",2009,Mahindra,Scorpio,White,2026-01-24,Yes,Shikhar Insurance,POL-69473616,2,348,False
+PG·JA3631,Amber Taylor,"729 Mark Ridge Suite 269, Brittneyhaven, MP 67310",2018,Chevrolet,Malibu,Blue,2023-08-13,Yes,Shikhar Insurance,POL-16095815,0,0,False
+BA·PA3449,Michelle Evans,"1694 Candice Greens Apt. 097, New Cristina, RI 50333",2013,Kia,Sportage,Black,2027-01-07,No,,,3,282,False
+SE·KA3870,Michael Johnson,"USS Lee, FPO AA 41617",2016,Chevrolet,Spark,Maroon,2026-02-08,Yes,United Insurance,POL-20450542,4,788,False
+PG·KA6943,Jason Harris,"028 Ann Shore Suite 865, South Rhonda, MA 72102",2005,Kia,Seltos,Green,2027-04-23,Yes,Siddhartha Insurance,POL-71753160,4,1140,False
+PG·GA1834,Raymond Le,"733 Grant Fork Suite 437, Timothyside, WY 95090",2017,Suzuki,Vitara,Gold,2028-07-25,Yes,Prabhu Insurance,POL-39738898,0,0,False
+SE·KA1968,Bryan Rhodes,"2404 Michael Mills Suite 733, Sarahview, DC 14817",2016,Chevrolet,Spark,Gray,2029-12-18,Yes,Himalayan General Insurance,POL-23798190,0,0,False
+DH·CHA1334,Laurie Sanchez,"301 Rivera Mountains, Lake Kellitown, OH 21202",2019,Hyundai,Venue,Beige,2029-08-05,Yes,Siddhartha Insurance,POL-96300902,2,418,False
+SA·JA2573,Timothy Johns,"5401 Amanda Stream, East Robertburgh, PW 05264",2019,Ford,Ecosport,Beige,2027-11-20,Yes,Prabhu Insurance,POL-78093604,0,0,False
+BA·PA6141,Jennifer Simpson DVM,"USNV Mcdowell, FPO AE 39611",2007,Kia,Seltos,Maroon,2029-03-10,Yes,Siddhartha Insurance,POL-84399083,5,1195,False
+ME·GA9466,Ashley Bird,"87431 Martin Mount Suite 205, Ashleyborough, HI 80580",2020,Suzuki,Baleno,Gold,2026-09-10,Yes,Prabhu Insurance,POL-21318464,1,94,True
+BH·HA7299,Stephanie Wilcox,"1227 Boyle Avenue, Patrickmouth, WV 35496",2010,Chevrolet,Spark,Gold,2027-12-07,Yes,Prabhu Insurance,POL-90246882,0,0,False
+KO·PA5501,Elizabeth Sharp,"301 Parker Lodge Suite 145, East Susan, NJ 20579",2017,Honda,Jazz,Maroon,2030-01-10,Yes,Siddhartha Insurance,POL-30182766,0,0,False
+NA·JA5182,William Brooks,"339 Alicia Pines Suite 191, Port Amyhaven, ID 75566",2007,Nissan,Sentra,Gold,2028-06-16,Yes,Prabhu Insurance,POL-27152188,3,786,False
+SA·MN1631,Carmen Bond,"971 Stokes Motorway, New Robert, OK 08068",2005,Nissan,Navara,Blue,2027-05-11,Yes,Prabhu Insurance,POL-75266178,0,0,False
+NA·PA4946,Megan Parker,"39106 Graves Plains Apt. 170, Robertberg, WI 84586",2021,Honda,Jazz,Brown,2024-06-15,Yes,Siddhartha Insurance,POL-27589104,2,178,False
+BH·GA2812,Maria Fisher,"Unit 6766 Box 1825, DPO AE 23893",2016,Ford,Ecosport,Green,2027-09-05,Yes,Siddhartha Insurance,POL-48242379,3,750,False
+SE·CHA5170,Jenna Anderson DVM,"7868 Morrow Gateway, Reedview, ID 95531",2023,Ford,Ranger,Blue,2028-12-07,Yes,Prime Life Insurance,POL-77498993,1,297,False
+LU·GA2367,Amanda Keller,"31190 Harper Squares, East Joyfurt, NV 31216",2020,Kia,Seltos,Maroon,2029-06-15,Yes,Lumbini General Insurance,POL-26733967,0,0,False
+GA·HA8510,Nicole Parsons,"95995 Kevin Divide Apt. 644, New Stacyburgh, SC 89466",2012,Hyundai,Elantra,Silver,2028-04-21,Yes,Prime Life Insurance,POL-17148018,0,0,False
+PG·PA6242,Jon Compton,"USCGC Floyd, FPO AA 91767",2008,Suzuki,Swift,Blue,2029-12-28,Yes,Everest Insurance,POL-28468304,0,0,False
+ME·KA2373,Chase Bennett,"34270 Faulkner Point Apt. 634, West Deborah, NV 49138",2005,Ford,Figo,Gold,2026-06-14,Yes,Everest Insurance,POL-83659258,5,1025,False
+JA·GA4820,Nathaniel Lee,"39837 Molly Isle, Susantown, IL 25407",2006,Suzuki,Baleno,Silver,2023-10-12,No,,,4,708,False
+BA·KA8543,Autumn Key,"936 Andrea Trail, Oscarside, SD 47589",2014,Mahindra,XUV700,Black,2029-10-17,Yes,Siddhartha Insurance,POL-65910756,0,0,False
+SE·JA1208,Ian Andrade,"3556 Anna Forges Apt. 048, Phillipsborough, MA 30650",2021,Chevrolet,Spark,Brown,2028-07-14,Yes,Nepal Insurance Co.,POL-95318289,0,0,False
+BH·PA5950,Roy Porter,"7772 Jackson Stravenue Suite 280, Port Melanieton, WV 01337",2025,Honda,CR-V,Gray,2024-06-24,No,,,0,0,False
+SA·CHA7712,Ryan Hall,"87509 Hopkins Brook, New Andreatown, AK 69892",2007,Ford,Ranger,Black,2028-11-29,No,,,0,0,False
+BA·JA5180,Kimberly Mitchell,"11823 Christine Glen Suite 461, Susanmouth, OK 32378",2020,Chevrolet,Equinox,Brown,2029-12-21,No,,,0,0,False
+SA·JA4576,Courtney Sutton DVM,"66687 Dana Squares, North Vincent, NE 85030",2017,Honda,CR-V,Green,2028-07-06,Yes,Everest Insurance,POL-76599269,3,432,False
+SE·JA1453,Kylie Hodge,"39740 Gabrielle Harbors, East Sarahmouth, AK 27653",2024,Nissan,Altima,Green,2027-05-11,Yes,Prabhu Insurance,POL-23770458,0,0,False
+GA·HA9973,Nicole Marquez,"2939 Rhodes Plains, Patrickberg, WY 90850",2016,Nissan,Sentra,Beige,2028-04-28,Yes,Prime Life Insurance,POL-46850196,2,504,False
+JA·KA6755,Kathryn Mccann,"15999 Novak Islands Apt. 477, West Angela, MS 57104",2010,Tata,Altroz,Maroon,2027-02-23,Yes,United Insurance,POL-14670638,0,0,False
+SA·JA6033,Kevin James,"11426 Jodi Island Suite 110, Seanview, CT 17868",2024,Nissan,Navara,White,2023-10-27,Yes,Prabhu Insurance,POL-69584522,3,588,False
+KO·HA5250,Jeffrey Hawkins,"15819 Shields Bridge, Robertland, VA 73840",2005,Kia,Sportage,Silver,2029-02-22,Yes,Lumbini General Insurance,POL-25805613,0,0,False
+ME·CHA4778,Vanessa Armstrong,"24447 Bryan Mews Suite 647, West Johnathanbury, VA 82425",2009,Ford,Ranger,Silver,2028-11-17,No,,,3,216,False
+KO·KA5792,Luis Ellis Jr.,"9657 Jordan View Apt. 459, South Leon, MO 42331",2014,Honda,Jazz,Brown,2027-03-25,Yes,Everest Insurance,POL-58518659,1,81,False
+RA·CHA3978,Michael Henry,"6465 Sarah Flats, Lake Katrina, AK 95818",2022,Ford,Ecosport,Blue,2028-12-19,Yes,Lumbini General Insurance,POL-27417599,2,144,True
+PG·KA7942,Michael Gonzales,"7243 Hopkins Stravenue, Mccormickland, NV 78873",2023,Chevrolet,Equinox,Green,2024-07-25,Yes,United Insurance,POL-72523073,3,414,False
+RA·MN9730,James Hunter,"PSC 6805, Box 8911, APO AE 86694",2021,Hyundai,Creta,Green,2026-08-28,Yes,Lumbini General Insurance,POL-30537388,0,0,False
+BH·CHA5769,Carol Salazar,"6101 Walker Summit Apt. 756, Bartonshire, UT 66098",2013,Chevrolet,Trax,Silver,2024-10-20,No,,,0,0,False
+SE·KA2862,Zachary Webb,"25457 Adriana Keys, Davismouth, MD 09305",2010,Mahindra,XUV300,Black,2029-09-27,Yes,Siddhartha Insurance,POL-15529005,4,228,False
+SA·GA9549,Robert Wilson,"238 Andrea Isle, Mullenbury, AS 53591",2018,Kia,Sportage,Gold,2026-07-08,Yes,Lumbini General Insurance,POL-48879071,2,254,False
+RA·GA6753,Charlotte Sandoval,"9660 Jamie Terrace, New Cristianside, HI 48446",2006,Kia,Sonet,Silver,2024-01-05,Yes,Himalayan General Insurance,POL-55659873,2,260,False
+KO·KA5758,Jim Baker,"696 Michael Vista Suite 924, Lake Dennisville, IA 40527",2021,Nissan,Sentra,Blue,2028-02-19,Yes,Sagarmatha Insurance,POL-45899440,1,86,False
+GA·HA6950,James Thomas,"662 Reid Square, New Garrett, LA 18889",2023,Suzuki,Dzire,Blue,2027-05-30,Yes,United Insurance,POL-79085198,1,275,False
+BA·PA6542,Ryan Harvey,"2368 Ortiz Overpass, Mckinneymouth, NM 22423",2011,Chevrolet,Equinox,Gray,2026-08-14,No,,,1,275,False
+SA·HA4781,Andre Juarez,"84279 Dunn Creek Apt. 485, Port Jenniferside, IL 56226",2018,Chevrolet,Malibu,Silver,2024-11-10,Yes,Prime Life Insurance,POL-59115280,0,0,True
+SE·CHA6039,Ronald Potter,"4517 Kimberly Freeway, Port Joan, UT 46458",2017,Chevrolet,Trax,Silver,2029-06-06,Yes,Siddhartha Insurance,POL-92012822,0,0,False
+PG·JA5655,Lisa Patterson,"09584 Mario Squares, Keithview, PR 67926",2011,Chevrolet,Trax,Black,2028-08-06,Yes,Nepal Insurance Co.,POL-15222944,0,0,False
+ME·MN7587,Miss Anna Estes,"2232 Poole Trace, Burnsshire, SC 35722",2009,Hyundai,Santa Fe,Brown,2029-10-13,Yes,Prime Life Insurance,POL-92745294,3,378,False
+SE·GA8451,Jaime Jones,"8457 Murphy Alley, Lake Teresastad, PR 08801",2014,Chevrolet,Equinox,Gold,2026-06-10,Yes,Sagarmatha Insurance,POL-65907088,2,506,False
+BH·KA536,Jennifer Donaldson,"5458 Ashlee Oval Suite 001, Smithburgh, NV 60337",2025,Mahindra,Thar,Red,2029-08-03,Yes,Nepal Insurance Co.,POL-88319168,1,184,False
+DH·GA6329,Tyler Harris,"424 Diamond Glen, West Elizabethburgh, AR 52450",2006,Hyundai,Venue,Gray,2030-04-10,No,,,0,0,False
+NA·HA3440,Molly Fischer,"103 Miller Ramp, New Erin, AL 01557",2020,Nissan,Navara,Gold,2026-09-11,Yes,Lumbini General Insurance,POL-37828932,2,438,False
+PG·JA2937,Ruth Mcneil,"1361 Dakota Land, Derrickberg, SD 89254",2022,Ford,F-150,Blue,2030-03-01,Yes,Shikhar Insurance,POL-91883092,1,295,False
+SE·JA3784,Joseph Smith,"3269 Heath Corners Apt. 219, Bellchester, MD 18828",2020,Kia,Carnival,Gray,2028-04-20,Yes,Shikhar Insurance,POL-48626436,0,0,False
+PG·HA5754,Matthew Wright,"043 Julie Hill Apt. 376, East Victorland, NC 02082",2014,Hyundai,i20,White,2026-10-15,Yes,United Insurance,POL-98043078,0,0,False
+LU·GA8924,Dr. Bonnie Valencia,"271 Brenda Bridge Suite 300, Hunterhaven, WI 54952",2009,Kia,Rio,Red,2024-12-31,Yes,Lumbini General Insurance,POL-40289135,2,126,False
+KO·KA7839,James Davidson,"1418 Terri Drives, Peterland, ME 92077",2005,Honda,HR-V,Black,2027-03-26,Yes,United Insurance,POL-74082055,2,486,False
+KO·JA1069,Troy Allen,"79904 David Station Apt. 027, Alexandraview, GA 49242",2012,Honda,HR-V,Gold,2026-07-22,Yes,Everest Insurance,POL-66087572,4,380,False
+BA·GA6604,Richard Adams,"6481 Joseph Ports, South Spencerstad, AR 65985",2006,Ford,Ranger,Red,2025-09-28,Yes,Prabhu Insurance,POL-48193218,1,214,False
+ME·CHA8361,Carol Moore,"80003 Thomas Lights, East Sarah, PR 05136",2008,Ford,Endeavour,Gray,2028-12-01,Yes,Everest Insurance,POL-11890348,3,756,False
+SA·GA3264,Suzanne Yang,"65419 Wilson Spring Apt. 238, South Caseymouth, VI 37503",2017,Hyundai,Santa Fe,Maroon,2029-03-27,Yes,Prime Life Insurance,POL-99826000,0,0,False
+ME·JA4164,Emily Miller,"49493 Richardson Park Apt. 832, South Andrewside, MI 83855",2012,Toyota,Yaris,Green,2027-11-04,Yes,Shikhar Insurance,POL-88176558,3,156,False
+KO·KA3971,Sherry Tapia,"413 Robert Circle Apt. 410, Port April, UT 49324",2014,Toyota,Corolla,Beige,2023-07-11,Yes,Shikhar Insurance,POL-25759274,2,580,False
+DH·CHA3690,Paul Carpenter,"99062 Kelly Vista Suite 655, Nelsonland, ID 18341",2019,Hyundai,Elantra,Black,2029-09-28,Yes,Lumbini General Insurance,POL-73193474,3,765,False
+LU·GA4154,Lauren Moore,"6185 Shannon Mountain Suite 112, Margaretton, IL 43465",2019,Mahindra,Scorpio,Brown,2028-05-16,No,,,2,130,False
+SE·CHA9483,Michael Schmitt,"442 Stephanie Walk, Hawkinsside, IA 12916",2015,Chevrolet,Cruze,Black,2028-10-27,No,,,0,0,False
+JA·MN7398,Robert Taylor,"36519 Lowery Club, North Jamesmouth, AS 17381",2021,Toyota,Fortuner,Black,2029-07-04,No,,,1,256,False
+BA·HA4269,Ryan Lamb,"29667 Patrick Meadow Apt. 532, Joshuaberg, AZ 80993",2007,Toyota,Hilux,Gold,2024-05-30,Yes,Lumbini General Insurance,POL-18087373,5,335,False
+ME·PA4803,Danielle Phillips,"14626 Dawn Union Apt. 806, Timothyfort, MI 74642",2025,Nissan,Sentra,Black,2029-12-19,Yes,Prabhu Insurance,POL-61335545,1,284,False
+PG·PA8935,Jasmine White,"40785 Terri Courts, Lake John, ND 97108",2008,Hyundai,Venue,Blue,2024-02-21,Yes,Himalayan General Insurance,POL-10466177,3,900,False
+SA·KA9020,Zachary Robinson,"2239 Drake Square Suite 905, New Stacy, MP 65018",2012,Nissan,Navara,Green,2024-05-27,No,,,0,0,False
+RA·PA627,Casey Johnson,"87059 Lindsay Junctions, Port Megan, MD 08307",2012,Nissan,Navara,White,2025-10-11,Yes,United Insurance,POL-90233330,3,819,True
+BH·PA6690,Kevin Stark,"56915 Morris Estate Suite 752, Jeffreyshire, GU 23484",2011,Ford,Ranger,Brown,2026-08-30,No,,,5,545,False
+BH·MN5324,Nicholas Phillips,"969 Ian Island, Lake Ariana, NM 18935",2015,Mahindra,XUV300,Maroon,2025-07-16,Yes,Lumbini General Insurance,POL-39667854,0,0,False
+SE·MN2969,Blake Reed,"570 Clark Square, West Jonathanville, VA 00668",2006,Nissan,Navara,Beige,2029-12-14,Yes,Lumbini General Insurance,POL-52779814,3,462,False
+PG·CHA8913,Jeffrey Barnes,"6586 Maria Turnpike Apt. 271, West Andrewview, CT 10226",2014,Ford,Ranger,Gray,2027-02-26,Yes,Nepal Insurance Co.,POL-85482164,0,0,False
+SE·CHA6463,Stephen Martin,"9970 Dunlap Expressway, Mooreville, MA 27442",2015,Suzuki,Baleno,Gray,2028-11-13,Yes,Sagarmatha Insurance,POL-81891784,3,294,True
+PG·KA9978,Jennifer Spencer,"PSC 8444, Box 3106, APO AP 72546",2023,Toyota,Corolla,Gray,2029-06-24,Yes,Himalayan General Insurance,POL-54689713,0,0,False
+LU·CHA2022,Brittany Ward,"973 Anthony Extension Suite 171, Kristenfort, NM 87144",2011,Ford,Ranger,Gold,2027-09-09,Yes,Shikhar Insurance,POL-61091554,1,216,False
+GA·JA8501,Martin Hughes,"2704 Marshall Fork Suite 902, North Elizabethside, MT 99651",2020,Ford,Figo,Silver,2028-02-21,Yes,Prabhu Insurance,POL-51999682,0,0,False
+LU·KA2490,Kristen Randall,"793 Evans Locks Apt. 898, North Stacy, NV 23160",2023,Toyota,Yaris,Brown,2028-09-08,Yes,Himalayan General Insurance,POL-54273769,0,0,False
+LU·HA9121,Carol Lewis,"1632 Flores Stream, North Paulfurt, OH 43247",2025,Tata,Punch,Beige,2028-12-05,No,,,4,372,False
+SE·HA3115,Kelly Stark,"62299 Sara Port Apt. 485, Bakerfort, OK 80318",2006,Chevrolet,Malibu,Brown,2026-10-06,Yes,Nepal Insurance Co.,POL-10856822,0,0,False
+LU·PA2574,Christopher Powell,"65307 Prince Brooks Suite 444, Garrisonville, VI 30379",2019,Toyota,Hilux,Brown,2029-10-23,Yes,Siddhartha Insurance,POL-74854563,2,108,True
+SE·HA294,William Ramos,"691 Scott View Suite 785, New Laceyland, ME 93505",2014,Toyota,Yaris,Brown,2023-12-06,Yes,Everest Insurance,POL-24363501,5,920,False
+LU·MN8725,Brandy York,"33030 Williams Lake, West Micheal, NH 66708",2017,Kia,Carnival,Red,2024-01-25,Yes,Himalayan General Insurance,POL-40314047,0,0,False
+JA·KA619,Thomas Maldonado,"727 Cooper Villages Suite 140, Williamsshire, WI 28592",2017,Honda,City,Green,2026-08-29,Yes,Everest Insurance,POL-21097943,1,161,False
+KO·MN1662,Maria Byrd,"007 Deborah Rapid Apt. 349, Jenniferview, NE 49846",2011,Chevrolet,Malibu,Gray,2030-03-24,Yes,United Insurance,POL-46385762,0,0,True
+GA·MN9332,Judy Robinson,"108 Hoffman Ranch Suite 417, West Vanessamouth, VI 36792",2005,Toyota,RAV4,Blue,2029-08-21,No,,,4,1040,False
+JA·JA2761,Michael Stafford,"309 Guerrero Springs, Lake Anthony, NM 39246",2017,Mahindra,XUV700,Gold,2029-05-18,Yes,Everest Insurance,POL-20526386,1,299,False
+JA·HA3903,Jason Price,"3875 Bruce Ville, West Connor, DC 97614",2024,Honda,CR-V,Gold,2028-07-27,Yes,Prabhu Insurance,POL-13976288,2,500,False
+ME·CHA5929,Robert Hines,"135 Julie Inlet Suite 554, Stevenville, NJ 07536",2010,Chevrolet,Equinox,Green,2030-01-19,Yes,Siddhartha Insurance,POL-49645162,4,928,True
+GA·CHA6325,Lauren Blackburn,"168 Gutierrez Ways, East Victoria, MA 54134",2015,Hyundai,Venue,Green,2026-11-10,No,,,0,0,False
+GA·PA2270,Dr. Victoria Thomas,"75250 Shannon Fords, New Kathy, NM 12040",2019,Honda,Accord,Green,2029-03-21,Yes,Nepal Insurance Co.,POL-22028437,0,0,False
+DH·GA5415,Jeffrey Jordan,"0083 Dodson Islands Apt. 003, Lake Natalie, ME 17400",2018,Nissan,Altima,Red,2026-10-27,Yes,Lumbini General Insurance,POL-42580349,2,186,False
+NA·CHA4505,Jonathan Torres,"4789 Hamilton Spur, West Wendy, NM 47588",2009,Kia,Carnival,Beige,2023-11-27,Yes,Shikhar Insurance,POL-74992426,4,568,False
+LU·KA8223,Carmen Meadows,"32309 David Station, South Nancyview, WI 70589",2019,Mahindra,XUV300,Gray,2024-08-20,No,,,0,0,False
+PG·GA5499,Linda Williams,"16761 Wells Drives, Lake Gina, AL 39968",2025,Ford,Endeavour,Green,2027-02-09,Yes,Siddhartha Insurance,POL-36957830,1,95,False
+KO·JA8144,Brian Meyer,"1891 Wilson Coves, Gonzalezborough, WI 34972",2017,Mahindra,XUV700,Blue,2028-07-19,Yes,Siddhartha Insurance,POL-36816708,2,378,False
+RA·MN540,Valerie Howard,"87375 Aaron Skyway, North Maryfort, FL 12308",2014,Ford,Ranger,Beige,2026-09-25,Yes,Prime Life Insurance,POL-77015343,0,0,False
+GA·KA2625,Angela Cummings,"PSC 3744, Box 7012, APO AE 38586",2019,Nissan,Patrol,Silver,2029-01-12,Yes,Lumbini General Insurance,POL-77996397,5,1360,False
+SE·PA5990,Michael Simmons,"22557 Johns Course, Lisaburgh, DE 53031",2007,Chevrolet,Spark,Maroon,2024-12-13,Yes,Prabhu Insurance,POL-32325574,2,122,False
+SA·KA6647,Jesus Houston,"2120 Dale Ramp Suite 972, Maxwelltown, VI 90215",2005,Tata,Safari,Silver,2025-02-05,Yes,Lumbini General Insurance,POL-84892608,2,394,False
+KO·HA7686,Monica Snow,"67014 Smith Ways Apt. 588, South Dorothybury, NJ 45819",2016,Mahindra,XUV300,Black,2029-01-19,No,,,0,0,False
+JA·GA2421,Margaret Hernandez,"28772 Karen Islands, West Tara, AR 66945",2019,Tata,Punch,Blue,2029-04-08,Yes,United Insurance,POL-23102741,0,0,False
+KO·PA5019,Mason Powell,"9717 Stewart Parks Apt. 166, New Andrealand, WY 79695",2015,Toyota,Corolla,White,2030-02-21,Yes,Himalayan General Insurance,POL-79255529,0,0,False
+SE·HA7670,Marcia Wu,"5037 Castro River Suite 571, Port Donnatown, MA 47049",2010,Suzuki,Vitara,Maroon,2023-12-02,Yes,Siddhartha Insurance,POL-36484437,1,159,False
+BH·CHA3471,Tracey Carter,"27261 Carr Field, Port Philipmouth, GU 25480",2008,Kia,Seltos,Gold,2029-05-10,No,,,0,0,False
+GA·KA8119,Ashley Perry,"PSC 9177, Box 9827, APO AE 70016",2017,Chevrolet,Trax,Gold,2029-08-21,No,,,0,0,False
+NA·GA4973,Kristen Reynolds,"922 Paul Rapid, Williamfurt, MT 80323",2009,Mahindra,XUV300,Silver,2027-09-07,Yes,Everest Insurance,POL-60104292,3,540,False
+DH·CHA9517,Pamela Hill,"USNV Chavez, FPO AE 18612",2020,Nissan,Patrol,Black,2030-03-27,Yes,Everest Insurance,POL-84479105,0,0,False
+NA·JA7489,Michael Goodman,"833 Claudia Highway Suite 228, Jenniferstad, OH 63464",2005,Mahindra,Scorpio,Blue,2027-06-10,Yes,Lumbini General Insurance,POL-77838742,2,308,False
+PG·KA7372,Terri Mckinney,"0810 Thomas Skyway Apt. 342, Francesberg, MP 08631",2023,Ford,Ranger,Silver,2025-02-08,Yes,Shikhar Insurance,POL-40177972,1,93,False
+DH·KA8215,Elizabeth Molina,"98386 William Underpass Suite 066, Fryemouth, OH 07552",2023,Chevrolet,Spark,Silver,2024-04-14,Yes,Nepal Insurance Co.,POL-69239219,1,158,False
+SA·GA4155,David Oliver,"59893 Kelly Fall Apt. 228, South Billyview, OH 35135",2013,Kia,Seltos,Beige,2026-11-01,Yes,Sagarmatha Insurance,POL-41802361,0,0,False
+BH·JA7115,Kevin Scott,"25909 Henry Ports, Charlesmouth, NC 29331",2011,Hyundai,Santa Fe,Black,2026-09-05,Yes,Lumbini General Insurance,POL-47726592,2,186,False
+BH·JA4840,Kelly Hartman,"53355 Carter Terrace Suite 801, Seanbury, AZ 89964",2008,Mahindra,Bolero,Brown,2024-01-14,Yes,Shikhar Insurance,POL-98032908,0,0,False
+LU·CHA5377,Jane Hogan,"408 Robertson Pass Suite 704, West Willie, CT 22441",2020,Suzuki,Ertiga,Green,2024-11-01,Yes,Prime Life Insurance,POL-70665302,0,0,False
+RA·PA6700,Patricia Ferguson,"361 Amanda Squares, Lucasland, WA 90422",2019,Chevrolet,Trax,Blue,2028-03-07,Yes,Sagarmatha Insurance,POL-71532017,2,456,False
+JA·GA8856,Joe Rivera,"48193 Russell Mission, Hamiltontown, MS 88751",2011,Nissan,Sentra,Green,2028-02-27,Yes,Prabhu Insurance,POL-83458776,2,388,False
+RA·JA893,Aaron Cortez,"158 Keith Spur, Catherineport, WV 57868",2019,Toyota,Corolla,Maroon,2025-06-16,Yes,Nepal Insurance Co.,POL-67418250,0,0,False
+NA·KA5045,Rodney Johnson,"68424 Bernard Branch, North Bobby, OK 78705",2025,Hyundai,i20,Silver,2026-10-22,Yes,Everest Insurance,POL-16950770,0,0,False
+BH·GA3936,Joshua Miller,"68222 Christina Glen Apt. 129, Port Karenside, NH 84999",2005,Nissan,Altima,Silver,2025-11-27,No,,,0,0,False
+BA·PA5729,Donna Jones,"5231 Harvey Fields Suite 775, Heatherberg, OK 74800",2020,Honda,City,Black,2024-03-12,No,,,4,304,False
+GA·CHA6370,Eugene Patterson,"64525 Ford Knolls, Tonyville, HI 85114",2009,Hyundai,Venue,Maroon,2026-04-18,Yes,Everest Insurance,POL-69069144,0,0,False
+BH·CHA6845,Sarah Trevino,"1108 Lisa Prairie, Hammondborough, PW 05305",2007,Mahindra,Thar,Gray,2027-02-17,Yes,Siddhartha Insurance,POL-61543890,0,0,False
+RA·CHA4159,Kimberly Lutz,"6394 Steven Pass, South Michaeltown, TN 31811",2022,Kia,Seltos,Gray,2029-10-02,Yes,Nepal Insurance Co.,POL-98369672,4,408,False
+SE·CHA6518,Renee Mendez,"2299 Jill Orchard, Billyfort, IN 08740",2020,Kia,Seltos,Gray,2027-09-12,Yes,Siddhartha Insurance,POL-19531069,1,300,True
+KO·JA2262,David Barnett,"7700 Garcia Pike Suite 498, South Desiree, MN 77529",2016,Nissan,Navara,Green,2027-04-25,Yes,Sagarmatha Insurance,POL-12240013,2,106,False
+BA·PA6620,Sara Black,"655 Sparks Rapids, New Nicolemouth, GA 30646",2021,Chevrolet,Trax,Maroon,2028-09-20,Yes,Sagarmatha Insurance,POL-95971459,1,207,False
+JA·JA1394,Mason Lewis,"136 Cortez Orchard Suite 739, Lake Martha, AK 32439",2022,Chevrolet,Cruze,Black,2029-08-20,Yes,Sagarmatha Insurance,POL-51630244,3,708,False
+LU·PA4105,Kenneth Martin,"202 Nielsen Path, Greeneshire, SC 02941",2019,Honda,City,Silver,2026-08-27,Yes,Everest Insurance,POL-26031369,0,0,False
+BA·CHA8233,Monica Nicholson,"USNS Cole, FPO AA 63634",2013,Tata,Altroz,Brown,2025-08-19,Yes,Shikhar Insurance,POL-25845304,3,171,False
+PG·JA8682,Ronald Burke,"842 Nielsen Ranch, East Nicholasberg, CT 02671",2025,Honda,CR-V,Gold,2023-10-16,Yes,Nepal Insurance Co.,POL-77056519,4,368,False
+GA·GA1785,Scott Gordon,"127 Natalie Place, North Timothyberg, MH 79599",2021,Mahindra,Scorpio,Gray,2026-04-10,Yes,United Insurance,POL-58852098,0,0,False
+BA·MN6970,April Pace,"650 Perez Unions Suite 659, South Dennisfort, WI 30976",2018,Suzuki,Baleno,Gray,2028-02-21,Yes,Sagarmatha Insurance,POL-86710258,0,0,False
+BA·CHA3756,Angela George,"00981 Nicholas Ford Suite 651, South Denise, KS 34750",2007,Chevrolet,Malibu,Green,2027-12-06,Yes,Shikhar Insurance,POL-53929586,0,0,False
+KO·CHA4877,Jessica Diaz,"68872 Hansen Orchard Suite 495, Fitzgeraldville, WA 30617",2012,Mahindra,Bolero,Gold,2029-08-30,Yes,Himalayan General Insurance,POL-83357939,3,336,False
+PG·PA3917,Michael Martin,"8902 Oconnell Avenue Apt. 279, Davisview, IN 49107",2005,Chevrolet,Trax,Maroon,2026-05-09,Yes,Prime Life Insurance,POL-51273379,0,0,False
+LU·HA8161,Andrew Cruz,"Unit 9849 Box 0277, DPO AE 26939",2007,Toyota,RAV4,Red,2025-01-16,Yes,Lumbini General Insurance,POL-65439545,3,435,False
+BH·PA9615,Tara Holmes,"205 Diana Estate, West Kimberlystad, TN 52293",2025,Honda,Jazz,Black,2026-10-07,Yes,Nepal Insurance Co.,POL-68382413,2,166,False
+GA·GA5261,Curtis Smith,"489 Bailey Via, Jeremyborough, NH 53448",2019,Nissan,Kicks,Blue,2026-10-06,Yes,Everest Insurance,POL-88478184,0,0,False
+ME·HA5245,Debbie Russell,"451 Walter Via, Heatherfurt, OK 63891",2016,Nissan,Altima,Brown,2027-07-06,Yes,United Insurance,POL-45568761,4,292,False
+SA·JA9984,Nina Ali,"071 Jones Roads Apt. 356, Zacharytown, UT 35018",2009,Toyota,Hilux,Blue,2024-12-13,Yes,Prime Life Insurance,POL-78915391,0,0,False
+NA·PA6725,Brandon Nunez,"275 Robinson Ports, Ianborough, NM 97115",2012,Ford,F-150,Brown,2025-10-09,Yes,Everest Insurance,POL-26301180,0,0,False
+LU·CHA3346,Nicolas Salas,"95211 Emma Shore, Austinside, AZ 63715",2025,Nissan,Kicks,Maroon,2026-10-26,Yes,Shikhar Insurance,POL-20064609,0,0,True
+SA·HA2210,Ethan Villanueva,"2846 Karen Crossroad Apt. 867, New Michaelburgh, NH 16277",2006,Honda,CR-V,Silver,2026-08-18,No,,,2,520,False
+ME·PA6370,Julia Norris,"9155 Lopez Greens, West Thomas, RI 45471",2011,Nissan,Sentra,Blue,2027-11-21,Yes,Everest Insurance,POL-14650569,2,414,False
+GA·HA6850,Jonathan Clark,"6472 Tiffany Spur Apt. 143, Chaseborough, FL 97303",2007,Chevrolet,Equinox,White,2027-02-12,Yes,Lumbini General Insurance,POL-43440045,2,510,False
+BA·HA5983,Robert Thompson,"4489 Raymond Spurs Apt. 034, Combsville, NV 98096",2016,Ford,F-150,Beige,2029-02-28,Yes,Shikhar Insurance,POL-34134478,0,0,False
+BA·GA4702,Isaac Castro,"USNV Cooper, FPO AA 16391",2016,Toyota,Fortuner,Brown,2027-08-26,Yes,Sagarmatha Insurance,POL-43266810,2,236,False
+RA·KA1016,Michael Jacobs,"5587 Preston Light, Stevenberg, VI 22465",2016,Suzuki,Alto,Green,2027-04-27,No,,,2,512,False
+KO·MN562,Tanya Fisher,"12535 Delgado Station Suite 964, Normanstad, WA 77429",2009,Tata,Altroz,Gold,2027-05-27,Yes,United Insurance,POL-82762732,0,0,False
+JA·PA3911,Joanna Jackson,"341 Garrett Cove, North Sharonfort, OH 07556",2021,Mahindra,XUV700,White,2028-03-16,Yes,Himalayan General Insurance,POL-27514010,0,0,False
+RA·GA5401,James Hubbard,"216 Perez Street Suite 722, North Austin, MI 43125",2023,Toyota,Camry,Black,2027-02-21,Yes,Lumbini General Insurance,POL-58974686,5,725,False
+SA·HA9701,Julie Pitts,"USCGC Taylor, FPO AP 71186",2015,Honda,CR-V,Red,2025-06-17,Yes,Prime Life Insurance,POL-95800828,5,1080,False
+BH·MN5946,Kyle Welch,"845 Fernandez Valley Apt. 745, Greenport, AL 00513",2010,Suzuki,Ertiga,Gold,2030-03-17,Yes,Everest Insurance,POL-10241310,5,1460,False
+RA·MN630,Olivia Taylor,"774 Katie Union, Carlatown, OH 49475",2024,Hyundai,Santa Fe,Blue,2025-10-04,Yes,Everest Insurance,POL-54448673,3,330,False
+KO·CHA1553,Stephen Kim,"3416 Zachary Union Suite 484, Lopezland, HI 18408",2013,Tata,Safari,White,2025-12-18,Yes,Sagarmatha Insurance,POL-10171954,0,0,False
+PG·CHA6883,Mark Williamson,"50208 Jacob Cove Suite 427, East Christophertown, NM 28968",2022,Ford,Figo,Blue,2029-01-12,Yes,Siddhartha Insurance,POL-97371655,3,321,False
+JA·GA647,Eric Lloyd,"Unit 7051 Box 2046, DPO AE 71698",2013,Kia,Seltos,Blue,2026-10-05,Yes,Prime Life Insurance,POL-31596235,3,570,False
+JA·JA9832,Corey Skinner,"36730 Steven Trail, New Elizabethborough, NJ 51504",2018,Mahindra,Thar,White,2027-04-09,Yes,Prime Life Insurance,POL-31086112,0,0,False
+LU·HA9178,Emily Morris,"881 Olson Hills, West Paige, VI 87886",2014,Chevrolet,Trax,Maroon,2026-11-19,No,,,2,530,False
+BA·JA162,Brian Chen,"9163 Tanya Prairie, Barkerberg, MN 12229",2025,Nissan,Altima,Red,2027-06-19,No,,,0,0,False
+JA·HA1992,Jonathan Parks,"52812 Hall Point, Lindamouth, VA 25793",2020,Kia,Sonet,Beige,2027-10-31,No,,,1,97,False
+PG·JA3156,James Ramsey,"7848 Lopez Ferry, Mariomouth, KY 78971",2019,Ford,Ecosport,Red,2027-08-13,Yes,Siddhartha Insurance,POL-18273096,0,0,False
+JA·PA5732,Kristen Jones,"8570 Gross Brook Suite 935, Lake Tammyfurt, ID 69191",2012,Chevrolet,Equinox,Gold,2028-07-07,Yes,Prime Life Insurance,POL-81875527,3,867,False
+LU·HA4996,Pamela Moore,"511 Bradley Curve Apt. 031, Leeton, OK 84616",2021,Honda,City,White,2029-03-30,Yes,Siddhartha Insurance,POL-29790089,0,0,False
+NA·CHA3571,Mary Fox,"53910 Diana Village Apt. 705, Shortton, GU 81363",2018,Suzuki,Dzire,White,2023-11-26,Yes,Everest Insurance,POL-89865944,0,0,False
+RA·PA1525,Andrew Jones,"113 Lopez Pine, New Colleen, HI 73694",2022,Nissan,Navara,Green,2027-11-23,Yes,Nepal Insurance Co.,POL-93625419,2,500,False
+PG·CHA2528,Jennifer Garcia,"761 Laura Plaza Suite 852, Mahoneymouth, OH 43054",2008,Mahindra,XUV300,Gold,2029-07-02,Yes,Shikhar Insurance,POL-81891508,4,1096,False
+PG·KA8055,Jennifer Schultz,"398 Nicholas Plaza Suite 577, Smithton, LA 78588",2006,Mahindra,XUV300,Beige,2024-01-31,No,,,2,454,False
+PG·JA3992,Chad Zamora,"50488 Clinton Mount, Ericview, MN 76805",2016,Toyota,Fortuner,Red,2024-08-23,Yes,United Insurance,POL-23182514,5,540,False
+BH·HA5357,David Evans,"157 Tracy Spurs, New Dawnton, VA 76035",2025,Kia,Sonet,Gold,2023-11-13,Yes,Prime Life Insurance,POL-75023164,3,816,False
+BA·MN2704,Richard Weeks,"1390 Brown Pine Apt. 589, West Wayne, IN 20580",2017,Honda,CR-V,Brown,2023-05-28,Yes,Nepal Insurance Co.,POL-33318633,0,0,False
+BA·CHA641,Nicholas Long,"64622 Miller Ports, New Raymondland, MO 66275",2011,Ford,Ecosport,Blue,2028-12-12,Yes,Sagarmatha Insurance,POL-14102122,0,0,False
+ME·CHA7875,Michael Gill,"6938 John Grove, Morrisshire, CO 15250",2016,Mahindra,XUV300,Blue,2024-11-22,Yes,Sagarmatha Insurance,POL-48261364,0,0,True
+DH·GA3611,Jessica Bailey,"2597 Scott Viaduct, East Gina, FL 99818",2011,Suzuki,Ertiga,Gray,2028-08-22,Yes,Nepal Insurance Co.,POL-73632249,5,1075,False
+RA·PA3766,Angelica Singh,"0514 Ruiz Isle, Lake Amanda, IL 72121",2025,Kia,Rio,Red,2028-06-16,Yes,United Insurance,POL-43822694,0,0,False
+SE·GA6606,Deanna Webb,"069 Jonathan Circle, Jamesview, AR 61444",2021,Mahindra,Scorpio,White,2028-06-11,Yes,Siddhartha Insurance,POL-91745321,0,0,False
+ME·PA5609,Alejandra Price,"04636 Rebecca Oval Apt. 238, Castrotown, AZ 32927",2013,Kia,Carnival,Red,2029-12-31,Yes,Everest Insurance,POL-79429969,3,840,True
+RA·GA9930,Elizabeth Burns,"5543 Cain Road, Natashatown, OH 37226",2009,Nissan,Kicks,Maroon,2030-01-08,Yes,Shikhar Insurance,POL-44819604,5,765,False
+BA·MN9472,Glenn Long,"936 Ashley Meadow Suite 957, East Denise, OR 71457",2022,Suzuki,Baleno,Gray,2029-01-05,Yes,Prabhu Insurance,POL-78090647,0,0,False
+SA·MN3067,Christina Taylor,"2925 Angela Stravenue, East Lonnieberg, VA 04365",2009,Kia,Seltos,Beige,2029-06-24,Yes,Everest Insurance,POL-55047826,2,212,False
+BH·GA5131,Sheryl Gutierrez,"423 David Burg Suite 999, New Jesse, TX 03919",2013,Nissan,Kicks,Blue,2028-12-11,Yes,United Insurance,POL-17204398,4,796,False
+DH·PA7836,Michael Woods,"526 Wells Estates Apt. 306, West Stephaniebury, WA 88494",2017,Suzuki,Alto,Silver,2028-08-30,No,,,4,340,False
+KO·HA9429,Norma Jones DVM,"Unit 9757 Box 3660, DPO AP 96882",2010,Ford,Ranger,Blue,2029-01-29,Yes,Everest Insurance,POL-52065724,2,102,False
+LU·GA2862,Michelle Long,"USS Meyer, FPO AA 60387",2007,Mahindra,XUV700,Beige,2023-11-29,Yes,Prime Life Insurance,POL-67582820,5,740,True
+SE·CHA6212,Amanda Forbes,"086 James Mill Suite 447, South Kelly, PW 07650",2011,Toyota,Land Cruiser,Brown,2026-04-27,Yes,Himalayan General Insurance,POL-40368869,3,414,False
+JA·HA8346,Stephanie Ford,"812 Phillip Islands, Johnsonmouth, OR 93907",2007,Mahindra,Bolero,Black,2028-01-07,Yes,United Insurance,POL-79831928,2,272,False
+SA·CHA5715,Sonya Davis,"111 Walters Corner, Acostahaven, RI 21459",2010,Ford,Endeavour,Gray,2028-08-10,No,,,0,0,False
+LU·KA459,James Tate,"PSC 9222, Box 2064, APO AA 96204",2008,Mahindra,XUV300,Black,2029-12-29,Yes,Prime Life Insurance,POL-95942441,0,0,False
+BA·MN885,Jill Sims,"09407 Foley Plains, New Nicolebury, IL 77684",2006,Honda,HR-V,White,2028-09-06,Yes,Sagarmatha Insurance,POL-83454998,0,0,False
+LU·KA252,Jordan Ramos,"84983 Jack Centers, Benjaminton, TN 76272",2008,Kia,Sonet,Maroon,2027-11-10,Yes,Everest Insurance,POL-66213840,4,304,False
+DH·PA4731,Elizabeth Knapp,"24999 Tammy Summit Suite 014, Miguelfurt, GU 09370",2011,Honda,Civic,Beige,2027-10-27,Yes,Himalayan General Insurance,POL-58039455,3,375,False
+SE·HA3502,Sarah Brown,"458 Warren Square, New Brian, OK 96147",2005,Ford,Endeavour,Gray,2025-11-04,Yes,Siddhartha Insurance,POL-99794603,1,293,False
+SE·PA1759,Kendra Miller,"9548 Ho Ridges Suite 877, New Jesse, LA 25870",2014,Kia,Sportage,Beige,2026-08-17,No,,,0,0,True
+GA·JA5223,Alexander Garrett,"660 Bailey Valley, North Danielle, UT 37414",2006,Nissan,Altima,Silver,2025-07-26,Yes,Everest Insurance,POL-54112109,0,0,False
+DH·JA1622,Barry Evans,"55699 Marilyn Fields, Marthafort, PW 62694",2008,Tata,Punch,Black,2028-11-26,Yes,Prime Life Insurance,POL-74188958,4,864,False
+NA·PA2271,Maria Olson,"6084 Peters Brook Apt. 955, East Juantown, MA 49684",2018,Toyota,RAV4,Silver,2029-01-19,Yes,United Insurance,POL-34328380,2,498,False
+BA·GA2240,Sarah Duncan,"5046 Tyler Freeway, Shannonport, IL 69326",2018,Ford,Figo,Silver,2026-09-13,Yes,Prabhu Insurance,POL-11658959,3,669,False
+BH·MN9357,Brian Glover,"8078 James Orchard, Kimberlyberg, WI 13379",2021,Suzuki,Ertiga,Blue,2030-04-10,Yes,Prime Life Insurance,POL-98813650,3,519,False
+SA·KA6405,Teresa Rhodes,"6810 Randolph Spur, West Steventon, CT 68734",2006,Hyundai,Santa Fe,Gold,2025-06-18,Yes,United Insurance,POL-76549837,4,276,False
+KO·CHA5521,Nichole Johnson,"3344 Mejia Skyway, West Edwardview, DE 02500",2012,Kia,Seltos,Brown,2028-06-20,Yes,Himalayan General Insurance,POL-20580463,1,255,False
+JA·GA8266,Kristin Garcia,"2493 Charles Ridge Suite 870, North Thomas, TX 07114",2020,Ford,Endeavour,Silver,2026-06-12,No,,,0,0,False
+BA·GA1589,Anthony Simmons,"545 Jennifer Skyway Apt. 792, Port Leahmouth, CT 60215",2014,Mahindra,XUV300,Maroon,2029-07-01,Yes,United Insurance,POL-55748676,0,0,True
+LU·GA7545,Matthew Miranda,"94562 Mccormick Islands, Freemanland, NJ 15297",2024,Tata,Altroz,Gold,2030-01-11,Yes,United Insurance,POL-25303956,0,0,False
+BA·JA5918,Joel Jackson,"161 Hawkins Cliffs, Amandafurt, OR 54691",2016,Kia,Rio,Brown,2026-08-08,Yes,United Insurance,POL-28850770,4,960,False
+JA·JA3309,David Moore,"3966 Stephens Freeway, Lake Elizabeth, WA 93812",2011,Suzuki,Swift,Green,2027-06-01,Yes,Sagarmatha Insurance,POL-65629268,0,0,False
+SA·MN2118,Katelyn Vargas,"2461 Gina Ranch, Murphyton, CO 29023",2023,Ford,Figo,Maroon,2027-02-06,Yes,Nepal Insurance Co.,POL-81184297,3,573,False
+DH·HA8428,Stacy Berger,"27846 Gonzalez Springs, Kevinport, PW 57481",2010,Hyundai,Venue,Gold,2027-01-24,No,,,2,410,False
+SE·HA6959,Suzanne Mooney,"40580 Jacqueline View Suite 140, South Jacqueline, MO 82449",2017,Mahindra,XUV700,Red,2027-12-30,Yes,Everest Insurance,POL-28546206,0,0,False
+BH·MN4997,James James,"2386 Larsen Drives, Whitneyberg, DC 02021",2025,Chevrolet,Trax,Brown,2025-03-02,Yes,Shikhar Insurance,POL-56344519,5,415,False
+SA·CHA8355,Alan Griffith,"12679 Hanson Motorway Suite 876, Jeremiahchester, PA 01474",2016,Chevrolet,Trax,Silver,2029-08-12,Yes,Prime Life Insurance,POL-81659221,0,0,False
+RA·PA8664,Sarah Young,"950 Ashley Squares Suite 197, East Jessicahaven, PR 98881",2009,Honda,Civic,Green,2026-01-10,No,,,3,273,False
+SA·JA2499,Julie Miller,"71894 Rebecca Place, South Shawnfort, OK 96683",2022,Toyota,Yaris,Gray,2023-10-22,No,,,4,956,False
+LU·KA9295,Harry Levine,"94940 Lane Ports, Lake Veronicatown, LA 64039",2014,Nissan,Sentra,Brown,2026-08-11,Yes,Prime Life Insurance,POL-65910573,5,1495,False
+SE·PA312,Jonathan York,"444 Judith Rapids, New Joanne, TN 59044",2019,Kia,Sportage,Gold,2029-11-24,Yes,Prabhu Insurance,POL-88971743,1,204,False
+BH·CHA4919,Christopher Patton,"051 Caitlin View, Port Tyler, MT 50723",2007,Ford,Ranger,Maroon,2025-05-15,Yes,Sagarmatha Insurance,POL-60626689,0,0,False
+GA·CHA2736,Jeremiah Walsh,"41027 Alvarez Mountains Apt. 667, Dustinchester, AL 38353",2015,Mahindra,Bolero,White,2027-03-20,No,,,5,1010,True
+SA·MN5034,Joan Gregory,"USS Davis, FPO AP 84049",2016,Ford,F-150,Brown,2024-07-24,Yes,Everest Insurance,POL-79874593,0,0,False
+PG·MN8898,Ryan Bishop,"4414 Murray Spring Apt. 938, Ericaburgh, MD 72277",2012,Nissan,Altima,Blue,2030-01-24,Yes,Prabhu Insurance,POL-49402883,0,0,False
+SE·HA9296,Adam Jones,"753 King Bypass, New Christopherborough, PA 84135",2016,Toyota,Corolla,Maroon,2029-12-12,Yes,Siddhartha Insurance,POL-42725927,5,1120,False
+PG·GA1957,Tyler Miller,"921 Jon Mountain Apt. 746, Jonathanland, KY 08678",2014,Nissan,Kicks,Brown,2023-06-12,Yes,Prabhu Insurance,POL-79029393,4,656,False
+GA·KA3254,Gary Brown,"USNV Thompson, FPO AE 64951",2008,Tata,Altroz,Silver,2023-05-09,No,,,0,0,False
+RA·CHA7050,Christina Long,"86391 Baldwin Cove, North Chadview, WI 58943",2018,Honda,Accord,Brown,2026-10-01,Yes,Everest Insurance,POL-13188066,1,134,True
+JA·PA3016,Jonathan Delgado,"642 Conway Ports, New Jasminefort, NJ 57655",2023,Kia,Rio,Silver,2027-10-18,Yes,United Insurance,POL-94586329,0,0,False
+PG·KA2038,Nicholas Burnett,"67198 Cook Hollow, Brownland, MN 70575",2024,Chevrolet,Malibu,Maroon,2026-02-01,Yes,Sagarmatha Insurance,POL-58009699,5,385,False
+SA·JA1517,Gina Randall,"328 Tammy Shore Apt. 461, Tommouth, WA 25334",2017,Kia,Sonet,Green,2026-07-09,Yes,Lumbini General Insurance,POL-39509878,0,0,False
+RA·GA9041,Corey Cortez,"1847 Levy Brook Apt. 505, South Davidhaven, NH 89378",2025,Kia,Sportage,Red,2026-05-29,Yes,Lumbini General Insurance,POL-28974879,0,0,True
+DH·HA8900,Kimberly Figueroa,"27079 John Run, North Gerald, AR 40784",2011,Chevrolet,Malibu,Red,2028-04-10,Yes,Lumbini General Insurance,POL-29120002,0,0,False
+GA·CHA1977,Anne Carr,"17993 Linda Meadow, Lisafurt, MD 16334",2006,Hyundai,Venue,Gold,2029-06-04,Yes,Lumbini General Insurance,POL-19817298,0,0,True
+JA·CHA9612,Laura Taylor,"92511 Thomas Mall, Lake Mitchell, GA 57997",2009,Ford,Endeavour,Blue,2027-08-30,No,,,2,560,False
+ME·HA5479,Kevin Anderson,"07100 Sara Squares Suite 672, East Danielle, NC 59538",2009,Mahindra,Bolero,Gold,2028-05-22,Yes,Prime Life Insurance,POL-32634412,0,0,False
+LU·KA7245,Todd Bishop,"791 Bailey Avenue, East David, NC 13042",2015,Kia,Carnival,Black,2028-12-09,Yes,Shikhar Insurance,POL-75360192,1,94,False
+JA·GA4697,Shari Hatfield,"340 Daniel Drive Suite 722, North Deannaport, IL 57474",2013,Hyundai,Santa Fe,Gray,2029-11-10,No,,,0,0,True
+SE·KA611,Luis Wu,"082 Kristen Oval, North Pattymouth, OR 76491",2023,Mahindra,XUV300,Green,2026-02-19,Yes,Lumbini General Insurance,POL-82434236,1,248,False
+PG·CHA9760,Cristian Rhodes,"3136 Nicholas Forges, South Brendaton, FM 57630",2021,Kia,Sportage,Beige,2028-07-27,Yes,Nepal Insurance Co.,POL-98943201,0,0,False
+DH·KA2817,Timothy Gibson,"3543 Martinez Square, West Derekmouth, NH 55318",2010,Chevrolet,Cruze,Beige,2025-07-10,Yes,United Insurance,POL-58156722,0,0,False
+LU·PA4431,Greg Tanner,"831 Vincent Overpass, New Thomas, NH 37092",2011,Tata,Harrier,White,2028-05-15,Yes,United Insurance,POL-16232730,0,0,False
+JA·KA8642,Jeffrey Salas,"392 Robert Cape Apt. 780, Schmidtfort, AS 91812",2022,Kia,Carnival,Gold,2028-06-16,Yes,Prabhu Insurance,POL-88876916,2,526,True
+GA·HA3751,Jodi Allen,"632 Phillips Rue, North Timothyport, GA 92684",2016,Chevrolet,Equinox,Blue,2029-01-18,Yes,Nepal Insurance Co.,POL-77355419,4,648,False
+JA·MN4700,Kelly Silva,"Unit 7262 Box 5701, DPO AA 91039",2010,Suzuki,Dzire,Black,2027-01-04,Yes,Prime Life Insurance,POL-54322017,3,519,False
+ME·CHA9779,Andrew Simmons,"195 Zachary Spring, Pamelaville, MS 48419",2005,Hyundai,Venue,Green,2025-08-17,Yes,Everest Insurance,POL-28082355,2,120,False
+NA·PA2825,Andrew Richardson,"325 Amber Run, Mclaughlinshire, VI 92624",2017,Kia,Sportage,Brown,2029-07-04,Yes,Shikhar Insurance,POL-21508969,0,0,False
+ME·GA7991,Patrick Perez,"640 Nathan Mission Suite 881, Mckinneyside, MH 38808",2024,Hyundai,Creta,Green,2025-04-28,Yes,Lumbini General Insurance,POL-45503367,0,0,False
+ME·MN9776,Jacob Nunez,"71162 Mullen Club, East Joshuaberg, NM 20227",2017,Honda,Accord,Green,2026-04-02,Yes,Lumbini General Insurance,POL-66343932,4,820,False
+ME·MN9927,Kelly Burton,"5670 Lopez Brooks, Port Stacey, SD 44525",2020,Toyota,Corolla,Silver,2029-09-23,Yes,Nepal Insurance Co.,POL-97138408,0,0,False
+BA·KA8780,Grant Lucas,"4924 Kristina Forks Suite 540, West Justin, GA 81586",2017,Nissan,Sentra,Beige,2030-04-02,Yes,Prime Life Insurance,POL-27969486,0,0,False
+JA·JA9902,Michelle Mitchell,"Unit 2231 Box 0592, DPO AA 34633",2011,Chevrolet,Equinox,Red,2026-04-21,Yes,Sagarmatha Insurance,POL-79761254,0,0,False
+BH·GA5275,Daniel Mann,"57828 Martinez Burg Suite 727, Ericside, NY 43922",2009,Nissan,Kicks,Silver,2029-08-17,Yes,Lumbini General Insurance,POL-66849468,2,412,False
+SA·HA3437,Elizabeth Kemp,"Unit 9297 Box 5170, DPO AE 89368",2020,Nissan,Navara,Brown,2023-08-19,Yes,Shikhar Insurance,POL-87531025,0,0,False
+BH·CHA2051,Elizabeth Morales,"1509 Brandy Forges Suite 301, Rhodesland, NY 52198",2008,Suzuki,Vitara,Black,2024-02-05,Yes,Lumbini General Insurance,POL-92413089,3,690,True
+PG·KA186,Evan Jacobs,"USNV Sanders, FPO AP 56552",2024,Honda,Accord,Beige,2026-09-15,Yes,Prabhu Insurance,POL-20742751,2,470,False
+PG·MN8636,Jake Mitchell,"137 Lara Heights Apt. 662, East Jaredfort, VI 69353",2010,Kia,Rio,White,2028-10-22,No,,,4,1152,False
+GA·CHA650,Mrs. Toni Avila,"462 Page Throughway Apt. 326, Angelaton, GU 40083",2012,Mahindra,XUV300,Brown,2030-02-15,No,,,0,0,True
+NA·PA4620,Elizabeth Hansen,"24471 Butler Overpass, North David, KY 65126",2017,Nissan,Kicks,Maroon,2027-06-21,Yes,Sagarmatha Insurance,POL-22101856,1,235,False
+DH·JA5793,Andrea Reese DDS,"715 Megan Estates Apt. 257, West Frank, KY 47839",2011,Kia,Sportage,Gold,2028-08-11,Yes,Shikhar Insurance,POL-33492771,0,0,False
+JA·MN4921,Thomas Kelly,"321 Amy Well, Margaretport, KY 90343",2013,Tata,Nexon,Brown,2029-07-27,Yes,United Insurance,POL-60610858,2,494,False
+KO·GA7617,Heidi Ferguson,"28457 Peterson Estates, East Ericbury, MP 25197",2020,Ford,F-150,White,2025-12-18,Yes,Himalayan General Insurance,POL-40860700,4,620,False
+SE·MN259,Kristin Norris,"USS Butler, FPO AE 15779",2007,Kia,Sportage,Red,2028-04-06,No,,,5,855,False
+LU·MN4508,Tammy Mendoza,"79852 Johnson Via Apt. 322, West David, DC 10803",2011,Hyundai,Venue,Maroon,2027-06-19,Yes,Himalayan General Insurance,POL-45622106,0,0,False
+LU·GA5933,Phillip Rodriguez,"0310 Taylor Glen Apt. 140, Port Davidborough, OR 26718",2007,Hyundai,Tucson,Silver,2030-01-24,Yes,Nepal Insurance Co.,POL-82675403,5,1335,False
+DH·JA8166,Gregory Davis,"552 William Cliff Apt. 908, Lake James, LA 23015",2010,Mahindra,Bolero,Beige,2029-03-18,Yes,Himalayan General Insurance,POL-87398691,0,0,False
+PG·HA8959,Kimberly Beltran,"759 Scott Coves, Port Michael, MS 56087",2010,Toyota,Land Cruiser,Green,2027-01-08,Yes,United Insurance,POL-52365995,3,159,False
+PG·MN1750,Darren Rodriguez,"Unit 1718 Box 2754, DPO AP 95152",2013,Tata,Punch,Gold,2024-11-13,Yes,United Insurance,POL-92286747,0,0,False
+PG·CHA6966,Garrett Wilson,"738 Roberts Walk Suite 317, Harryfort, TX 14286",2013,Tata,Punch,Green,2029-07-20,No,,,2,216,False
+BH·JA3963,Joseph Rhodes,"9121 Hester Junction Apt. 961, Port Roger, NM 37006",2011,Chevrolet,Equinox,Green,2025-07-03,Yes,Nepal Insurance Co.,POL-33703827,0,0,False
+SA·MN8848,Pamela Wheeler,"7967 Hernandez Motorway Apt. 147, Hallberg, AK 13556",2013,Tata,Safari,Red,2029-07-12,No,,,0,0,False
+LU·GA4266,Sandra Jimenez,"9524 Kathleen Shore, Sparksborough, LA 87282",2015,Ford,Ecosport,Beige,2028-05-13,Yes,Shikhar Insurance,POL-56189726,0,0,False
+SA·MN3359,Mr. Joshua Pacheco MD,"1675 Ramos Camp, East Angelaport, FM 93045",2025,Mahindra,XUV300,Maroon,2027-12-10,Yes,Lumbini General Insurance,POL-75430302,3,492,False
+PG·MN4794,Jeffrey Edwards,"788 Alvarez Walk, New Brian, KS 65341",2025,Ford,Ranger,Black,2028-03-27,Yes,Siddhartha Insurance,POL-86723896,0,0,False
+JA·CHA5729,Jamie Rhodes,"0090 Mary Keys Apt. 561, Reedstad, MT 46542",2025,Suzuki,Baleno,Blue,2027-11-05,Yes,Prime Life Insurance,POL-46406303,4,996,False
+KO·KA9716,David Young,"141 Jackson Plain, Benjaminchester, OK 67971",2010,Chevrolet,Equinox,Green,2026-03-19,No,,,0,0,False
+BH·KA1411,Deborah Dominguez,"9659 Lindsey Courts Apt. 578, Garrettport, MN 57647",2008,Suzuki,Dzire,Green,2023-09-09,Yes,Nepal Insurance Co.,POL-63286118,1,71,False
+DH·CHA1481,Mark Dickson,"4049 Ballard Road, Lake Meganville, OR 44651",2012,Nissan,Kicks,Gray,2028-10-30,Yes,Everest Insurance,POL-80698159,4,228,True
+KO·GA5428,Keith Schmidt,"48468 Gonzalez Locks Suite 987, North Courtney, NC 24951",2013,Ford,Figo,Brown,2027-02-07,Yes,Lumbini General Insurance,POL-33761455,2,332,False
+SA·MN7226,Christy Hayden,"8969 Alexa Lakes Suite 232, Meganchester, MD 08945",2016,Chevrolet,Spark,Red,2027-08-15,Yes,United Insurance,POL-51321368,0,0,False
+GA·PA101,Sarah Adams,"9363 Edward Burgs, Port Margaret, NH 64121",2014,Chevrolet,Cruze,Blue,2026-05-24,Yes,United Insurance,POL-74030858,0,0,False
+RA·JA9881,Jessica Lucas,"2044 Dawn Canyon, Caseyton, VI 11501",2016,Suzuki,Swift,Brown,2023-11-22,Yes,Everest Insurance,POL-96703417,0,0,False
+GA·PA7017,Edward Brown,"USNV Powers, FPO AE 52522",2013,Suzuki,Alto,Gold,2029-04-30,Yes,Prime Life Insurance,POL-35233016,4,384,False
+JA·KA7560,Misty Taylor,"984 Wilkerson Freeway, Port Lindsaymouth, MP 77089",2024,Mahindra,Thar,Red,2028-02-22,No,,,0,0,False
+NA·PA4722,Renee Manning,"USNS Thomas, FPO AE 28564",2005,Kia,Sportage,Beige,2025-07-01,No,,,0,0,False
+RA·GA8265,Jessica King,"515 Wells Gateway Suite 257, Loritown, SD 79906",2015,Tata,Safari,White,2025-07-10,No,,,3,204,False
+NA·CHA4197,Patrick Lindsey,"8645 Amanda Freeway, Pricefurt, PW 33994",2012,Nissan,Altima,Silver,2028-10-30,Yes,Nepal Insurance Co.,POL-36733470,1,247,False
+SA·CHA7846,Timothy Sherman,"5604 Madeline Overpass, Mclaughlinmouth, VT 55861",2010,Nissan,Kicks,Blue,2026-08-01,Yes,Lumbini General Insurance,POL-79917538,0,0,False
+GA·CHA6005,Samantha Holloway,"6985 Neal Track, Lake Darlenemouth, WY 84531",2012,Toyota,Hilux,Silver,2028-03-01,No,,,4,796,False
+RA·CHA246,James Fuller,"23829 Sparks Island, Mendozaberg, KS 23239",2009,Toyota,Fortuner,Gold,2026-11-06,Yes,United Insurance,POL-22267708,3,408,False
+RA·KA1083,Samantha Marsh,"2669 Andrew Brooks Apt. 173, Jacquelineburgh, AR 53065",2009,Toyota,Land Cruiser,Maroon,2026-12-12,No,,,0,0,False
+RA·KA5790,Lindsay Hernandez,"USNS Valentine, FPO AE 02351",2017,Ford,Ranger,White,2027-02-06,Yes,Nepal Insurance Co.,POL-75136149,3,579,False
+BH·HA3209,Jessica Mora,"33344 Reyes Meadows Apt. 934, South Henry, WY 19630",2016,Mahindra,XUV700,Brown,2028-12-21,Yes,Siddhartha Insurance,POL-84426456,0,0,False
+ME·JA4414,William Young,"9710 Anderson Islands, Mcdanielfurt, VT 55982",2005,Chevrolet,Trax,Beige,2029-03-08,Yes,Everest Insurance,POL-12512536,2,286,False
+LU·JA1137,Dawn Davis,"75990 Jon River Suite 465, New Blake, HI 34617",2021,Chevrolet,Equinox,Gray,2029-06-09,No,,,0,0,False
+KO·PA1677,Johnathan Morgan,"8624 Lawrence Crossroad, Savageview, WA 47764",2009,Chevrolet,Malibu,White,2026-03-02,Yes,United Insurance,POL-35718350,0,0,False
+PG·KA8126,Diane Mcdowell,"562 Doyle Overpass Apt. 870, East Brian, HI 05201",2013,Chevrolet,Spark,Gold,2025-02-07,Yes,Sagarmatha Insurance,POL-11756387,5,515,False
+JA·HA1094,Christopher Mcdonald,"75877 Rodriguez Stravenue Apt. 151, Port Justin, MP 22559",2016,Tata,Altroz,Green,2026-09-03,Yes,Shikhar Insurance,POL-81003974,0,0,True
+GA·PA3637,Samantha Elliott,"089 Robert Club, Port Tyler, CT 43578",2012,Chevrolet,Malibu,Silver,2027-05-30,No,,,2,390,False
+NA·MN9244,Michael Becker,"2017 Gibson Grove, West Taramouth, MD 96386",2023,Nissan,Altima,Maroon,2028-12-01,Yes,Prime Life Insurance,POL-23972387,0,0,False
+PG·MN5629,Dr. Rebecca Anderson DVM,"0189 Davis Glens Apt. 361, Port Jaredfurt, WI 53243",2019,Hyundai,Santa Fe,Gold,2028-02-11,Yes,Prabhu Insurance,POL-59891348,0,0,False
+BH·JA4043,Paul Valdez,"4925 Marilyn Passage Apt. 776, Adamschester, CO 99655",2017,Mahindra,XUV300,Gray,2027-10-09,Yes,United Insurance,POL-70062404,5,250,False
+GA·MN367,Jacob Lopez,"85732 Rose Rue, West Taylorland, PW 63102",2005,Chevrolet,Cruze,Red,2027-08-04,Yes,Prabhu Insurance,POL-12912708,3,873,False
+GA·MN8476,William Sutton,"649 Andrea Cape, New Rogerville, NH 87120",2009,Chevrolet,Spark,Gold,2023-10-06,Yes,Everest Insurance,POL-45566111,0,0,False
+LU·JA5020,Robin Kelly,"72260 Robert Squares, Leemouth, WV 88353",2023,Honda,Jazz,Green,2026-10-12,Yes,United Insurance,POL-33206579,1,280,False
+DH·GA1662,Robert Peterson,"PSC 2321, Box 9416, APO AP 02849",2023,Mahindra,Bolero,White,2026-08-29,Yes,Prabhu Insurance,POL-56698401,4,644,False
+JA·GA3814,Bruce Jackson,"974 Vazquez Spurs Suite 412, North James, GU 02583",2025,Mahindra,Scorpio,Maroon,2028-01-21,Yes,Prabhu Insurance,POL-82468141,2,266,False
+LU·CHA927,Chelsea Johnson,"368 Christopher Trail, Hernandezchester, AK 15765",2023,Nissan,Patrol,Gold,2027-08-04,Yes,Prime Life Insurance,POL-29865888,0,0,False
+DH·KA907,Christian Park,"USCGC Smith, FPO AA 77207",2007,Chevrolet,Equinox,Red,2028-10-12,Yes,Everest Insurance,POL-28102047,1,100,False
+SA·MN3312,Edward Gallegos,"16679 Johnson Locks Suite 899, Hallton, NC 02993",2012,Chevrolet,Spark,Brown,2024-11-06,Yes,Prabhu Insurance,POL-87311859,0,0,False
+PG·JA5806,Ethan Brown,"PSC 6717, Box 9576, APO AE 21647",2024,Suzuki,Baleno,Blue,2028-01-21,No,,,0,0,False
+RA·HA2489,Corey Cooper,"597 Nicole Stream, Moyerstad, WY 62409",2011,Ford,Ecosport,Gray,2027-03-22,Yes,Sagarmatha Insurance,POL-25082279,3,336,False
+NA·GA4813,Sarah Howell,"722 Eric Overpass, Port Robertfort, ME 31266",2014,Toyota,Land Cruiser,Silver,2026-06-22,Yes,Lumbini General Insurance,POL-38437423,0,0,False
+GA·MN8013,Anthony Smith,"228 Lindsay Junction Suite 193, New Jeffreyview, MA 47063",2005,Mahindra,XUV700,Maroon,2030-01-24,Yes,Shikhar Insurance,POL-32859916,0,0,False
+BH·MN4544,Patricia Hawkins,"PSC 8910, Box 7711, APO AP 80409",2005,Toyota,Fortuner,Maroon,2024-10-27,Yes,Prabhu Insurance,POL-24480943,0,0,False
+SA·HA3887,Theresa Colon,"13524 Gill Parks, East Deborahmouth, GU 18559",2015,Nissan,Navara,Silver,2029-09-10,Yes,Everest Insurance,POL-36692577,1,167,False
+BH·PA751,Dakota Montes,"75482 Joseph Stravenue, Wardbury, FL 99225",2015,Suzuki,Alto,Red,2027-03-24,No,,,3,420,False
+LU·MN4619,Jennifer Perez,"7850 Thomas Branch Apt. 155, Holdenburgh, NE 08557",2005,Toyota,Yaris,Green,2027-12-01,Yes,Prabhu Insurance,POL-62726977,2,144,False
+SE·KA3826,Andrew Nielsen,"846 Blackwell Squares, Jennifermouth, PW 45610",2009,Nissan,Sentra,Gold,2028-02-05,Yes,Prabhu Insurance,POL-70286467,1,102,False
+DH·MN3414,Douglas Rose,"PSC 6738, Box 9975, APO AP 53520",2009,Hyundai,i20,Brown,2027-02-28,Yes,Siddhartha Insurance,POL-31212832,0,0,False
+BH·PA3116,Shirley Miller,"288 Lewis Pass Suite 852, North Pamelaside, OR 34408",2015,Tata,Harrier,White,2028-08-31,Yes,Shikhar Insurance,POL-69459055,3,780,False
+BH·JA2589,Raymond Barber,"Unit 1054 Box 8510, DPO AP 16852",2010,Suzuki,Swift,Black,2024-11-05,Yes,Siddhartha Insurance,POL-40992396,2,218,False
+KO·PA7908,Kenneth Smith,"998 Michael Haven, Lake Nicholas, WA 32958",2020,Hyundai,Santa Fe,Gold,2028-06-10,No,,,0,0,False
+NA·CHA3807,Jose Lee,"26611 Roger Curve Suite 371, Ericafurt, OR 73766",2013,Toyota,Prius,White,2027-08-05,Yes,Himalayan General Insurance,POL-37455861,0,0,False
+ME·GA8127,Jennifer Baker,"7622 Todd Mount Apt. 881, South Thomas, WA 21058",2018,Tata,Safari,Gray,2026-07-31,Yes,Prime Life Insurance,POL-51996390,0,0,False
+DH·MN8884,Jaclyn Crane,"15940 David Inlet Suite 447, Port Douglasshire, MT 06877",2008,Chevrolet,Malibu,Brown,2026-08-01,Yes,Himalayan General Insurance,POL-79619091,1,238,True
+PG·MN907,Elizabeth Campbell,"18510 Olson Inlet Suite 567, Port Dillon, SC 60916",2017,Suzuki,Baleno,Beige,2027-12-13,Yes,Prime Life Insurance,POL-49516346,2,126,False
+NA·HA7500,Mary Hernandez,"966 Rachel Junction, Lake Pamelaview, SD 12104",2008,Honda,HR-V,Brown,2025-08-01,Yes,Prabhu Insurance,POL-70516875,0,0,False
+BH·CHA7549,Michelle Armstrong,"181 Stephanie Plains Apt. 983, Shawtown, DE 86779",2025,Honda,CR-V,Blue,2027-04-07,Yes,Sagarmatha Insurance,POL-22239481,0,0,False
+KO·PA8682,Catherine Smith,"971 Morales Cape, Atkinstown, MA 57781",2010,Nissan,Navara,Gold,2028-06-24,No,,,0,0,False
+SA·GA2559,Alexander Rice,"18242 Jonathan Corners, West Stephanie, TX 22677",2006,Hyundai,Creta,Black,2028-01-30,Yes,United Insurance,POL-48759467,2,160,False
+LU·PA4246,Tyrone White,"1526 Scott Views Apt. 033, South William, NY 50970",2020,Toyota,Fortuner,Beige,2026-05-18,Yes,United Insurance,POL-41927492,0,0,False
+ME·HA7339,Debra Flores,"0630 Spencer Radial, East Kathrynberg, ME 74982",2005,Honda,Jazz,Gold,2024-10-13,Yes,Lumbini General Insurance,POL-37868647,0,0,False
+SA·JA701,Bradley Fields,"8238 Ali Point, Williamsmouth, MP 81861",2023,Hyundai,Tucson,Maroon,2028-01-08,Yes,Sagarmatha Insurance,POL-16580878,0,0,False
+NA·KA4759,William Smith,"USCGC Nelson, FPO AA 89629",2022,Mahindra,XUV300,Gold,2023-10-16,Yes,Prabhu Insurance,POL-14810369,0,0,False
+KO·HA1208,Gregory Chen,"28914 Randall Crossing Apt. 846, New William, AS 42221",2014,Nissan,Navara,Silver,2027-01-11,Yes,Shikhar Insurance,POL-54185620,1,184,False
+LU·MN1053,Theresa Reid,"Unit 7435 Box 5379, DPO AA 02581",2021,Honda,Jazz,Maroon,2029-01-21,Yes,Siddhartha Insurance,POL-48545627,0,0,False
+GA·MN9523,Brandi Nielsen,"26876 Kristin Run, New Anthonymouth, TX 16677",2024,Mahindra,Bolero,Black,2029-04-05,Yes,United Insurance,POL-76102828,4,1104,False
+BH·JA3271,Robert Carey,"017 Mayer Mills, East Juliaview, TX 93456",2019,Toyota,Corolla,White,2027-01-03,Yes,Himalayan General Insurance,POL-92585240,5,775,True
+KO·MN3578,Brandon Austin,"75047 Adrian View, Rodriguezview, OK 66079",2013,Toyota,Hilux,Red,2028-01-27,Yes,Lumbini General Insurance,POL-53476321,3,237,False
+KO·HA9421,Juan Keller MD,"92124 Nicole Stream, Jamestown, UT 89333",2011,Mahindra,Scorpio,Black,2028-03-29,Yes,United Insurance,POL-73686372,4,860,False
+NA·KA7646,Dawn Castro,"056 Hill Springs Suite 758, Lake Jeffreyview, PW 55559",2018,Chevrolet,Trax,Beige,2026-08-29,Yes,Shikhar Insurance,POL-85825317,3,390,False
+BA·CHA9560,Emily Myers,"361 James Isle, Bryanville, AK 63411",2009,Tata,Punch,Silver,2026-07-09,Yes,Prime Life Insurance,POL-94088862,1,92,False
+PG·CHA9851,Alexander Robles,"USNV Wright, FPO AA 31743",2006,Honda,CR-V,Blue,2026-10-31,Yes,Himalayan General Insurance,POL-59873103,1,293,False
+SE·JA2967,Sandra Underwood,"99717 Christopher Circle, South Lawrenceland, WY 17217",2011,Honda,CR-V,White,2028-10-31,Yes,United Insurance,POL-77116153,0,0,False
+ME·KA8679,Robert Brown,"10804 Morales River Suite 399, South Patrickchester, FM 81793",2008,Kia,Carnival,Black,2029-03-29,Yes,Everest Insurance,POL-37539747,3,501,False
+SE·PA167,Gina Pace,"593 Curtis Ranch Apt. 939, Lake William, MI 55683",2024,Kia,Seltos,Maroon,2028-03-19,Yes,Nepal Insurance Co.,POL-23838227,1,218,False
+BA·MN5214,Mr. Cody Taylor,"9685 Silva Plains, East Terrance, PA 45445",2011,Suzuki,Baleno,Gray,2029-05-01,Yes,United Insurance,POL-25790828,0,0,False
+JA·PA9268,Wesley Holmes,"38806 Gonzalez Flats, Port Casey, ID 88038",2022,Chevrolet,Malibu,Gray,2028-02-18,Yes,Shikhar Insurance,POL-87052108,0,0,True
+DH·JA8956,Michael Mcdonald,"465 Daniel Wells Apt. 730, Lake Jerry, RI 28437",2005,Ford,Ecosport,Black,2030-02-18,No,,,0,0,False
+PG·CHA9866,Nicholas Cisneros,"62050 Michael Point Apt. 247, Lake Brenda, WV 47675",2016,Mahindra,Thar,Gold,2027-06-16,Yes,Lumbini General Insurance,POL-20542212,5,1215,False
+DH·CHA1622,Allen Gonzalez,"258 Gregory Brooks Apt. 410, South Diana, FM 15045",2014,Ford,Ecosport,Beige,2030-04-30,Yes,United Insurance,POL-41097470,5,430,False
+DH·JA6054,Daniel Bryant,"289 Johns Circles Apt. 223, New Nicholas, MN 42175",2015,Nissan,Sentra,Maroon,2028-03-02,Yes,Nepal Insurance Co.,POL-18773168,1,139,False
+NA·JA5811,Vanessa Sanchez,"425 Brian Underpass, Moniquehaven, OR 64593",2021,Mahindra,XUV300,Black,2025-09-28,Yes,Sagarmatha Insurance,POL-50549608,1,152,False
+LU·MN4092,Brad Ruiz,"86857 White Station, Aliciafort, VT 65354",2017,Chevrolet,Cruze,Beige,2025-03-05,Yes,Siddhartha Insurance,POL-67867771,4,644,False
+KO·MN3969,Kevin Little,"33736 Kevin Lane, Port Neil, OH 11610",2007,Hyundai,Venue,Maroon,2030-05-03,Yes,United Insurance,POL-25344154,2,336,False
+JA·GA7394,Bradley Wallace,"8956 Mcdonald Lodge, Lindamouth, KY 50619",2007,Hyundai,i20,Green,2030-03-10,Yes,Prime Life Insurance,POL-53943990,1,219,True
+LU·GA2376,Jeremy Baker,"8881 House Courts, North Michaelside, ID 44247",2009,Mahindra,Scorpio,Black,2027-12-24,Yes,Siddhartha Insurance,POL-70016768,0,0,False
+KO·JA9443,Gary Turner,"92840 Campbell Key Suite 690, Valdezberg, VI 52602",2007,Kia,Sonet,Blue,2029-10-10,Yes,Prime Life Insurance,POL-27120235,4,260,False
+SE·PA113,Nathaniel Clark,"751 Singleton Meadow Suite 377, West Donberg, ME 97206",2014,Chevrolet,Trax,Silver,2027-08-31,Yes,Siddhartha Insurance,POL-62917798,2,464,False
+PG·HA9031,Robert Flowers,"6845 Ashley Bypass Apt. 259, Bairdborough, MO 08851",2020,Suzuki,Ertiga,Black,2024-03-09,Yes,Prabhu Insurance,POL-66000400,0,0,False
+SA·CHA2300,Chelsea Rodriguez,"412 Emily Fall Apt. 970, East Chad, MS 37701",2005,Toyota,Corolla,Maroon,2023-08-13,Yes,Everest Insurance,POL-21363335,0,0,False
+ME·GA7074,Eddie Warren,"025 Myers Creek Apt. 867, South Stephanieborough, DC 27459",2021,Mahindra,XUV700,Beige,2028-11-13,Yes,Himalayan General Insurance,POL-34936450,0,0,True
+ME·GA3978,Robert Ortega,"387 Harris Divide Suite 169, New Mark, OK 64851",2022,Chevrolet,Trax,Green,2026-07-14,Yes,Siddhartha Insurance,POL-74863150,3,234,False
+BH·PA2427,Kenneth Mclaughlin,"4692 Wright River Suite 762, South Hollyton, IA 21201",2021,Chevrolet,Trax,Beige,2025-11-05,Yes,Sagarmatha Insurance,POL-95052118,1,198,False
+BA·JA8865,Mark Carter,"PSC 3768, Box 1511, APO AP 43232",2021,Toyota,Fortuner,Beige,2029-07-25,Yes,Prime Life Insurance,POL-57367387,5,1270,False
+NA·PA9891,Christopher Clark,"76563 Johnson Glen, Lake Sallymouth, TN 98631",2006,Kia,Rio,Red,2029-08-03,No,,,0,0,False
+RA·KA547,Joel Miller,"74220 Gregory Crossing Suite 210, Ericstad, HI 28900",2009,Kia,Sonet,Silver,2027-11-27,Yes,Siddhartha Insurance,POL-47711414,0,0,False
+BH·PA9993,Stephanie Patel,"816 Wallace Rapid, North Kelseyborough, IA 49606",2019,Hyundai,Santa Fe,Black,2027-05-01,Yes,Himalayan General Insurance,POL-75084661,0,0,False
+BA·JA1482,Christina Smith,"3131 Jennifer Cape, Huntmouth, MD 74170",2020,Hyundai,Santa Fe,Black,2028-08-29,Yes,Himalayan General Insurance,POL-98673262,0,0,False
+LU·MN5753,Lori Villa,"33155 Alexis Shoal Suite 063, Robinsonview, SD 82278",2006,Toyota,Yaris,Silver,2024-02-09,Yes,United Insurance,POL-81473736,0,0,False
+PG·HA4402,Austin Robinson,"89241 Jarvis Square Suite 252, Tiffanyfort, CA 44423",2005,Hyundai,Santa Fe,Green,2028-11-11,Yes,Prabhu Insurance,POL-81169409,3,180,False
+SE·KA5897,Thomas Cole,"903 Christina Crossing, Joelchester, WV 32423",2013,Nissan,Navara,Maroon,2027-11-04,Yes,Shikhar Insurance,POL-97824468,2,336,False
+BH·CHA9745,Amy Brooks,"3039 Stevenson Isle, West Lonnie, WY 05692",2010,Suzuki,Alto,Blue,2026-05-28,Yes,Sagarmatha Insurance,POL-11605433,0,0,False
+SA·HA5859,Vanessa Wong,"55338 Rebecca Shores, Port Grace, VA 29657",2013,Suzuki,Ertiga,Red,2026-03-18,Yes,Nepal Insurance Co.,POL-89743930,2,526,False
+DH·KA2095,Jane Morris,"71302 David Extensions, East William, NE 95526",2009,Honda,Civic,Gold,2029-12-23,Yes,Everest Insurance,POL-24877375,3,342,False
+SA·PA7529,Christopher Gonzalez,"4973 Huffman Orchard, West Raymondburgh, NJ 58353",2015,Kia,Sonet,Maroon,2026-10-05,Yes,Nepal Insurance Co.,POL-61378412,0,0,False
+GA·GA4436,Leon Hamilton,"66149 Angela Extensions Suite 674, Campbellside, PA 63526",2020,Hyundai,Elantra,Silver,2027-06-21,Yes,Everest Insurance,POL-96635285,1,86,False
+PG·CHA1840,Chad Harrison,"08576 Bentley Summit, Patrickport, SD 77611",2006,Ford,Endeavour,Silver,2024-12-08,Yes,Nepal Insurance Co.,POL-76800348,0,0,False
+BA·KA6497,Stephen Riddle,"64587 Horton Run, Housebury, IA 63117",2017,Kia,Sportage,Blue,2029-03-27,Yes,United Insurance,POL-74174787,0,0,False
+RA·GA1248,Robert Mccoy,"9724 Carrie Shore, North Darryl, CO 84963",2017,Chevrolet,Cruze,White,2029-01-18,No,,,1,141,False
+GA·HA1004,Janice Mccarthy,"Unit 1836 Box 2644, DPO AP 70388",2015,Honda,CR-V,Brown,2023-10-07,Yes,Shikhar Insurance,POL-96945247,0,0,False
+PG·KA3229,Janet Parker,"95243 Hale Avenue, Port Travis, CT 09655",2025,Kia,Sonet,Silver,2029-01-27,No,,,2,476,False
+BA·CHA515,Jennifer Butler,"25223 White Creek Suite 932, North Karen, AS 25651",2017,Mahindra,XUV700,Beige,2024-08-13,Yes,United Insurance,POL-12203625,0,0,True
+RA·KA801,Steven Ortiz,"214 Nicholas Harbor, West Anthonybury, NJ 64096",2025,Nissan,Altima,Gray,2028-11-30,Yes,Lumbini General Insurance,POL-29992217,3,327,False
+BA·KA2419,Ashlee Brown,"901 Alexa Avenue, Morrisonview, NM 62528",2024,Ford,Ecosport,Beige,2025-08-11,No,,,2,562,False
+RA·PA7574,Lindsey Rogers,"3566 Theresa Well Suite 107, Hardyberg, AK 79394",2007,Mahindra,XUV700,Gold,2026-12-10,No,,,2,414,False
+RA·CHA7083,Joseph Tapia,"7978 Keller Alley, Allenstad, VI 06498",2008,Tata,Safari,Blue,2029-07-29,Yes,Prabhu Insurance,POL-38619492,3,603,False
+JA·PA4587,Nancy Gregory,"9156 Hatfield Walks Apt. 649, Lake Douglas, NC 75460",2016,Hyundai,Elantra,Black,2028-10-21,Yes,Siddhartha Insurance,POL-15462513,0,0,False
+SA·MN6262,Michelle Johnson,"8727 Timothy Plains, East Jason, WV 86975",2007,Hyundai,Tucson,Beige,2025-05-03,Yes,Siddhartha Insurance,POL-48081803,0,0,False
+RA·HA2179,Ashley Holder,"4347 Elizabeth Place Suite 153, Lake Matthewfurt, SD 84662",2013,Suzuki,Dzire,Maroon,2028-08-27,Yes,Everest Insurance,POL-91945021,3,606,False
+ME·MN1542,Tracy Kim,"41115 Julie Crescent Suite 256, West Bryanside, ID 51376",2005,Kia,Carnival,Green,2027-06-04,No,,,1,74,False
+RA·MN8415,Emma Diaz,"993 Randall Plain, Stewartport, MP 29193",2011,Suzuki,Vitara,Maroon,2027-06-07,No,,,0,0,False
+ME·HA2988,Mr. Kyle Thomas DDS,"548 Joshua Vista, Welchborough, NM 38707",2006,Hyundai,Venue,White,2027-12-11,Yes,Shikhar Insurance,POL-54868265,2,554,False
+BA·PA959,Jamie Zavala,"302 Luna Hills, North Amy, MA 55870",2005,Chevrolet,Cruze,Black,2026-12-30,No,,,0,0,False
+DH·JA6965,Wanda Todd,"3861 Marcus Turnpike Apt. 472, South Heather, LA 19483",2015,Suzuki,Ertiga,Maroon,2025-09-22,Yes,Sagarmatha Insurance,POL-41825487,3,816,False
+LU·PA7816,Robert Gonzalez,"912 Clements Meadow Apt. 015, Whiteton, DE 68060",2018,Mahindra,Thar,White,2023-10-17,No,,,0,0,False
+LU·KA5975,Leslie Booker,"01367 Watts Extensions Suite 176, Cynthiamouth, MN 02021",2009,Kia,Sportage,Blue,2026-01-03,Yes,Sagarmatha Insurance,POL-72482955,1,93,False
+LU·JA9989,Bradley Burns,"99974 Laura Falls, Washingtonchester, ME 75398",2010,Hyundai,Venue,Gold,2029-06-12,Yes,Sagarmatha Insurance,POL-65256920,4,700,False
+LU·MN7857,Frederick Reeves,"0688 Brown Villages, Port Karenville, HI 79026",2018,Ford,Endeavour,White,2027-09-24,Yes,Prime Life Insurance,POL-87774748,0,0,False
+NA·MN183,Abigail West,"93218 York Bypass, North Williamstad, ND 22993",2020,Nissan,Altima,White,2029-03-04,No,,,1,172,False
+BH·GA1705,Tony Smith,"872 Neal Pike Suite 988, Lake Corey, GU 06364",2007,Ford,Figo,Gray,2026-06-01,Yes,Prime Life Insurance,POL-39260335,0,0,False
+SA·PA360,Cole Evans,"839 Ramirez Stream, Jonesview, KS 50541",2019,Ford,Endeavour,Black,2029-08-14,No,,,1,247,False
+BH·HA3130,Carla Bryant,"USCGC Bentley, FPO AE 70743",2005,Tata,Safari,Maroon,2026-09-28,Yes,Prabhu Insurance,POL-81258920,0,0,False
+GA·KA8987,Mark Adams,"598 Robert Drives, Victoriachester, MS 03897",2007,Mahindra,XUV700,Maroon,2028-03-24,Yes,Nepal Insurance Co.,POL-79086760,5,1110,False
+BA·PA6374,Danielle Nelson,"51554 Misty Fork Suite 016, South Stephanie, WY 16688",2006,Tata,Safari,Gold,2027-04-30,Yes,Sagarmatha Insurance,POL-85263692,3,306,False
+KO·CHA8941,Nicholas Parker,"85948 Lawson Causeway Apt. 562, Lindaside, OH 78438",2023,Honda,HR-V,Beige,2030-04-15,Yes,Himalayan General Insurance,POL-53011925,0,0,False
+SA·HA4640,Jennifer Vargas,"226 Brown Stream, Jasminebury, TX 80284",2016,Toyota,Corolla,Blue,2029-02-26,Yes,Sagarmatha Insurance,POL-73104323,3,669,False
+GA·HA6131,Jimmy Gonzales,"446 Kevin Walks Apt. 465, Lake Christopherbury, CO 22142",2007,Honda,Accord,Beige,2025-05-04,Yes,Sagarmatha Insurance,POL-24678711,0,0,False
+NA·HA2565,Angela Mitchell,"USS Hayden, FPO AA 89241",2005,Suzuki,Alto,Maroon,2030-03-04,Yes,Everest Insurance,POL-73606441,0,0,False
+SA·PA4876,Monica Castillo,"0930 Park Summit, Johnhaven, TX 80349",2012,Suzuki,Swift,White,2029-04-05,Yes,Prime Life Insurance,POL-87672417,0,0,False
+KO·HA9821,Jerry Jackson,"USNS Thompson, FPO AA 17975",2019,Chevrolet,Spark,Beige,2027-02-01,Yes,Shikhar Insurance,POL-33050166,4,432,False
+GA·GA875,Tiffany Henderson,"53814 Webb Greens Apt. 096, West Sarah, SD 68072",2019,Hyundai,i20,Red,2029-10-24,Yes,Lumbini General Insurance,POL-48285148,0,0,False
+BH·KA2614,Amanda Ford,"50975 Gomez Avenue Suite 265, North Ryanborough, CO 69850",2006,Hyundai,Creta,Silver,2029-07-26,No,,,0,0,False
+SE·KA668,Brittany Martinez,"437 Brooks Lakes, Mcclainside, AS 35822",2016,Tata,Punch,Black,2027-04-04,Yes,Sagarmatha Insurance,POL-13345404,0,0,False
+NA·HA5346,Jeffrey Franco,"605 Daniel Haven Apt. 266, Rachelburgh, TN 26583",2021,Hyundai,Tucson,Brown,2030-04-20,Yes,Shikhar Insurance,POL-87004412,3,762,False
+ME·JA1940,Tina Bird,"725 Shaw Streets Suite 211, East Erichaven, AL 90211",2022,Ford,Ecosport,Black,2026-03-16,Yes,Himalayan General Insurance,POL-69857441,0,0,False
+DH·KA3297,Michael Peterson,"Unit 0674 Box 4716, DPO AE 81452",2013,Mahindra,XUV300,Gray,2025-11-15,Yes,United Insurance,POL-21727533,5,750,False
+KO·MN8481,Jorge Wright,"363 Mccarthy Valleys Apt. 892, Port Brittany, SC 19994",2009,Toyota,Land Cruiser,Green,2028-09-28,Yes,Prabhu Insurance,POL-11636220,0,0,False
+ME·GA9291,Carlos Johnson,"Unit 2609 Box 3106, DPO AA 69310",2018,Honda,Accord,Beige,2027-12-19,No,,,3,837,False
+PG·CHA9720,Mark Hall,"86041 Cox Keys Suite 350, North Aaron, TN 98117",2011,Mahindra,Scorpio,Black,2029-04-16,Yes,Sagarmatha Insurance,POL-89279578,3,216,True
+SA·JA6891,Dustin Ramirez,"47554 Collin Bridge Apt. 555, Johnview, IL 77089",2023,Hyundai,Santa Fe,Beige,2027-02-11,No,,,4,496,False
+BA·GA5047,Stephen Anderson,"93371 Shelly River, Kevinfort, WV 26977",2022,Mahindra,Bolero,Beige,2027-08-09,No,,,0,0,False
+SA·GA7842,Brittany Anderson,"557 Rhonda Cliff Suite 688, East Carolberg, LA 06457",2014,Honda,HR-V,Maroon,2029-02-07,Yes,Himalayan General Insurance,POL-13817499,0,0,False
+JA·MN6027,Amy Compton,"8812 Christensen Lights Suite 694, East Adam, OK 29049",2018,Mahindra,Thar,Gold,2029-11-13,Yes,Sagarmatha Insurance,POL-60090353,1,197,True
+GA·CHA9629,Alexa Mcfarland,"3448 George Cape Apt. 402, Saraview, VI 07253",2019,Toyota,RAV4,Blue,2027-02-08,Yes,Nepal Insurance Co.,POL-46597195,0,0,False
+KO·PA4849,Danielle Colon,"595 Miller Squares, Jenniferchester, MH 80649",2007,Kia,Rio,Maroon,2029-11-13,No,,,0,0,False
+SE·JA5280,William Garrett,"42408 Jennifer Spurs Suite 498, Port Scott, MD 35732",2016,Kia,Carnival,Maroon,2024-05-15,Yes,Nepal Insurance Co.,POL-28381043,1,145,False
+PG·JA2771,Mark Garrison,"65271 White Ferry Apt. 397, Lake Julian, ME 21855",2021,Honda,Accord,Black,2025-04-15,Yes,Lumbini General Insurance,POL-92332960,3,879,False
+SE·KA9129,Ruth Mcdaniel,"63761 Jessica Valley, New Coryfurt, AK 14923",2007,Honda,City,Beige,2025-08-10,Yes,United Insurance,POL-56735943,0,0,False
+ME·MN8670,Pamela Newman,"42900 Amy Viaduct, Melissaland, ID 18750",2005,Tata,Harrier,Red,2027-01-04,Yes,Everest Insurance,POL-40410305,0,0,False
+JA·HA1930,Mr. Jeremy Martin,"08481 Mallory Cove, Curtischester, FL 00659",2018,Honda,Civic,Beige,2025-09-27,No,,,2,402,True
+JA·JA809,Allison Simmons,"61721 Cristian Haven Suite 195, West Sandraland, MH 06182",2005,Honda,CR-V,Maroon,2027-01-15,Yes,Himalayan General Insurance,POL-88866745,5,485,False
+BA·PA2484,Cassandra Moreno,"49451 Hendricks Shore Suite 410, Port Diana, MD 19870",2016,Kia,Rio,Blue,2023-07-15,Yes,Siddhartha Insurance,POL-42456869,1,67,False
+DH·GA329,Nathan Floyd,"96421 Cooley Falls, Gomezfort, NE 63584",2014,Chevrolet,Cruze,Gray,2026-04-27,Yes,Sagarmatha Insurance,POL-38724658,5,1335,False
+KO·KA9756,Jennifer Leon,"6878 Patel View, South Christopher, VT 55792",2008,Hyundai,Elantra,Maroon,2024-05-09,Yes,Prime Life Insurance,POL-38759369,1,154,False
+KO·PA7733,Paula Shepherd,"50305 Rosario Creek, West Michaelberg, LA 60845",2020,Honda,Jazz,Black,2030-04-19,Yes,Nepal Insurance Co.,POL-21039132,0,0,False
+GA·HA9936,Samuel Bonilla,"PSC 3330, Box 2126, APO AP 03954",2022,Kia,Sonet,Gray,2028-09-29,No,,,0,0,False
+ME·KA6120,Jessica Brown,"9202 Thomas Gardens, North Ashleychester, FL 24411",2020,Hyundai,Tucson,Maroon,2028-07-26,Yes,Sagarmatha Insurance,POL-26001148,0,0,False
+DH·PA2864,Charles Rose,"USCGC Jenkins, FPO AA 58693",2015,Honda,CR-V,Gray,2024-01-29,No,,,4,940,False
+RA·KA9634,Melissa Mitchell,"282 Randy Manors, Spencerview, PW 75482",2017,Mahindra,Bolero,Maroon,2030-01-31,Yes,Prime Life Insurance,POL-75032899,1,87,False
+JA·PA4207,Michelle Henderson,"623 Montgomery Forges, Whiteside, PA 10620",2025,Ford,Figo,Gray,2026-07-06,No,,,0,0,True
+SA·PA3034,Julie Edwards,"05634 Dan Lake Suite 034, New Daniel, IL 78765",2015,Nissan,Navara,Maroon,2025-10-20,Yes,Lumbini General Insurance,POL-76060289,4,404,False
+ME·HA8370,Theodore Lopez,"41990 Williams Island, West Alanstad, WV 37516",2022,Kia,Rio,Blue,2026-07-10,Yes,Sagarmatha Insurance,POL-61489930,1,268,False
+ME·PA638,Kathryn Edwards,"15681 Andrew Underpass Suite 790, Evanmouth, CO 82545",2014,Hyundai,Santa Fe,Maroon,2027-04-08,Yes,Everest Insurance,POL-51937627,3,522,False
+DH·KA8137,Nathan Wilkerson,"288 West Curve, Kellychester, AZ 93924",2020,Chevrolet,Spark,Gold,2027-03-23,Yes,Prime Life Insurance,POL-45351739,1,298,False
+SA·JA4760,Jasmine Clark,"97102 Payne Union, South Clintonmouth, GA 39246",2023,Tata,Nexon,White,2024-04-15,Yes,Siddhartha Insurance,POL-13610435,3,630,False
+JA·HA5754,Douglas Cox,"747 Hines Mills, North Teresa, NM 05690",2006,Tata,Safari,Blue,2027-09-26,Yes,Shikhar Insurance,POL-89528254,0,0,False
+GA·PA5631,Dustin Ortiz,"5895 Miller Loop, Bakerton, RI 84893",2015,Hyundai,Tucson,Brown,2023-12-22,Yes,Prime Life Insurance,POL-45784981,0,0,False
+BA·JA6288,Richard Lyons,"46296 Jeffrey Well, Caldwellstad, NH 61906",2023,Mahindra,Thar,Blue,2023-08-09,No,,,3,408,False
+RA·GA5663,Stephanie Marshall,"6365 Logan Rapids, Lewisfort, DE 36988",2016,Hyundai,Santa Fe,Red,2027-06-24,Yes,Sagarmatha Insurance,POL-81918425,0,0,False
+GA·MN6686,Joshua Fry,"9096 Sharon Lake, Irwinborough, AR 28221",2023,Suzuki,Alto,Silver,2024-06-15,Yes,Siddhartha Insurance,POL-81278157,1,103,False
+JA·KA5045,Tiffany Sutton,"21461 Russo Mission, Warrenview, HI 07545",2022,Chevrolet,Trax,Green,2028-09-01,Yes,Siddhartha Insurance,POL-79171687,1,245,False
+BA·KA8557,Steven Peterson,"56778 Tammy Mews, Ritashire, MS 01802",2011,Hyundai,Santa Fe,Beige,2028-12-19,Yes,Lumbini General Insurance,POL-92466364,4,1128,False
+DH·KA1081,Stephanie Gonzalez,"5027 Victor Island, Port Tarachester, KS 68749",2019,Chevrolet,Cruze,Blue,2025-07-01,Yes,Shikhar Insurance,POL-68436893,0,0,False
+JA·KA3435,Virginia Harding,"910 Julie Field Suite 829, Robinsonborough, ID 89581",2025,Nissan,Kicks,Red,2025-01-07,Yes,Sagarmatha Insurance,POL-30127592,0,0,False
+GA·HA8052,Alexis Cervantes,"177 Jenkins Knoll Suite 851, South Ross, HI 72951",2025,Chevrolet,Equinox,Green,2027-06-24,No,,,0,0,False
+RA·JA9122,Kimberly James,"491 Linda Cove Apt. 096, South Karenside, CT 83538",2020,Hyundai,Venue,White,2026-08-28,Yes,Sagarmatha Insurance,POL-52131585,2,542,True
+PG·JA1579,Kevin Johnson,"37861 Melissa Crossing Suite 766, West Kimberlyhaven, LA 35577",2008,Nissan,Sentra,Gray,2029-02-24,Yes,Lumbini General Insurance,POL-99149714,4,1172,False
+SE·JA8233,Deborah Roberson,"306 Alexis Drives Suite 895, Georgeshire, NE 32198",2008,Honda,Accord,Gold,2028-02-07,Yes,Siddhartha Insurance,POL-62338292,4,960,False
+PG·CHA2463,Jenna Jensen,"626 Richard Island, South Jerry, VT 17059",2013,Honda,Accord,Gray,2027-10-09,Yes,Nepal Insurance Co.,POL-75814814,1,229,False
+KO·MN7043,Lynn Mueller,"253 Christopher Mews Apt. 920, New Patrickberg, NH 83661",2009,Ford,Ranger,Red,2028-05-29,Yes,Nepal Insurance Co.,POL-96623797,5,1025,True
+BH·KA995,Heather Allen,"PSC 4383, Box 6404, APO AE 19345",2017,Suzuki,Baleno,Brown,2030-04-10,Yes,Sagarmatha Insurance,POL-81794497,4,1076,False
+BA·HA4286,Margaret Riley,"112 Green Falls Apt. 175, South Craig, WY 03378",2014,Kia,Seltos,Gray,2025-06-11,Yes,Prabhu Insurance,POL-96493863,0,0,True
+JA·GA8155,John Garrett,"5722 Smith Fall Apt. 155, Cooleyside, AL 21261",2018,Ford,Figo,Blue,2026-11-28,Yes,Shikhar Insurance,POL-77959068,0,0,False
+BH·GA9073,Dawn Martinez,"823 Wilson Forge, West Dillonland, VA 91150",2006,Tata,Safari,White,2027-05-18,Yes,Everest Insurance,POL-10412827,0,0,False
+KO·MN1447,Debra Olson,"USNV Erickson, FPO AP 39078",2021,Honda,Accord,Gray,2029-12-26,Yes,Siddhartha Insurance,POL-65071708,4,524,False
+BH·CHA4370,Robert Graham,"USNS Wright, FPO AE 90554",2015,Hyundai,Venue,Gold,2027-06-17,No,,,0,0,False
+PG·GA9445,Michelle Hayden,"37676 Cabrera Road Apt. 966, New Michael, MH 83430",2022,Suzuki,Swift,White,2029-11-10,Yes,Sagarmatha Insurance,POL-72065617,0,0,False
+NA·PA6670,Joanna Preston,"USNV Matthews, FPO AA 79653",2013,Mahindra,Thar,Gold,2024-04-12,No,,,2,106,False
+PG·GA7533,Maria Sanford,"25625 Charles Shoals, Nathanmouth, DE 01763",2011,Ford,Ecosport,Gray,2024-11-06,Yes,United Insurance,POL-61281039,0,0,False
+DH·CHA4736,Adam Murphy,"81649 Alison Cove Suite 919, Flemingchester, MD 42459",2018,Suzuki,Vitara,Black,2026-07-04,Yes,Shikhar Insurance,POL-41606345,2,564,False
+DH·KA7606,Anthony Snyder,"1172 Garza Freeway Apt. 409, South Justinfurt, AZ 70423",2009,Honda,Civic,Beige,2030-03-26,Yes,Himalayan General Insurance,POL-61471888,3,714,False
+JA·PA9225,Amanda Newman,"4455 Miller Trail, Troyton, MO 39618",2012,Toyota,Camry,Blue,2028-05-01,Yes,Siddhartha Insurance,POL-16108500,0,0,False
+PG·JA6566,Jordan Allison,"Unit 1591 Box 0300, DPO AE 14281",2006,Tata,Harrier,Brown,2027-10-22,No,,,1,136,False
+NA·PA5298,Shannon Ramsey MD,"004 Daniel Hollow Apt. 459, Nelsonburgh, DC 76975",2013,Chevrolet,Equinox,Black,2026-02-04,Yes,United Insurance,POL-47715268,3,861,False
+GA·MN4421,Cameron Atkins,"718 Becky Shore Suite 457, North Joseph, LA 93743",2010,Chevrolet,Trax,Green,2029-02-06,Yes,Everest Insurance,POL-84581396,4,872,False
+ME·PA3195,Justin Salas,"117 Jason Skyway, South Lori, ID 64417",2010,Hyundai,Tucson,Gray,2024-11-19,No,,,1,79,False
+ME·PA7333,Daniel Garza,"7281 Jeffery Lakes Suite 798, Port Ricardo, CA 36917",2019,Tata,Altroz,Beige,2027-03-06,No,,,0,0,False
+NA·GA2857,Michael Lynn,"71130 Lopez Burgs, Stanleymouth, MI 35310",2023,Chevrolet,Trax,Gold,2026-04-27,Yes,Siddhartha Insurance,POL-34235540,0,0,True
+RA·HA1645,Joshua Gomez,"685 Scott Land Apt. 066, West Jaime, HI 78364",2008,Tata,Nexon,Red,2029-08-28,Yes,Sagarmatha Insurance,POL-53424580,0,0,False
+BH·KA7961,Lawrence Stone,"313 Brian Camp, Johnside, CT 36606",2005,Ford,Endeavour,Gold,2026-08-04,Yes,United Insurance,POL-53609415,5,1185,False
+RA·MN2218,Manuel Baldwin,"47323 Walsh Squares, Jessicaville, HI 66461",2014,Suzuki,Swift,Maroon,2026-08-28,Yes,Lumbini General Insurance,POL-90838200,0,0,False
+NA·CHA6635,Lisa Stevenson,"51225 Thomas Bridge, Pattersontown, HI 35082",2010,Honda,Civic,Gray,2028-08-08,Yes,Everest Insurance,POL-26186924,0,0,False
+BH·GA5180,Carolyn Wolf,"9073 Rodriguez Viaduct Apt. 943, Port Dwayne, CT 13607",2008,Mahindra,XUV700,Blue,2029-03-21,No,,,1,149,False
+DH·MN7031,Noah Chavez,"745 Smith Knoll Suite 589, Rodriguezhaven, VA 84360",2024,Honda,City,Blue,2023-12-15,No,,,1,299,False
+LU·KA2640,William Chase,"7039 Howard Summit, East Samanthafurt, SC 14647",2025,Ford,F-150,Maroon,2027-12-23,Yes,Sagarmatha Insurance,POL-74103912,0,0,False
+SA·JA4173,Sherry Shelton,"PSC 7824, Box 5569, APO AA 36709",2023,Chevrolet,Equinox,Red,2025-11-30,Yes,Lumbini General Insurance,POL-24446145,1,155,False
+SA·KA9413,Andrew Meyer,"7954 Tara Parks, South Erin, NC 38483",2023,Kia,Carnival,Red,2023-07-09,No,,,3,504,False
+NA·GA6538,Mary Torres,"70349 Brian Inlet Apt. 650, West Devinport, WY 66298",2014,Toyota,Corolla,Green,2028-11-23,Yes,United Insurance,POL-93726413,4,548,False
+RA·CHA3558,Patricia Moore,"36914 Antonio Knoll Apt. 666, West Samanthaport, HI 74413",2013,Hyundai,Tucson,Gold,2026-12-10,Yes,Nepal Insurance Co.,POL-10784780,0,0,True
+SA·HA7639,Shawn Brock,"2683 Torres Hills, Gardnerfurt, WY 57765",2014,Nissan,Navara,Beige,2029-10-21,Yes,Prime Life Insurance,POL-50621889,0,0,False
+LU·PA360,Joseph Benson,"5676 Murray Points Apt. 612, Kristinshire, NY 49405",2020,Suzuki,Swift,Gray,2029-12-27,Yes,Lumbini General Insurance,POL-35624104,0,0,False
+NA·HA7012,Joshua Cunningham,"60787 Christopher Groves Apt. 591, Arianamouth, VI 08478",2009,Toyota,Corolla,Black,2028-11-03,Yes,United Insurance,POL-12634395,4,796,False
+GA·MN6518,Kevin Dixon,"287 Jeffrey Spring, West Courtney, VA 01346",2008,Toyota,Land Cruiser,White,2028-10-07,Yes,United Insurance,POL-87666600,2,382,False
+BA·HA6648,Loretta Gonzalez,"181 James Mountains, Port Williamfurt, AR 16467",2024,Ford,F-150,Gold,2029-01-30,Yes,Nepal Insurance Co.,POL-80908408,0,0,False
+SE·PA4488,John White,"791 Thomas Brooks Apt. 232, South Timothy, LA 87996",2020,Nissan,Patrol,Silver,2029-12-20,Yes,Prime Life Insurance,POL-12792658,0,0,False
+ME·JA7278,Kevin Richardson,"176 Hernandez Haven Suite 196, New Kevinmouth, AZ 46995",2023,Suzuki,Alto,Gray,2028-03-31,Yes,United Insurance,POL-27603804,4,940,False
+PG·GA6002,Julie Sharp,"8835 Palmer Extensions, West Diana, OK 44972",2011,Ford,Ranger,Gold,2026-10-30,Yes,Everest Insurance,POL-33258738,0,0,False
+JA·GA6915,Scott Taylor,"1767 Barbara Parkways Suite 259, Breannafurt, CA 06389",2011,Ford,Endeavour,Gray,2026-06-13,Yes,Shikhar Insurance,POL-57921617,3,282,False
+SE·PA1143,Nicholas Hall,"753 Daniel Extensions Suite 610, Dannyland, NV 49564",2024,Tata,Safari,Silver,2025-02-01,Yes,Prabhu Insurance,POL-57679636,3,741,False
+GA·CHA8544,Sara Mclean,"2983 Johnny Mill Suite 332, Cervantesborough, CO 76799",2019,Mahindra,Scorpio,White,2026-12-20,Yes,Siddhartha Insurance,POL-91826622,4,1168,False
+SE·PA8411,Tyler Davis,"56981 Lopez Stream, Leeborough, OK 62594",2008,Honda,Accord,Maroon,2028-05-16,No,,,0,0,False
+SE·HA1726,Heather Yoder,"6619 David Path, Craigfort, IN 07248",2015,Hyundai,Venue,Blue,2027-01-13,Yes,United Insurance,POL-65800998,3,153,False
+RA·HA5692,Erin Walker,"USNV Myers, FPO AA 09407",2007,Kia,Rio,Black,2028-09-02,Yes,Himalayan General Insurance,POL-30348912,3,555,False
+LU·CHA7125,Brooke Roberts,"984 Montgomery Plains, New Thomasview, SD 04430",2021,Nissan,Patrol,Beige,2028-05-16,Yes,United Insurance,POL-29539994,3,699,False
+JA·PA5642,Jason Gonzalez,"38503 Jones Port, West Tinachester, PA 97401",2018,Tata,Safari,Black,2026-02-19,Yes,Everest Insurance,POL-87115770,0,0,False
+BH·GA8616,Angela Arnold,"USNV Cummings, FPO AE 05167",2022,Kia,Sonet,Green,2028-02-08,Yes,Nepal Insurance Co.,POL-47551535,5,1030,False
+BH·HA7410,Danny Bell MD,"00389 Fleming Street, New Timothyfurt, WI 49945",2024,Suzuki,Alto,Gold,2030-04-04,Yes,Prime Life Insurance,POL-36480587,4,284,True
+KO·HA2164,Jessica Simmons,"95535 Hull Freeway Apt. 190, South Julie, FM 70784",2011,Chevrolet,Spark,Red,2024-08-04,Yes,Everest Insurance,POL-13143613,0,0,False
+DH·JA4054,Wendy Smith,"02724 Lee Rapids, West David, MO 63245",2008,Kia,Sonet,Brown,2028-06-08,Yes,Lumbini General Insurance,POL-57576607,0,0,False
+JA·HA4981,Mary Jones,"USNS Simpson, FPO AP 47288",2015,Mahindra,Scorpio,Beige,2029-08-10,Yes,Lumbini General Insurance,POL-89933222,0,0,False
+SA·GA9484,Shannon Wallace,"438 Flores Plains Apt. 056, Ramirezborough, PW 18475",2021,Hyundai,Venue,Green,2026-12-08,Yes,Siddhartha Insurance,POL-35844329,4,568,False
+NA·KA7074,Kelly Torres,"2037 Benton Brooks, Huffview, KY 77602",2006,Nissan,Altima,Silver,2027-01-28,Yes,United Insurance,POL-20478739,0,0,False
+DH·MN8602,Ronald Miller,"0667 Jeffrey Light Apt. 680, Anthonystad, AK 80289",2020,Nissan,Kicks,Gold,2028-10-24,Yes,United Insurance,POL-65958370,4,344,False
+ME·KA7599,Gabrielle Clayton,"59660 Angela Stravenue, Micheleside, NH 56053",2021,Hyundai,Venue,Brown,2025-02-24,Yes,Nepal Insurance Co.,POL-31050667,5,720,False
+JA·MN6794,Laura Stone,"3204 Miller Gateway Suite 596, New Joshuaview, TN 33336",2023,Honda,Civic,Blue,2029-04-11,No,,,0,0,False
+GA·JA8061,Rhonda Franklin,"2770 Smith Camp Suite 783, Brownland, KY 80497",2023,Toyota,RAV4,Black,2028-01-21,Yes,Himalayan General Insurance,POL-34572196,4,700,True
+SE·JA1206,Tiffany Alexander,"7232 Monica Shoal Apt. 310, Lake William, NV 76508",2023,Toyota,Prius,Beige,2028-11-18,Yes,Prime Life Insurance,POL-73783961,4,1052,False
+RA·CHA8370,Juan Perez,"USNV Hester, FPO AE 89418",2019,Ford,Figo,Maroon,2024-07-08,No,,,2,418,False
+LU·HA5654,Sarah Fernandez,"1187 William Freeway, West Ashley, MP 89763",2019,Chevrolet,Malibu,Maroon,2029-12-19,No,,,0,0,True
+SA·GA5160,Martin Liu,"556 Ruiz Hill Apt. 250, Sarahshire, AK 14425",2022,Chevrolet,Malibu,Maroon,2026-01-17,Yes,Lumbini General Insurance,POL-35420283,3,534,False
+JA·KA8813,Rhonda Dixon,"69026 Stephanie Fork Suite 818, New Thomashaven, NC 58306",2011,Hyundai,Tucson,Red,2023-11-08,No,,,1,132,False
+BA·HA481,Cory Johnston,"PSC 5353, Box 7513, APO AA 96550",2018,Tata,Safari,Black,2023-05-20,Yes,Shikhar Insurance,POL-22217180,0,0,False
+NA·JA2459,Jennifer Miller,"7937 Hall Views, New John, PW 53928",2009,Hyundai,i20,Silver,2028-08-18,Yes,Nepal Insurance Co.,POL-92473495,5,480,True
+BA·JA6488,Mary Jacobs,"1166 Barbara Roads Apt. 270, North Robert, WV 73190",2018,Honda,CR-V,Black,2027-10-17,Yes,Sagarmatha Insurance,POL-16962963,0,0,False
+DH·CHA8176,Julie Garcia,"21288 Strong Knoll Apt. 683, Davidmouth, OR 80292",2008,Chevrolet,Spark,Green,2028-02-17,Yes,Prime Life Insurance,POL-18785652,1,154,False
+BA·JA9177,Wendy Williams,"6764 Graves Street Apt. 981, North Brittney, MN 88831",2022,Mahindra,Scorpio,Gray,2027-01-19,Yes,Prime Life Insurance,POL-69858725,0,0,False
+LU·GA2432,Jamie Gonzales,"34750 Mitchell Lights Suite 220, South April, OK 81172",2012,Tata,Altroz,Black,2028-09-20,Yes,Lumbini General Insurance,POL-70631785,0,0,False
+DH·JA2842,Gregory Martin,"3244 Sandra Shores Suite 213, North Carmen, AZ 71257",2013,Toyota,Camry,Beige,2030-02-27,Yes,Prabhu Insurance,POL-94853379,0,0,False
+GA·PA2744,Chloe Freeman,"49678 Mariah Hill Apt. 176, Bakerberg, KY 96397",2014,Chevrolet,Spark,Silver,2025-08-27,Yes,Lumbini General Insurance,POL-47508257,4,412,False
+RA·JA5713,Tracy Lara,"152 Hill Roads, Lake Haileyton, NE 13665",2012,Kia,Sonet,Red,2028-02-24,Yes,United Insurance,POL-90465362,0,0,False
+NA·KA133,Rebecca Stewart,"032 Wiggins Forges, West Theodore, NM 25025",2005,Mahindra,Thar,White,2028-08-30,Yes,United Insurance,POL-62719526,1,251,False
+SA·PA8925,Diane Gonzalez,"61789 Jennifer Camp, Wattsfurt, SC 77033",2008,Toyota,Fortuner,Maroon,2028-06-15,Yes,Prabhu Insurance,POL-61908845,0,0,False
+BH·PA2144,Gregory Moreno,"USNV Pittman, FPO AA 88053",2019,Ford,Endeavour,Gray,2026-03-26,Yes,Prabhu Insurance,POL-35704262,0,0,False
+GA·GA3723,Dr. James Howard,"14675 Elaine Crescent, South Stephanie, TN 15382",2006,Suzuki,Vitara,Blue,2030-04-17,Yes,Himalayan General Insurance,POL-10957697,0,0,False
+PG·PA4644,James Anderson,"630 Adams Forge Suite 085, Emilychester, MO 58428",2010,Mahindra,XUV300,Beige,2030-01-17,Yes,Siddhartha Insurance,POL-85851838,0,0,False
+BH·PA2187,Dean Brown,"0476 Ashley Expressway, Port Colleen, RI 80553",2021,Kia,Rio,Gray,2027-11-19,No,,,3,894,False
+SE·MN4243,Larry Smith,"55810 Michael Flat Apt. 863, Lauriestad, MA 54685",2018,Chevrolet,Equinox,White,2029-12-28,No,,,5,800,False
+PG·JA2094,Nicholas Case,"186 Williams Haven, Andrewbury, AZ 36212",2016,Chevrolet,Equinox,Beige,2026-08-04,Yes,Himalayan General Insurance,POL-16303488,0,0,False
+ME·JA184,Robin Gray,"11860 Julia Plains Apt. 196, Port Catherine, ME 42932",2007,Nissan,Sentra,Blue,2026-06-27,Yes,Himalayan General Insurance,POL-66884191,5,1420,False
+NA·JA5192,Patrick Turner,"9764 Davis Lodge, Timothyside, NY 32563",2008,Honda,HR-V,Maroon,2023-12-03,Yes,Siddhartha Insurance,POL-94060174,5,1325,False
+JA·HA4005,Willie Luna,"USS Chavez, FPO AP 03763",2021,Tata,Nexon,Blue,2026-10-03,Yes,Siddhartha Insurance,POL-68858430,3,630,False
+JA·PA1094,David Wood,"2118 Jared Overpass Apt. 126, Millsshire, WV 30966",2007,Toyota,Prius,Blue,2026-09-10,Yes,United Insurance,POL-17353632,0,0,False
+JA·PA1014,Johnny Jenkins,"59960 Vaughn Throughway, Gardnermouth, SD 31399",2017,Chevrolet,Malibu,Red,2029-10-22,Yes,Himalayan General Insurance,POL-90473708,4,836,True
+PG·HA7114,Michael Robertson,"61620 April Crossing, East Samuel, DE 05620",2015,Mahindra,XUV300,Silver,2030-02-18,Yes,United Insurance,POL-79419139,0,0,False
+JA·PA9851,Kathleen Sims,"866 Kenneth Mews, Jenniferview, NC 42756",2023,Honda,Jazz,Gray,2023-06-28,Yes,Prime Life Insurance,POL-74612320,3,489,False
+NA·GA822,Jacqueline Santos,"589 Kennedy Fords, Saraberg, GA 69232",2023,Toyota,RAV4,Red,2029-12-31,Yes,Shikhar Insurance,POL-88338313,4,992,False
+ME·JA9984,Kara Stewart,"04331 Rivera Circle Suite 921, Danabury, MI 82921",2005,Tata,Punch,Blue,2030-01-12,Yes,Nepal Insurance Co.,POL-41861591,1,263,False
+BA·HA5733,Corey Mitchell,"PSC 6945, Box 9648, APO AP 84596",2011,Suzuki,Dzire,Maroon,2028-04-05,No,,,1,227,False
+DH·KA5525,Angela Hernandez,"49128 Rivera Trail Suite 973, North Krista, IL 12472",2024,Mahindra,XUV300,Blue,2028-03-10,No,,,1,252,False
+ME·CHA160,Lisa Thomas,"1028 Coleman Mountains, Kevinville, IA 73920",2019,Suzuki,Ertiga,Gray,2027-09-08,Yes,Prabhu Insurance,POL-60454028,0,0,False
+BA·JA262,Raymond Mccarthy,"193 Sonia Village Suite 268, Henryview, TX 16261",2022,Honda,CR-V,White,2024-09-17,Yes,Siddhartha Insurance,POL-58306200,0,0,True
+LU·JA2953,Jessica Bailey,"5639 Patrick Fall Apt. 375, North Brenda, MA 12835",2015,Suzuki,Baleno,Black,2027-09-22,No,,,0,0,False
+JA·PA2348,Sydney Shaw,"47604 Garrett Ports Apt. 797, Thompsonside, AS 14117",2011,Nissan,Altima,Blue,2027-09-10,Yes,Prabhu Insurance,POL-98705666,0,0,False
+RA·MN7206,Allen Shannon,"16107 Leon Walks, Tonyaborough, SD 80979",2009,Honda,Civic,Black,2027-06-03,Yes,Prabhu Insurance,POL-52674742,2,600,False
+BA·GA9722,Faith Powers,"PSC 2958, Box 0660, APO AE 25790",2009,Suzuki,Alto,Red,2026-08-24,Yes,Shikhar Insurance,POL-26972976,4,1188,False
+ME·CHA1433,Kathryn Daniel,"49386 Cynthia Ville Apt. 448, Davidmouth, OK 91765",2010,Ford,F-150,Silver,2029-12-18,Yes,Prabhu Insurance,POL-76919318,1,95,False
+KO·MN8018,Timothy Davis,"PSC 2125, Box 9020, APO AE 84117",2023,Ford,Figo,Red,2029-08-14,Yes,Himalayan General Insurance,POL-39464318,5,825,False
+PG·CHA5113,Brad Ramsey,"240 Mccarthy Fall, Donaldmouth, MT 30118",2010,Nissan,Patrol,Gold,2028-06-11,Yes,Sagarmatha Insurance,POL-28029509,3,375,False
+KO·CHA9667,Denise Gonzalez,"Unit 4741 Box 7595, DPO AA 84626",2024,Toyota,Fortuner,Brown,2028-11-15,Yes,Prime Life Insurance,POL-59326617,4,524,False
+BA·CHA7336,Sandra Mcdaniel,"89365 Clark Squares Suite 183, Jefferyview, AZ 15613",2007,Suzuki,Baleno,Maroon,2026-10-22,Yes,Lumbini General Insurance,POL-78825641,1,70,False
+LU·PA2042,Lynn Alvarez,"9690 Haynes Roads Suite 026, Cookville, HI 47425",2022,Honda,CR-V,White,2025-03-29,Yes,Shikhar Insurance,POL-50629797,3,738,False
+GA·CHA9996,John Lopez,"966 Flowers Glen Suite 957, Evansbury, WV 66949",2013,Hyundai,Venue,Brown,2024-08-30,Yes,Prabhu Insurance,POL-64198613,5,1300,False
+SA·PA7833,Jeffery Adams,"82498 Stephanie Port, East Elizabeth, WY 07552",2012,Chevrolet,Cruze,Green,2025-03-02,Yes,Lumbini General Insurance,POL-88786294,4,972,False
+ME·JA1506,Ellen Cannon,"2702 Nicole Hollow Suite 123, South Christopher, IA 20704",2018,Tata,Harrier,Green,2023-10-27,Yes,Nepal Insurance Co.,POL-60291405,0,0,False
+GA·KA258,Sarah Brooks,"78637 Guerra Squares Apt. 162, Kathrynberg, MO 43376",2012,Ford,Endeavour,Blue,2030-03-11,Yes,Lumbini General Insurance,POL-50216625,0,0,True
+RA·PA2379,Sally Cross,"157 Jeffrey Rest Apt. 355, Waltertown, RI 79035",2025,Hyundai,i20,Gold,2029-10-02,Yes,Prime Life Insurance,POL-61179711,0,0,False
+SE·HA3185,Suzanne Brewer,"34615 Valdez Manors, West Larry, TX 63501",2023,Ford,Ecosport,Blue,2029-12-05,Yes,Sagarmatha Insurance,POL-33008094,0,0,False
+BA·GA9985,Tyler Fisher,"1516 Eugene Crossroad, Parkstown, NM 86198",2011,Ford,Ecosport,Black,2024-03-06,Yes,Himalayan General Insurance,POL-49071522,2,134,False
+KO·MN280,Jennifer Wise,"197 Norman Station Suite 851, South Amanda, MS 88937",2017,Hyundai,i20,Green,2025-09-21,No,,,0,0,False
+PG·GA3482,Adam Vaughan,"89760 Campbell Crossing Suite 750, Johnnymouth, TX 39317",2018,Hyundai,Creta,Red,2030-01-27,Yes,Siddhartha Insurance,POL-87187458,5,1000,False
+BH·KA7619,Allison Adams,"75409 Michael Camp Suite 321, East Jessicafort, NE 36505",2009,Kia,Sportage,White,2028-08-01,Yes,Himalayan General Insurance,POL-80579265,0,0,False
+ME·HA7680,Jimmy Williamson,"PSC 8970, Box 1550, APO AE 80370",2014,Mahindra,Scorpio,Silver,2028-11-26,Yes,Shikhar Insurance,POL-62491260,2,514,False
+PG·CHA3042,Margaret Macias,"4660 Stephanie Glens, Port Ritaville, WY 25620",2017,Mahindra,Thar,Beige,2027-05-17,Yes,Sagarmatha Insurance,POL-62821563,3,183,False
+NA·JA8910,Whitney Gilbert,"059 Lewis Mews, Julieburgh, KY 66241",2020,Kia,Seltos,Gray,2029-06-12,No,,,0,0,False
+SE·GA5441,Lindsey Browning,"63062 Adams Rapid Suite 133, Lake Markland, RI 38227",2013,Nissan,Patrol,Black,2026-02-03,Yes,Sagarmatha Insurance,POL-95747226,3,723,False
+KO·KA6642,Lisa Murray,"678 Matthew Island Suite 727, Clarkburgh, TX 51627",2005,Suzuki,Vitara,White,2030-04-28,Yes,Prabhu Insurance,POL-99965548,3,522,False
+JA·MN4069,Andrew Phelps,"Unit 7851 Box 3854, DPO AA 98917",2013,Ford,Ranger,Beige,2027-04-21,Yes,Siddhartha Insurance,POL-23490911,0,0,False
+BH·HA2859,Michael Johnson,"596 Forbes Brooks, Angelafort, IA 49690",2013,Honda,HR-V,White,2024-05-02,No,,,3,834,False
+LU·HA882,Bonnie Lawson,"3319 White Estate, Piercestad, WV 29042",2014,Chevrolet,Malibu,Green,2029-09-13,No,,,3,738,False
+LU·JA4008,Kyle Flores,"588 Perez Lodge, Shermanport, GU 59412",2018,Suzuki,Swift,White,2026-04-06,Yes,Himalayan General Insurance,POL-99784876,0,0,False
+JA·GA2850,Shane Ross,"2169 Mccann Loop Apt. 093, New Christine, CO 79087",2021,Hyundai,Tucson,Green,2024-07-05,Yes,Himalayan General Insurance,POL-93842238,0,0,False
+PG·PA3907,Jennifer Johnson,"715 Julia Turnpike, Arnoldborough, PR 21653",2015,Suzuki,Swift,Blue,2024-02-02,Yes,Nepal Insurance Co.,POL-62235749,0,0,False
+SA·GA4662,Nathan Allen,"2410 Becky Mount, Lake Carrie, IA 23684",2007,Mahindra,Bolero,White,2028-08-25,Yes,Siddhartha Insurance,POL-77051958,5,380,False
+RA·GA9425,Kathryn Rodriguez,"37100 Camacho Mountains Suite 164, Lake Kimberlyside, VT 03610",2024,Hyundai,i20,Silver,2029-11-19,Yes,Everest Insurance,POL-54566533,0,0,False
+BH·JA7999,Ronald Brown,"6876 Dale Vista, Katherineshire, WV 15152",2024,Honda,CR-V,White,2028-11-11,Yes,Himalayan General Insurance,POL-77567894,2,106,False
+DH·GA2132,Holly Douglas,"3415 Stephen Station, Goodwinview, MA 39205",2012,Kia,Sportage,Green,2026-09-06,No,,,1,101,False
+LU·KA721,Erin Cole,"022 Johnson Land Suite 442, Thomasmouth, TX 39151",2019,Suzuki,Ertiga,Gold,2028-03-10,No,,,0,0,False
+BA·MN6897,Robert Anderson,"3039 Hernandez Bridge Suite 588, Woodsburgh, MI 84891",2015,Kia,Seltos,Gray,2027-07-02,Yes,Himalayan General Insurance,POL-39855935,2,294,False
+NA·HA199,Samuel Edwards,"287 Timothy Light Apt. 153, Jamieberg, KY 80276",2011,Honda,City,Silver,2025-07-20,Yes,Everest Insurance,POL-22315737,0,0,False
+RA·CHA3971,Rachel Santos,"083 Michael Bypass Suite 158, West Angelaside, PR 97659",2019,Chevrolet,Malibu,Green,2027-06-15,Yes,Everest Insurance,POL-91315976,0,0,False
+ME·KA3399,Angela Yates,"42337 Billy Rest, Andrealand, WA 25406",2016,Kia,Sonet,Silver,2027-04-15,Yes,Prime Life Insurance,POL-77819218,2,320,False
+RA·HA424,Sylvia Escobar,"33399 Marshall Plain Apt. 513, Wilsonland, NJ 26374",2014,Nissan,Patrol,Silver,2027-03-15,Yes,Everest Insurance,POL-44533110,0,0,False
+GA·HA9310,Kevin George,"617 Brianna Roads, Gayview, WV 53869",2015,Mahindra,Thar,Silver,2023-09-17,No,,,5,255,True
+SE·KA6231,Katherine Thompson,"448 Matthew Springs Suite 712, Smithhaven, NJ 65484",2017,Ford,Figo,Green,2028-06-09,Yes,Shikhar Insurance,POL-96040102,5,340,False
+BA·PA6404,Austin Reynolds,"8231 Jason Parkway Suite 587, Lake Kevinborough, OK 88566",2018,Mahindra,XUV700,Gray,2028-04-19,Yes,United Insurance,POL-95225538,3,684,True
+PG·HA4143,Christopher Miranda,"258 Valdez Turnpike, Chanview, IN 34953",2016,Suzuki,Vitara,White,2030-02-20,No,,,2,174,False
+ME·KA2514,Scott Torres,"557 Coleman Lock Suite 060, Gomezberg, NH 36441",2023,Kia,Sportage,Gold,2027-04-02,No,,,3,642,False
+PG·HA9703,Michael Clark,"0566 Grant Streets Apt. 398, Gatesville, CA 32369",2018,Honda,Jazz,Gray,2023-12-13,Yes,Shikhar Insurance,POL-77195678,5,1090,False
+DH·JA6843,Nathan David,"673 Benitez Radial, Brownton, SC 45418",2023,Honda,Civic,Maroon,2028-04-11,Yes,Shikhar Insurance,POL-38122043,5,755,False
+BA·CHA8156,Jacob Mclean,"156 Morgan Radial, Audreyside, CO 57944",2018,Toyota,Corolla,Silver,2030-01-06,Yes,Prime Life Insurance,POL-32902142,0,0,False
+NA·CHA8070,Kenneth Farmer,"021 Krueger Lake Suite 325, Perezstad, MA 26582",2019,Hyundai,Santa Fe,Silver,2027-07-16,No,,,0,0,False
+RA·CHA4349,Michele Scott,"16667 Marie Circle, Allenchester, AZ 66589",2024,Nissan,Patrol,Maroon,2025-05-30,No,,,0,0,False
+JA·JA586,Erin Ryan,"119 Terri Tunnel Apt. 828, New Sandraborough, WV 10080",2020,Mahindra,XUV700,Beige,2026-11-29,No,,,0,0,False
+SA·MN785,Jessica Hill,"512 Gibson Tunnel, Prestonfurt, OK 39011",2005,Honda,Accord,Brown,2029-04-06,Yes,Shikhar Insurance,POL-75219904,1,136,False
+KO·JA5720,Ronald Smith,"43958 Valdez Flats Suite 923, East Kyle, CT 03938",2017,Tata,Harrier,Blue,2026-09-01,Yes,Prabhu Insurance,POL-23445578,0,0,False
+PG·KA2375,Terry Williams,"55333 Martin Groves Apt. 350, South David, MS 03833",2013,Toyota,Corolla,Brown,2027-09-28,Yes,Siddhartha Insurance,POL-98432853,4,724,False
+LU·PA5378,Patrick Singh,"6336 Christopher Extensions Apt. 231, Yangstad, WA 42035",2015,Toyota,Land Cruiser,White,2027-08-28,Yes,Prime Life Insurance,POL-92220752,4,556,False
+ME·KA1745,Daniel Davis,"8170 Norman Manor Suite 155, Marychester, PR 85960",2011,Nissan,Kicks,Gold,2029-04-06,Yes,Lumbini General Insurance,POL-14260842,0,0,False
+GA·GA9090,Zachary Miller,"0450 Melanie Fall Apt. 282, Lake Terry, AZ 08520",2008,Ford,Ranger,Beige,2029-05-18,Yes,Himalayan General Insurance,POL-32875131,3,654,False
+JA·HA578,Christine Singh,"62282 Michael Creek Apt. 073, Richardstad, PW 35258",2013,Hyundai,i20,Green,2024-11-24,Yes,Sagarmatha Insurance,POL-99318726,0,0,False
+BH·HA1581,Alyssa Johnson,"26086 Eric Bridge Suite 316, North Tanyamouth, MT 70850",2024,Tata,Harrier,Gold,2024-06-02,Yes,Prime Life Insurance,POL-97767609,2,386,False
+PG·GA3923,Scott Pacheco,"4258 Krueger Skyway Apt. 779, East Jeffrey, DC 19191",2014,Suzuki,Baleno,Silver,2025-11-04,Yes,Siddhartha Insurance,POL-35253920,3,237,False
+NA·GA5234,Bradley Davis,"34245 Barnett Pike, Kathleenberg, MD 55816",2014,Nissan,Navara,White,2025-04-12,Yes,Prime Life Insurance,POL-52901755,3,762,False
+RA·CHA8615,Charles Doyle,"032 Douglas Bypass Apt. 265, New Timothystad, ID 82907",2008,Mahindra,XUV300,Gray,2029-05-13,Yes,Prabhu Insurance,POL-29421410,4,500,False
+ME·KA7567,Tricia Sullivan,"Unit 7948 Box 7148, DPO AA 44705",2009,Hyundai,Santa Fe,Red,2030-04-15,No,,,0,0,False
+BH·PA4580,Charlotte Peterson DVM,"158 Brown Lakes Suite 082, East Theresaville, DE 72651",2011,Mahindra,Thar,Maroon,2030-04-18,Yes,Nepal Insurance Co.,POL-54713904,0,0,False
+BH·GA3787,Beth Bailey,"268 Donald Springs, Port Alvin, VA 98096",2017,Toyota,RAV4,Beige,2030-01-16,Yes,Everest Insurance,POL-12894515,1,136,False
+ME·JA6512,Kyle Hernandez,"583 Nicholas Courts, Lake Cynthia, RI 30157",2014,Nissan,Altima,Brown,2027-06-10,Yes,Lumbini General Insurance,POL-62851244,0,0,False
+RA·MN986,Nicole Hernandez,"USCGC Garrison, FPO AA 06912",2010,Kia,Sonet,Maroon,2028-10-27,Yes,Shikhar Insurance,POL-29437798,0,0,False
+LU·KA249,Tiffany Phillips,"PSC 6775, Box 2401, APO AA 93344",2009,Tata,Altroz,Silver,2028-09-27,Yes,Everest Insurance,POL-17560687,0,0,False
+NA·PA2022,Emily Leblanc,"62272 Peter Estate, Myersborough, IA 46429",2018,Chevrolet,Trax,Gold,2029-11-11,Yes,Himalayan General Insurance,POL-14562440,0,0,False
+GA·KA9867,Victor Hill,"923 Thomas Harbor, Alexville, NC 41285",2007,Hyundai,Venue,Green,2029-12-28,Yes,United Insurance,POL-59301266,0,0,False
+JA·HA8451,Patricia George,"1897 Chad Throughway Suite 406, Danielmouth, NE 77175",2023,Suzuki,Swift,Gold,2029-01-13,Yes,Sagarmatha Insurance,POL-89574873,0,0,False
+SA·KA7205,Michael Glenn,"81199 Allen Vista Suite 660, Port Kaylaview, MH 33487",2008,Kia,Rio,Black,2029-05-11,No,,,4,220,False
+SE·GA8784,Erin Estrada,"01739 Walker Mews Suite 178, Obrienfurt, AZ 79362",2023,Ford,Ecosport,Brown,2029-12-31,No,,,3,891,False
+JA·CHA9915,Ryan Day,"35996 Higgins Canyon, Deborahmouth, PR 60891",2019,Hyundai,Tucson,Brown,2027-01-13,No,,,2,434,False
+SE·JA673,Kelly Bentley,"039 Andrew Isle Apt. 460, Atkinsonview, MI 90024",2014,Honda,Civic,Brown,2029-05-25,No,,,5,1090,True
+GA·PA8610,William Wright,"7423 Yang Terrace, Kimberlyburgh, PR 66015",2009,Kia,Rio,Beige,2030-03-30,Yes,Prabhu Insurance,POL-91359046,1,103,False
+SA·GA832,Felicia Jensen,"4116 Howell Route, Port Patrick, KS 93220",2009,Suzuki,Swift,Gray,2027-07-21,Yes,Siddhartha Insurance,POL-84097665,0,0,False
+NA·KA7014,Mr. Jeffrey Ward,"0139 Stout Squares, Katherineside, HI 52663",2013,Honda,Jazz,Red,2027-04-06,Yes,Sagarmatha Insurance,POL-44115380,3,870,False
+SE·CHA1256,Angela Davis,"2585 Anderson Lights Apt. 499, West Yvonnemouth, GU 05845",2023,Kia,Sportage,Blue,2029-03-19,Yes,Prime Life Insurance,POL-30601268,0,0,False
+PG·PA9989,Christopher Haney,"333 Wong Forge, North Kenneth, AK 80745",2008,Suzuki,Swift,Red,2030-03-07,Yes,Sagarmatha Insurance,POL-54205616,2,284,False
+RA·JA2497,Mr. Justin Murillo,"969 Francis Squares, Lindaview, NE 49027",2008,Suzuki,Baleno,White,2027-08-05,Yes,Sagarmatha Insurance,POL-26576358,0,0,False
+GA·MN8121,Timothy Young,"253 Colin Tunnel, Nicholsville, AS 79680",2023,Honda,Jazz,Blue,2029-06-09,Yes,Sagarmatha Insurance,POL-16437523,0,0,False
+PG·CHA5755,Gregory Park,"Unit 3749 Box 0797, DPO AA 77972",2017,Chevrolet,Spark,Gold,2027-01-23,Yes,Lumbini General Insurance,POL-30869686,2,172,False
+BH·JA966,Troy Jackson,"7215 Stephanie Harbor, Staceytown, VT 78847",2024,Tata,Harrier,Maroon,2028-11-29,No,,,5,1270,False
+GA·JA7108,Michael Bender DVM,"8453 Thomas Plains Suite 090, Brianaland, RI 08840",2025,Chevrolet,Cruze,Red,2028-01-22,Yes,Prabhu Insurance,POL-22098465,2,138,False
+JA·CHA9525,Monica Oconnor,"07151 Sophia Ports, Ballardfurt, UT 62682",2022,Toyota,Corolla,Red,2026-05-28,Yes,Prime Life Insurance,POL-78274190,5,420,False
+SE·KA8822,Greg Davis,"7124 Gonzalez Keys Apt. 571, Andrewton, OH 08253",2024,Honda,City,White,2026-04-21,Yes,Lumbini General Insurance,POL-56313253,0,0,False
+SE·KA793,Anna Smith,"Unit 0056 Box 4099, DPO AA 09595",2021,Mahindra,Thar,Black,2027-04-30,No,,,4,724,False
+BA·HA8218,Chelsea Oliver,"1295 Patricia Squares, New Eduardo, GU 58841",2008,Nissan,Sentra,Blue,2030-02-25,Yes,Lumbini General Insurance,POL-25819626,0,0,False
+GA·CHA136,Andrew Medina,"USS Aguirre, FPO AA 38699",2014,Mahindra,Thar,Gray,2029-12-13,Yes,Nepal Insurance Co.,POL-72150455,5,1335,False
+KO·PA7642,Michael Lawrence,"3929 Pace Shoals, Bowersville, TN 73175",2008,Tata,Punch,Blue,2025-04-19,Yes,Nepal Insurance Co.,POL-23601326,0,0,False
+SE·MN2618,David Thomas,"USCGC Lopez, FPO AA 05952",2005,Nissan,Altima,Beige,2024-12-09,Yes,Prime Life Insurance,POL-60238966,0,0,False
+NA·MN4515,Thomas Morse,"158 Sherman Row, West Luke, NV 26458",2019,Honda,City,Maroon,2024-05-11,Yes,Nepal Insurance Co.,POL-58215939,4,924,False
+LU·JA759,Mark Powell,"71587 Torres Turnpike Suite 080, North Kurt, OR 98523",2015,Hyundai,Elantra,Green,2027-03-31,Yes,United Insurance,POL-99287389,5,400,False
+SE·HA2187,Kimberly Davidson,"46358 Madison Spur, Rodgershaven, PR 23869",2017,Tata,Safari,Brown,2025-09-27,Yes,Everest Insurance,POL-30876492,0,0,True
+SA·CHA952,Melanie Williams,"35137 Ashley Ridge Apt. 063, West Adambury, TN 43853",2005,Tata,Safari,Gold,2027-12-20,Yes,Sagarmatha Insurance,POL-67572954,0,0,False
+SE·CHA4187,Dr. Samantha Watson,"29394 Becker Station, Jamieview, MT 90977",2012,Kia,Seltos,Red,2028-10-01,No,,,3,771,False
+BH·MN3068,Rodney Bennett,"4906 Heather Mission, Lake Hannah, CA 84072",2025,Suzuki,Alto,Maroon,2025-09-01,No,,,0,0,False
+NA·HA389,Christopher Moody,"46484 Foley Green Apt. 163, New Meghanborough, DC 68425",2006,Mahindra,XUV700,Silver,2029-04-16,Yes,Himalayan General Insurance,POL-39766168,0,0,False
+SE·HA946,Julie Rodriguez MD,"13695 Rodgers Mills, Lake Sarahborough, WI 28082",2016,Kia,Seltos,Red,2028-04-24,Yes,Himalayan General Insurance,POL-52928316,5,480,True
+BA·KA5369,Amanda Smith,"57306 Hernandez Highway Apt. 323, Dianemouth, AK 58242",2013,Suzuki,Baleno,Beige,2026-11-29,Yes,Shikhar Insurance,POL-75939337,0,0,False
+JA·KA323,David Rice,"501 Robert Place, New Jennifermouth, MN 05538",2016,Chevrolet,Cruze,Blue,2028-05-16,Yes,Siddhartha Insurance,POL-80982664,2,220,False
+LU·MN6392,Brian Hall,"9130 Andrew View, Pinedafurt, LA 90365",2025,Honda,Civic,Black,2027-01-08,No,,,5,1380,False
+LU·CHA7403,Joanna Adkins,"7727 Walker Heights Apt. 642, Jodychester, AS 39803",2024,Honda,Civic,Brown,2029-01-02,Yes,Himalayan General Insurance,POL-81612882,3,183,False
+PG·MN4237,Joe Page,"2536 Stephenson Mount, Wallacefurt, NH 48153",2019,Chevrolet,Trax,Blue,2027-01-02,Yes,Sagarmatha Insurance,POL-74803086,0,0,False
+SE·GA458,Maurice Anderson,"39395 Kelley Track, Brooksport, IL 51989",2009,Hyundai,Santa Fe,Red,2029-07-09,No,,,5,490,False
+PG·HA8823,Brian Pearson,"33582 Giles Meadows Apt. 703, Bradleyburgh, KY 98277",2019,Chevrolet,Malibu,Black,2028-07-01,Yes,Prime Life Insurance,POL-63801036,2,204,False
+NA·MN3668,Patricia Davidson,"65732 Stewart Track, Lake Coltonland, CO 03314",2019,Mahindra,Scorpio,Brown,2029-04-16,Yes,Himalayan General Insurance,POL-49777260,3,573,False
+LU·PA8841,Scott Brown,"3234 Michael Island Suite 752, Kevinside, GA 20426",2025,Suzuki,Baleno,White,2024-10-14,Yes,Shikhar Insurance,POL-16914893,2,226,False
+LU·MN2003,Bryan Kent,"431 Regina Court Apt. 267, Woodstown, OR 90694",2024,Toyota,Land Cruiser,Maroon,2028-03-01,No,,,3,570,False
+NA·HA4931,Heidi Alexander DDS,"9551 Jones Dale, Ericaberg, DE 88175",2005,Tata,Nexon,Maroon,2027-07-30,Yes,Shikhar Insurance,POL-33721002,0,0,True
+SA·GA9656,Mark Carter,"9709 Frey Lakes, Jamesview, NC 03573",2025,Honda,HR-V,Green,2029-11-09,Yes,Lumbini General Insurance,POL-37670193,4,424,False
+LU·MN6579,Taylor Williams II,"5047 Mason Bypass Apt. 909, West Oscarfort, MS 51408",2018,Hyundai,Elantra,Gray,2029-01-12,No,,,0,0,False
+NA·CHA9433,Michael Terry,"5254 Tracy Grove Apt. 715, North Lisaville, IA 10254",2014,Ford,Ranger,Maroon,2025-06-06,Yes,Prime Life Insurance,POL-91580498,0,0,False
+PG·CHA7555,Austin Armstrong,"00591 Brandi Well, Welchmouth, WY 87655",2009,Nissan,Altima,Brown,2026-05-31,Yes,Prime Life Insurance,POL-61538339,0,0,False
+RA·GA816,Bryan Padilla,"11063 Brendan Common, Floreshaven, ID 62897",2013,Hyundai,Creta,Silver,2026-04-08,Yes,Nepal Insurance Co.,POL-24272571,1,259,False
+BH·PA3414,Michelle Simpson,"9072 Christopher Flat Suite 289, Lake David, WV 10433",2019,Hyundai,Elantra,Gold,2028-01-26,Yes,Everest Insurance,POL-42723471,0,0,False
+SA·MN2116,Samuel Avila,"949 Hunter Heights Apt. 645, New Adrian, FM 90092",2022,Toyota,Camry,Silver,2029-03-19,Yes,Prime Life Insurance,POL-29036775,0,0,False
+LU·HA6414,Paul Brown,"096 Emily Stravenue Suite 015, Helenland, OK 34899",2014,Hyundai,i20,Maroon,2024-03-09,Yes,Sagarmatha Insurance,POL-76011040,0,0,False
+JA·JA5954,Emma Howard,"4758 Jeremy Extension Apt. 567, Nguyenfurt, NH 61369",2008,Honda,Jazz,Blue,2026-10-27,Yes,Siddhartha Insurance,POL-30280697,0,0,False
+DH·CHA7067,Charles Christensen,"56265 Ryan Viaduct, East Brittany, HI 28942",2014,Hyundai,Venue,Maroon,2027-12-15,Yes,Sagarmatha Insurance,POL-46385523,5,1095,False
+GA·GA1351,James Hernandez,"6248 Perez Oval, Reynoldsburgh, NM 87767",2009,Toyota,RAV4,Maroon,2028-07-14,Yes,United Insurance,POL-19034683,0,0,False
+BH·JA2470,Tyrone Jones,"423 Lara Mall Suite 042, Crystalchester, RI 16471",2010,Honda,CR-V,Black,2028-04-28,Yes,Prime Life Insurance,POL-74597455,3,465,False
+SA·JA2364,Kendra Peterson,"9710 Wood Gateway, West Haley, PW 41465",2022,Suzuki,Vitara,Green,2029-05-04,Yes,Lumbini General Insurance,POL-40885447,0,0,False
+PG·MN9567,Stephanie Alvarez,"532 Harrington Ports Apt. 993, South Anna, FM 03043",2012,Suzuki,Ertiga,Silver,2027-06-27,Yes,Nepal Insurance Co.,POL-58640295,2,590,False
+JA·PA5823,Spencer Cruz,"87794 Shannon Tunnel Apt. 425, South Johntown, MD 47184",2019,Tata,Harrier,Red,2023-12-25,Yes,Himalayan General Insurance,POL-17498162,3,240,False
+BH·CHA6284,Karen Thomas,"5983 Susan Ranch Apt. 403, Johnfurt, NE 92336",2006,Toyota,Prius,Blue,2030-01-23,Yes,United Insurance,POL-89715350,4,228,False
+NA·PA4114,Alexandra Green,"61572 Garrett Point, New Sean, MD 14623",2018,Honda,Civic,Gold,2025-04-27,Yes,Everest Insurance,POL-80793145,3,378,False
+BH·JA7374,Joy Gonzalez,"92501 Mindy Plaza Suite 525, Piercechester, SD 42953",2009,Toyota,Yaris,Silver,2026-03-01,Yes,Everest Insurance,POL-77551168,0,0,False
+PG·KA7543,Gabriel Huff,"9908 Jennifer Station Apt. 711, East Curtis, GA 94067",2021,Chevrolet,Trax,Gold,2027-08-15,Yes,Everest Insurance,POL-46484083,5,915,False
+NA·KA3571,Paul Compton,"1768 Alicia Row Suite 281, South Erik, WV 34678",2012,Nissan,Navara,White,2029-06-25,Yes,Sagarmatha Insurance,POL-72872428,1,217,False
+PG·CHA995,Anthony Vega,"0033 Stephanie Dam, Marcusfurt, AK 67380",2013,Tata,Safari,Gray,2025-11-27,Yes,Prabhu Insurance,POL-13764654,0,0,False
+JA·PA3571,Katherine Caldwell,"39033 Smith Squares, New Nicolehaven, MH 22020",2011,Mahindra,Scorpio,Red,2029-12-04,Yes,Himalayan General Insurance,POL-46127119,0,0,False
+BA·MN8026,Christian Smith,"8586 Mary Throughway Suite 535, Philipport, NV 04278",2007,Toyota,Camry,Blue,2026-05-24,Yes,Shikhar Insurance,POL-63436961,1,130,False
+BH·JA2222,Walter Powers,"10613 Kathleen Street, Marissaborough, FM 78260",2021,Honda,CR-V,Green,2025-07-02,No,,,4,688,False
+BA·JA2741,Heather Brown,"80403 Michelle Ford Suite 657, Guzmanburgh, PW 64946",2007,Hyundai,Venue,Beige,2026-11-14,Yes,Himalayan General Insurance,POL-38943676,4,868,False
+BH·CHA8318,Kyle Norton,"91009 Mercedes Harbor, West Seanshire, GA 13245",2021,Chevrolet,Spark,Maroon,2028-04-05,Yes,Everest Insurance,POL-55502589,0,0,False
+PG·PA6450,Daniel Lee,"46040 Kevin Greens Suite 310, Thompsonville, CO 95503",2024,Suzuki,Dzire,Gold,2025-06-27,Yes,United Insurance,POL-23073617,4,344,False
+GA·MN1528,Sergio Riley,"97123 Raymond Lane Apt. 076, Gutierreztown, OK 06272",2015,Ford,Ecosport,Beige,2024-09-07,No,,,0,0,False
+JA·PA3035,Tina Walter,"40433 Patrick Run Apt. 968, Connerton, LA 48215",2013,Ford,Endeavour,Beige,2028-10-28,Yes,Everest Insurance,POL-26638464,5,870,True
+GA·HA6801,Jacob Hoover,"588 Malik Route Suite 629, Watsonstad, WI 38832",2016,Mahindra,XUV700,Beige,2029-11-06,Yes,Prabhu Insurance,POL-21205911,3,537,False
+SA·PA1034,Michael Preston,"6194 Marvin Knolls Suite 782, West Williamberg, PA 45281",2005,Suzuki,Ertiga,Brown,2025-10-02,Yes,Everest Insurance,POL-86522053,0,0,True
+PG·GA7673,Sandra Moore,"61618 April Ports, West Sarahburgh, WA 30225",2019,Honda,CR-V,Beige,2028-12-14,No,,,0,0,False
+PG·GA7196,Rachel Burns,"686 Barbara Summit Suite 137, Port Heather, WV 25185",2007,Suzuki,Vitara,Blue,2029-09-25,Yes,United Insurance,POL-25344634,0,0,True
