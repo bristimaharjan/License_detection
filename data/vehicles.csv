@@ -1,8 +1,8 @@
 plate_number,owner_name,address,vehicle_year,vehicle_make,vehicle_model,vehicle_color,reg_expiry,insurance,insurance_provider,policy_number,fines,fine_amount,is_flagged
-KL01CA2555,Rajesh Kumar,"14 MG Road, Ernakulam, Kerala 682011",2017,Suzuki,Ciaz,Silver,2025-03-15,Yes,Nepal Insurance Co.,POL-55012301,2,350,False
+KL01CA2555,Rajesh Kumar,"14 MG Road, Ernakulam, Kerala 682011",2017,Suzuki,Ciaz,Silver,2025-03-15,Yes,Nepal Insurance Co.,POL-55012301,4,1350,False
 PG MN 112,Hans Mueller,"Podgorica Main St 44, Montenegro",2014,Mercedes-Benz,E220 CDI,Black,2024-08-20,Yes,Himalayan General Insurance,POL-70291817,3,890,True
 PRENUP,Jessica Taylor,"221 Oak Avenue, Hartford, CT 06103",2012,Chevrolet,Camaro SS,Black,2026-11-30,No,,,1,275,False
-DZ17YXR,Oliver James,"15 Parkside Crescent, Birmingham, UK B15 2TT",2017,Subaru,Levorg,Blue,2028-06-01,Yes,Sagarmatha Insurance,POL-61019678,1,500,True
+DZ17YXR,Oliver James,"15 Parkside Crescent, Birmingham, UK B15 2TT",2017,Subaru,Levorg,Blue,2028-06-01,Yes,Sagarmatha Insurance,POL-61019678,2,1000,True
 PU18BES,Emily Watson,"8 High Street, Bristol, UK BS1 4AQ",2018,Peugeot,208,Blue,2024-12-31,Yes,Siddhartha Insurance,POL-95225343,0,0,False
 80211N,Michael Chen,"1204 Cardinal Lane, Virginia Beach, VA 23451",2007,Hyundai,Sonata,Gray,2024-05-01,No,,,4,1200,True
 YSX213,Sarah Williams,"42 River Road, Melbourne, VIC 3000",2018,Toyota,Fortuner,Gray,2027-09-15,Yes,Shikhar Insurance,POL-28740864,0,0,False

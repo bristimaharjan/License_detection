@@ -1,27 +1,19 @@
 "use client";
 
-import Sidebar from "@/components/layout/Sidebar";
-import { useState } from "react";
-
+import Header from "@/components/layout/Header";
 
 export default function DashboardLayout({
   children,
 }: {
   children: React.ReactNode;
 }) {
-  const [collapsed, setCollapsed] = useState(false);
-
   return (
-    <div>
-      <Sidebar collapsed={collapsed} setCollapsed={setCollapsed} />
-
-      <main
-        className={`transition-all duration-300 min-h-screen bg-gray-100 p-6 ${
-          collapsed ? "ml-20" : "ml-64"
-        }`}
-      >
+    <div className="min-h-screen bg-slate-50/50 flex flex-col">
+      <Header />
+      
+      <div className="flex-1 transition-all duration-300">
         {children}
-      </main>
+      </div>
     </div>
   );
-}
+}

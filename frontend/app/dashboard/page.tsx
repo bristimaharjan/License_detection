@@ -97,8 +97,6 @@ export default function DashboardPage() {
 
   return (
     <ProtectedRoute>
-      <Header />
-
       <main className="max-w-[1400px] mx-auto px-6 py-6 space-y-6">
         {/* Welcome bar */}
         {session && (

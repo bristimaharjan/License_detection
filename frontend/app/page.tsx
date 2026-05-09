@@ -34,31 +34,31 @@ export default function HomePage() {
       </nav>
 
       {/* ── Hero ── */}
-      <section className="px-6 pt-12 pb-4 max-w-[1200px] mx-auto w-full">
-        <div className="text-center max-w-2xl mx-auto">
+      <section className="px-6 pt-20 pb-16 max-w-[1400px] mx-auto w-full">
+        <div className="text-center max-w-3xl mx-auto mb-16">
           <div className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-blue-50 border border-blue-100 mb-6">
             <div className="w-2 h-2 rounded-full bg-blue-500 animate-pulse" />
             <span className="text-xs font-semibold text-blue-700 tracking-wide uppercase">Secure Government Platform</span>
           </div>
 
-          <h1 className="text-5xl sm:text-6xl font-extrabold text-gray-900 tracking-tight leading-[1.1]">
-            Traffic Police
+          <h1 className="text-5xl sm:text-7xl font-black text-gray-900 tracking-tight leading-[1.05] mb-6">
+            License Plate
             <br />
-            <span className="text-blue-600">Management System</span>
+            <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-indigo-600">Detection System</span>
           </h1>
 
-          <p className="mt-5 text-lg text-gray-500 leading-relaxed max-w-lg mx-auto">
+          <p className="text-xl text-gray-500 leading-relaxed max-w-xl mx-auto mb-10">
             Secure enforcement platform for real-time license plate monitoring,
             violation tracking, and vehicle registry management.
           </p>
 
-          <div className="mt-8 flex items-center justify-center gap-4">
+          <div className="flex items-center justify-center gap-4">
             <button
               onClick={() => router.push("/login")}
-              className="group px-7 py-3 text-sm font-semibold text-white bg-blue-600 rounded-xl hover:bg-blue-700 transition-all shadow-md shadow-blue-200 flex items-center gap-2"
+              className="group px-8 py-4 text-base font-bold text-white bg-blue-600 rounded-2xl hover:bg-blue-700 transition-all shadow-xl shadow-blue-200 flex items-center gap-2"
             >
-              Login to System
-              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" className="group-hover:translate-x-0.5 transition-transform">
+              Access System
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" className="group-hover:translate-x-1 transition-transform">
                 <line x1="5" y1="12" x2="19" y2="12" />
                 <polyline points="12 5 19 12 12 19" />
               </svg>
@@ -67,17 +67,23 @@ export default function HomePage() {
         </div>
 
         {/* ── Product Mockup ── */}
-        <div className="mt-14 relative">
-          <div className="absolute inset-0 bg-gradient-to-t from-slate-50 via-transparent to-transparent z-10 pointer-events-none" />
-          <div className="rounded-2xl overflow-hidden border border-gray-200 shadow-2xl shadow-gray-300/40">
-            <Image
-              src="/dashboard-preview.png"
-              alt="PlateDetect Dashboard Preview"
-              width={1200}
-              height={700}
-              className="w-full h-auto"
-              priority
-            />
+        <div className="relative max-w-5xl mx-auto">
+          {/* Decorative blur backgrounds */}
+          <div className="absolute -top-10 -left-10 w-64 h-64 bg-blue-200/30 blur-3xl rounded-full pointer-events-none" />
+          <div className="absolute -bottom-10 -right-10 w-64 h-64 bg-indigo-200/30 blur-3xl rounded-full pointer-events-none" />
+          
+          <div className="relative rounded-3xl overflow-hidden border border-gray-200 shadow-[0_20px_50px_rgba(8,_112,_184,_0.1)] bg-white p-2">
+            <div className="rounded-2xl overflow-hidden border border-gray-100 relative">
+              <div className="absolute inset-0 bg-gradient-to-t from-black/5 to-transparent z-10 pointer-events-none" />
+              <Image
+                src="/dashboard-preview.png"
+                alt="PlateDetect Dashboard Preview"
+                width={1200}
+                height={200}
+                className="w-full h-auto transform transition-transform duration-700 hover:scale-[1.02]"
+                priority
+              />
+            </div>
           </div>
         </div>
       </section>
@@ -178,18 +184,6 @@ export default function HomePage() {
               </div>
             ))}
           </div>
-        </div>
-      </section>
-
-      {/* ── Demo Credentials ── */}
-      <section className="px-6 py-12 max-w-[1200px] mx-auto w-full text-center">
-        <div className="inline-flex flex-col items-center gap-2 px-6 py-4 rounded-xl bg-white border border-gray-200 shadow-sm">
-          <p className="text-xs font-semibold text-gray-400 uppercase tracking-wider">Demo Credentials</p>
-          <p className="text-sm text-gray-600">
-            <span className="font-mono text-gray-800">bristi@police.gov.np</span>
-            <span className="mx-2 text-gray-300">/</span>
-            <span className="font-mono text-gray-800">admin123</span>
-          </p>
         </div>
       </section>
 
