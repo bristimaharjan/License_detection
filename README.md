@@ -1,4 +1,7 @@
 # License Plate ML System YOLO + API + Next.js
+## Snapshot
+<img width="1910" height="2598" alt="image" src="https://github.com/user-attachments/assets/43eb6b88-7ece-4e64-bc41-29572e008952" />
+
 
 For CUDA-enabled PyTorch notebook setup, see `ml/CUDA_SETUP.md`.
 
