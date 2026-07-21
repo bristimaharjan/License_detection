@@ -146,7 +146,7 @@ Latest generated metrics (demo dataset):
 - Replace demo dataset with a larger, real Kaggle dataset for robust generalization.
 - Add model/version registry and experiment tracking (MLflow or similar).
 - Add backend authentication/rate-limiting for public deployment.
-- Add CI checks for linting, tests, and model quality thresholds.
+
   ## Documentation
   [License_plate_detection.pdf](https://github.com/user-attachments/files/28156846/License_plate_detection.pdf)
 
